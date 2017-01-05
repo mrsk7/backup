@@ -1,0 +1,1000 @@
+  997  clear
+  998  find / 'Documentation'
+  999  clear
+ 1000  ls /
+ 1001  ls lib
+ 1002  find / 'modules.txt'
+ 1003  find / 'linux/Documentation/kbuild'
+ 1004  find / 'linux/Documentation/kbuild/modules.txt'
+ 1005  man find
+ 1006  find / -path 'linux/Documentation/kbuild'
+ 1007  find / -name 'modules.txt'
+ 1008  man make
+ 1009  ls /
+ 1010  ls bin
+ 1011  ls -lsa
+ 1012  ls /bin -lsa
+ 1013  man false
+ 1014  ls
+ 1015  ls /etc
+ 1016  ls
+ 1017  ls /selinux
+ 1018  ls
+ 1019  ls /selinux/
+ 1020  ls /lib
+ 1021  find / -name='ex2'
+ 1022  find / -name 'ex2'
+ 1023  exit
+ 1024  ls
+ 1025  grep crdrvdata_lock ./*
+ 1026  ctags
+ 1027  man ctags
+ 1028  ctags ./*
+ 1029  ls
+ 1030  ls ~ -la
+ 1031  vim ~/.inputrc
+ 1032  vim ~/.vimrc
+ 1033  exit
+ 1034  cd ../../..
+ 1035  ls
+ 1036  cd helpcode-lunix-tng-20130319/
+ 1037  ls
+ 1038  cd l
+ 1039  ls -la
+ 1040  cd ../..
+ 1041  ls
+ 1042  cd /home/user
+ 1043  ls
+ 1044  cd /home
+ 1045  ls
+ 1046  cd cslab
+ 1047  ls
+ 1048  cd ..
+ 1049  cd /home -name 'lunix'
+ 1050  find /home -name 'lunix'
+ 1051  find /home -name 'Music'
+ 1052  find /home -name 'crypto-ioctl'
+ 1053  man find
+ 1054  find / -name 'Music'
+ 1055  clear
+ 1056  ls
+ 1057  find / -path '/home/user'
+ 1058  clear
+ 1059  su -
+ 1060  ls
+ 1061  cd ~/Desktop/helpcode-lunix-tng-20130319/
+ 1062  ls
+ 1063  ls -la
+ 1064  ls -lsa
+ 1065  vim linux-image 
+ 1066  exit
+ 1067  ls
+ 1068  grep list_for_each_entry ./*
+ 1069  man non_seekable_open
+ 1070  mann nonseekable_open
+ 1071  man nonseekable_open
+ 1072  echo $LANG
+ 1073  echo $LC_*
+ 1074  clear
+ 1075  ls
+ 1076  man 2 open
+ 1077  grep sg_init_one ./*
+ 1078  man 2 cpu_relax
+ 1079  ls
+ 1080  vim crypto-module.c
+ 1081  grep file_operations ./*
+ 1082  ~ls
+ 1083  ls
+ 1084  clear5
+ 1085  clear
+ 1086  ls
+ 1087  vim crypto-vq.c
+ 1088  exit
+ 1089  cd ~/Desktop/ex2/cryptodev/
+ 1090  ls
+ 1091  vim under_construction.c 
+ 1092  exit
+ 1093  cd ../qemu/hw
+ 1094  ls
+ 1095  vim virtio-crypto.h
+ 1096  ls
+ 1097  grep DO_UPCAST ./*
+ 1098  cd /home/user/qemu/
+ 1099  ls
+ 1100  cd ..
+ 1101  wget http://wiki.qemu-project.org/download/qemu-1.2.0.tar.bz2
+ 1102  ls
+ 1103  exit
+ 1104  cd ../qemu/hw/
+ 1105  ls
+ 1106  cd /home/user
+ 1107  ls
+ 1108  rm qemu-1.2.0.tar.bz2 
+ 1109  exit
+ 1110  ls
+ 1111  cd /home/user/utopia/utopia/
+ 1112  ls
+ 1113  ./utopia.sh 
+ 1114  su
+ 1115  exit
+ 1116  cd ../qemu/hw
+ 1117  ls
+ 1118  vim virtio-crypto.h
+ 1119  man 3 g_malloc
+ 1120  ls
+ 1121  vim virtio-crypto.h
+ 1122  exit
+ 1123  ls
+ 1124  cd ../qemu/hw
+ 1125  ls
+ 1126  vim virtio-crypto.c
+ 1127  ctags ./*
+ 1128  ls
+ 1129  vim virtio-crypto.c
+ 1130  exit
+ 1131  ls
+ 1132  vim crypto-chrdev.h
+ 1133  ls
+ 1134  vim cryptodev.h
+ 1135  vim crypto.h
+ 1136  exit
+ 1137  ls
+ 1138  rm myfifo
+ 1139  ls
+ 1140  vim Makefile
+ 1141  clear
+ 1142  ls
+ 1143  make clean
+ 1144  clear
+ 1145  ls
+ 1146  gedit crypto-chrdev.c
+ 1147  ls
+ 1148  vim crypto-chrdev.c
+ 1149  exit
+ 1150  shutdown -r now
+ 1151  su
+ 1152  ssh -p 22223 root@localhost
+ 1153  l
+ 1154  ls
+ 1155  vim crypto-chrdev.c
+ 1156  ls
+ 1157  exit
+ 1158  exit
+ 1159  ls
+ 1160  vim cryptodev.c
+ 1161  vim crypto-chrdev.c
+ 1162  grep crdrvdata ./*
+ 1163  vim crypto-module.c 
+ 1164  ls
+ 1165  grep virtio-crypto-init ./*
+ 1166  grep virtio_crypto_init ./*
+ 1167  grep control_out_intr ./*
+ 1168  vim crypto-module.c
+ 1169  exit
+ 1170  cd ../qemu/hw
+ 1171  ls
+ 1172  vim cryptodev.h 
+ 1173  vim virtio-crypto.c
+ 1174  vim virtio-crypto.h
+ 1175  vim virtio-crypto.c
+ 1176  ls
+ 1177  vim virtio-pci.c
+ 1178  grep control_out ./*
+ 1179  vim virtio-crypto.c
+ 1180  vim virtio-crypto.h
+ 1181  vim virtio-crypto.c
+ 1182  exit
+ 1183  ssh -p 22223 root@localhost
+ 1184  exit
+ 1185  cd ~/Desktop/helpcode-lunix-tng-20130319/
+ 1186  ls
+ 1187  man sshfs
+ 1188  cd ../cryptodev-linux-1.6/
+ 1189  ls
+ 1190  cd ../ex2/
+ 1191  ls
+ 1192  cd virtualization/
+ 1193  ls
+ 1194  uname -m
+ 1195  exit
+ 1196  cd ../..
+ 1197  ls
+ 1198  wget http://www.cslab.ece.ntua.gr/courses/compsyslab/files/2012-13/virtio-crypto-helpcode-20130530-1.tar.gz
+ 1199  tar xf virtio-crypto-helpcode-20130530-1.tar.gz 
+ 1200  ls
+ 1201  rm virtio-crypto-helpcode-20130530-1.tar.gz 
+ 1202  cd virtualization/
+ 1203  ls
+ 1204  cd ..
+ 1205  rm virtualization/* -r
+ 1206  ls virtualization/
+ 1207  cp qemu/ virtualization/
+ 1208  ls virtualization/
+ 1209  cd virtualization/
+ 1210  cd ..
+ 1211  cp ./qemu/ -r ./virtualization/qemu
+ 1212  ls virtualization/
+ 1213  cp ./guest/ -r ./virtualization/guest
+ 1214  rm guest; rm qemu/
+ 1215  rm -r guest
+ 1216  rm -r qemu/
+ 1217  cd virtualization/
+ 1218  ls
+ 1219  cd qemu/
+ 1220  ls
+ 1221  cd hw
+ 1222  cp ./* /home/user/qemu-1.2.0/hw/
+ 1223  ls
+ 1224  exit
+ 1225  cd /home/user/qemu/
+ 1226  ls
+ 1227  cd ..
+ 1228  ls
+ 1229  wget http://wiki.qemu-project.org/download/qemu-1.2.0.tar.bz2
+ 1230  ls
+ 1231  tar xjvf qemu-1.2.0.tar.bz2 
+ 1232  ls
+ 1233  rm qemu-1.2.0.tar.bz2 
+ 1234  cd qemu-1.2.0/
+ 1235  ls
+ 1236  cd hw
+ 1237  ls
+ 1238  ./configure --prefix=/home/user/qemu --enable-kvm --target-list=x86_64-softmmu
+ 1239  cd ..
+ 1240  ls
+ 1241  ./configure --prefix=/home/user/qemu --enable-kvm --target-list=x86_64-softmmu
+ 1242  make
+ 1243  cd ..
+ 1244  ls
+ 1245  rm -r qemu
+ 1246  su
+ 1247  cd qemu
+ 1248  ls
+ 1249  cd ..
+ 1250  cd qemu-1.2.0/
+ 1251  ls
+ 1252  ./configure --prefix=/home/user/qemu --enable-kvm --target-list=x86_64-softmmu
+ 1253  make
+ 1254  make install
+ 1255  su
+ 1256  exit
+ 1257  rm select.c
+ 1258  exit
+ 1259  ls
+ 1260  cd ../..
+ 1261  ls
+ 1262  cd cryptodev/
+ 1263  ls
+ 1264  cd ../..
+ 1265  ls
+ 1266  cd cryptodev-linux-1.6/
+ 1267  ls
+ 1268  insmod ./cryptodev.ko
+ 1269  su
+ 1270  exit
+ 1271  ls /home/user/qemu-1.2.0/hw
+ 1272  exit
+ 1273  ls
+ 1274  vim crypto_dev_nodes.sh 
+ 1275  exit
+ 1276  ls
+ 1277  vim crypto_dev_nodes.sh 
+ 1278  exit
+ 1279  ls
+ 1280  ctags ./*
+ 1281  ls
+ 1282  man ctags
+ 1283  ls
+ 1284  vim all_ctags.sh
+ 1285  chmod +x all_ctags.sh
+ 1286  man ctags
+ 1287  gcc -M
+ 1288  gcc -M crypto-chrdev.c
+ 1289  ls
+ 1290  gcc -M crypto-chrdev.c
+ 1291  make
+ 1292  ls
+ 1293  clear
+ 1294  cd ~/utopia/
+ 1295  ls
+ 1296  rm utopia-20130319-1.tar.bz2
+ 1297  cd utopia/
+ 1298  ls
+ 1299  ./utopia.sh
+ 1300  su
+ 1301  exit
+ 1302  cd /home/user
+ 1303  ls
+ 1304  cd qemu-1.2.0/
+ 1305  cd hw
+ 1306  ls
+ 1307  grep virtqueue_add_buf ./*
+ 1308  vim virtio.c
+ 1309  cd ~/Desktop/ex2/virtualization/qemu/
+ 1310  ls
+ 1311  cd hw/
+ 1312  ls
+ 1313  clear
+ 1314  ls
+ 1315  grep virtio_crypto_init ./*
+ 1316  vim virtio-crypto.c
+ 1317  cp ./virtio-crypto.c ~/qemu-1.2.0/hw/.
+ 1318  vim /home/user/qemu-1.2.0/hw/virtio-crypto.c
+ 1319  vim virtio-crypto.c
+ 1320  man cp
+ 1321  vim virtio-crypto.c
+ 1322  cp ./virtio-crypto.c ../a.c
+ 1323  vim ../a.c
+ 1324  man cp
+ 1325  cp ./virtio-crypto.c ../a.c -v
+ 1326  cp ./virtio-crypto.c ../a.c -u -v
+ 1327  cp ./virtio-crypto.c /home/user/qemu-1.2.0/hw/virtio-crypto.c -u -v
+ 1328  vim /home/user/qemu-1.2.0/hw/virtio-crypto.c
+ 1329  cd ~/Desktop/ex2/virtualization/qemu/hw
+ 1330  cd ..
+ 1331  rm a.c
+ 1332  cd hw
+ 1333  ls
+ 1334  vim update-source.sh
+ 1335  man cp
+ 1336  vim update-source.sh
+ 1337  chmod +x update-source.sh
+ 1338  ls
+ 1339  ./update-source.sh
+ 1340  vim update-source.sh
+ 1341  ./update-source.sh
+ 1342  su
+ 1343  exit
+ 1344  ssh -p 22223 root@localhost
+ 1345  exit
+ 1346  man gcc
+ 1347  man gcc | grep -M
+ 1348  man gcc | grep '-M'
+ 1349  man gcc | grep "-M"
+ 1350  ls
+ 1351  rm tags
+ 1352  ./all_ctags.sh 
+ 1353  ./all_ctags.sh ./*.c
+ 1354  ls
+ 1355  vim tags
+ 1356  rm tags
+ 1357  rm all_ctags.sh
+ 1358  clear
+ 1359  cd ~/qemu-1.2.0/
+ 1360  ls
+ 1361  cd hw
+ 1362  ls
+ 1363  ctags -R
+ 1364  vim tags
+ 1365  cd ~/Desktop/ex2/virtualization/guest/
+ 1366  ls
+ 1367  man ctags
+ 1368  ctags -r --etags-include=~/qemu-1.2.0/hw/tags
+ 1369  ctags -R --etags-include=~/qemu-1.2.0/hw/tags
+ 1370  man ctags
+ 1371  rm tags
+ 1372  ls
+ 1373  cp ~/qemu-1.2.0/hw/tags ./
+ 1374  ls
+ 1375  vim tags
+ 1376  vim ~/.vimrc
+ 1377  ls
+ 1378  vim crypto-chrdev.c
+ 1379  ctags -R
+ 1380  vim tags
+ 1381  vim crypto-chrdev.c
+ 1382  vim ~/.vimrc
+ 1383  vim crypto-chrdev.c
+ 1384  clear
+ 1385  ls
+ 1386  vim crypto-chrdev.c
+ 1387  grep virtcons ./*
+ 1388  vim crypto-module.c
+ 1389  vim crypto-chrdev.c
+ 1390  exit
+ 1391  ls
+ 1392  vim crypto-module.c 
+ 1393  grep control_out_intr ./*
+ 1394  vim crypto-module.c 
+ 1395  exit
+ 1396  cd /home/user/qemu-1.2.0/hw
+ 1397  ls
+ 1398  rm update-source.sh
+ 1399  clear
+ 1400  man cp
+ 1401  ls
+ 1402  cd ~/Desktop/ex2/virtualization/qemu/hw
+ 1403  ls
+ 1404  man cp
+ 1405  vim update_source.sh 
+ 1406  cd ~/
+ 1407  ls
+ 1408  cd qemu-1.2.0/
+ 1409  ls
+ 1410  cd hw
+ 1411  echo $PWD
+ 1412  ls
+ 1413  cdexit
+ 1414  exit
+ 1415  lsmod
+ 1416  cat /dev
+ 1417  ls /dev
+ 1418  exit
+ 1419  ls
+ 1420  cp ./crypto* ~/Desktop/
+ 1421  exit
+ 1422  ls
+ 1423  cd /home/user/qemu-1.2.0/hw
+ 1424  ls
+ 1425  cat tags
+ 1426  ctags ./virtio*
+ 1427  vim ~/.vimrc
+ 1428  exit
+ 1429  cd /usr
+ 1430  ls
+ 1431  cd include/
+ 1432  ls
+ 1433  vim stdio.h
+ 1434  vim semaphore.h
+ 1435  cd linux
+ 1436  ls
+ 1437  vim semaphore.h
+ 1438  grep init_MUTEX ./*
+ 1439  cd ..
+ 1440  ls
+ 1441  grep init_MUTEX ./*
+ 1442  man grep
+ 1443  grep -r ./*
+ 1444  grep -r ./* semaphore
+ 1445  man grep
+ 1446  grep -r semaphore ./*
+ 1447  grep -r init_MUTEX ./*
+ 1448  cd /
+ 1449  grep -r init_MUTEX ./*
+ 1450  cd /usr
+ 1451  ls
+ 1452  cd lib
+ 1453  ls
+ 1454  cd ..
+ 1455  ls
+ 1456  grep -r init_MUTEX ./*
+ 1457  cd include/
+ 1458  ls
+ 1459  grep -r init_MUTEX ./*
+ 1460  grep -r MUTEX ./*
+ 1461  grep -r struct semaphore ./*
+ 1462  grep -r 'struct semaphore' ./*
+ 1463  grep -r '' ./*
+ 1464  grep -r 'DEFINE_SPINLOCK' ./*
+ 1465  cd linux
+ 1466  ls
+ 1467  vim semaphore.h
+ 1468  cd ..
+ 1469  vim semaphore.h 
+ 1470  cd linux/
+ 1471  ls
+ 1472  vim fs.h
+ 1473  vim kernel.h
+ 1474  vim module.h
+ 1475  cd ..
+ 1476  grep -r DEFINE_SPINLOCK ./*
+ 1477  cd /usr
+ 1478  ls
+ 1479  cd local
+ 1480  ls
+ 1481  cd include
+ 1482  ls
+ 1483  ls -la
+ 1484  cd ../src
+ 1485  ls
+ 1486  cd ..
+ 1487  cd /usr
+ 1488  ls
+ 1489  cd lib
+ 1490  ls
+ 1491  cd gcc-lib
+ 1492  cd gcc
+ 1493  ls
+ 1494  cd x86_64-linux-gnu/
+ 1495  ls
+ 1496  ls -la
+ 1497  cd 4.7
+ 1498  ls
+ 1499  cd include
+ 1500  ls
+ 1501  cd ..
+ 1502  ls
+ 1503  grep -r DEFINE_SPINLOCK ./*
+ 1504  ls /usr
+ 1505  cd src
+ 1506  ls
+ 1507  grep -r DEFINE_SPINLOCK ./*
+ 1508  cd /home/user/Desktop/ex2
+ 1509  grep -r DEFINE_SPINLOCK ./*
+ 1510  ls
+ 1511  vim test.c
+ 1512  gcc test.c -o test
+ 1513  vim test.c
+ 1514  gcc test.c -o test
+ 1515  vim test.c
+ 1516  gcc test.c -o test
+ 1517  vim test.c
+ 1518  gcc test.c -o test
+ 1519  vim test.c
+ 1520  gcc test.c -o test
+ 1521  echo $C_INCLUDE_PATH
+ 1522  set
+ 1523  man set
+ 1524  man export
+ 1525  vim test.c
+ 1526  gcc test.c -o test
+ 1527  echo $INC
+ 1528  echo $PATH
+ 1529  cd /usr/local/sbin
+ 1530  ls
+ 1531  cd ..
+ 1532  ls
+ 1533  cd games/
+ 1534  ls
+ 1535  cd /usr
+ 1536  ls
+ 1537  cd bin/
+ 1538  ls
+ 1539  cd ..
+ 1540  ls
+ 1541  cd ..
+ 1542  ls
+ 1543  rm test.c
+ 1544  cd virtualization/guest/
+ 1545  ls
+ 1546  cd ../qemu/hw
+ 1547  ls
+ 1548  cd ../qemu/hw
+ 1549  ls
+ 1550  ./run-utopia.sh 
+ 1551  su
+ 1552  exit
+ 1553  shutdown now
+ 1554  su
+ 1555  cd ../qemu/hw
+ 1556  ls
+ 1557  cp -t /home/user/qemu-1.2.0/hw cryptodev.h Makefile.objs pci.h virtio-crypto.h
+ 1558  vim update_source.sh 
+ 1559  ls
+ 1560  vim virtio-crypto.c
+ 1561  grep virtio_crypto_init ./*
+ 1562  vim virtio-pci.c
+ 1563  vim virtio-crypto.c
+ 1564  ls
+ 1565  ctags cryptodev.h pci.h virtio-crypto.c virtio-crypto.h virtio-pci.c
+ 1566  vim ~/.vimrc
+ 1567  vim virtio-crypto.c
+ 1568  cd /home/user/Documents/
+ 1569  ls
+ 1570  cd helpcode-lunix-tng-20130319/
+ 1571  ls
+ 1572  make
+ 1573  make clean
+ 1574  sudo apt-get update
+ 1575  sudo apt-get upgrade
+ 1576  ls
+ 1577  cd ../..
+ 1578  cd d
+ 1579  ls
+ 1580  cd Desktop/
+ 1581  ls
+ 1582  cd ex3
+ 1583  cd ex2/
+ 1584  ls
+ 1585  gcc test.c 
+ 1586  vim test.c 
+ 1587  gcc test.c 
+ 1588  l
+ 1589  ls
+ 1590  cd /
+ 1591  ls
+ 1592  cd lib
+ 1593  ls
+ 1594  cd ..
+ 1595  ls
+ 1596  cd home
+ 1597  ls
+ 1598  cd user/
+ 1599  ls
+ 1600  cd ../..
+ 1601  ls
+ 1602  cd s
+ 1603  cd sys/
+ 1604  ls
+ 1605  cd kernel/
+ 1606  ls
+ 1607  cd ..
+ 1608  ld
+ 1609  l
+ 1610  cd ..
+ 1611  ls
+ 1612  cd root/
+ 1613  ;s
+ 1614  cd ~
+ 1615  ls
+ 1616  rm linux-2.6.37.4/
+ 1617  rm linux-2.6.37.4/ -r
+ 1618  ls
+ 1619  cd ../qemu/
+ 1620  ls
+ 1621  cd hw
+ 1622  ls
+ 1623  clear
+ 1624  vim update-source.sh 
+ 1625  ./update-source.sh 
+ 1626  vim update-source.sh 
+ 1627  ls
+ 1628  vim update-source.sh 
+ 1629  ./update-source.sh 
+ 1630  vim update-source.sh 
+ 1631  ./update-source.sh 
+ 1632  vim update-source.sh 
+ 1633  ./update-source.sh 
+ 1634  vim update-source.sh 
+ 1635  ./update-source.sh 
+ 1636  su
+ 1637  ./update-source.sh
+ 1638  ls
+ 1639  vim update-source.sh 
+ 1640  ls -a
+ 1641  vim virtio-crypto.c
+ 1642  cp virtio-crypto.c ../a.c
+ 1643  rm ./*
+ 1644  rm -r ./*
+ 1645  ls
+ 1646  cd ..
+ 1647  ls
+ 1648  cd hw
+ 1649  l
+ 1650  ls
+ 1651  cp ../a.c ./virtio-crypto.c
+ 1652  vim virtio-crypto.c
+ 1653  vim update_source.sh
+ 1654  chmod +x update_source.sh 
+ 1655  ls
+ 1656  vim update_source.sh
+ 1657  ./update_source.sh 
+ 1658  vim update_source.sh
+ 1659  ./update_source.sh 
+ 1660  clear
+ 1661  ls
+ 1662  vim virtio-crypto.
+ 1663  vim virtio-crypto.c
+ 1664  vim update_source.sh 
+ 1665  ./update_source.sh 
+ 1666  vim update_source.sh 
+ 1667  ./update_source.sh 
+ 1668  su
+ 1669  ls
+ 1670  vim crypto-chrdev.c
+ 1671  vim crypto-module.c 
+ 1672  vim crypto-chrdev.c
+ 1673  vim crypto-module.c 
+ 1674  vim crypto-chrdev.c
+ 1675  vim crypto-module.c 
+ 1676  ssh -p 22223 root@localhost
+ 1677  su
+ 1678  cd /home/user/qemu-1.2.0/
+ 1679  ls
+ 1680  cd hw
+ 1681  ls
+ 1682  cd ..
+ 1683  cd hw
+ 1684  vim virtio-crypto.c
+ 1685  ./configure --prefix=/home/user/qemu --enable-kvm --target-list=x86_64-softmmu
+ 1686  cd ..
+ 1687  su
+ 1688  clear
+ 1689  ./configure --prefix=/home/user/qemu --enable-kvm --target-list=x86_64-softmmu
+ 1690  make
+ 1691  cd hw
+ 1692  ls
+ 1693  cd ..
+ 1694  ls
+ 1695  su rm qemu-1.2.0/ -r
+ 1696  su
+ 1697  man proc
+ 1698  man tr
+ 1699  ls
+ 1700  grep VIRTIO_CRYPTO_DEVICE ./*
+ 1701  vim crypto.h
+ 1702  vim crypto-chrdev.
+ 1703  vim crypto-chrdev.c
+ 1704  cd ~/Desktop/cryptodev-linux-1.6/
+ 1705  ls
+ 1706  insmod ./cryptodev.ko
+ 1707  su
+ 1708  exit
+ 1709  ls
+ 1710  exit
+ 1711  ls
+ 1712  rm test.c
+ 1713  vim test_crypto.c
+ 1714  exit
+ 1715  ls
+ 1716  cd ../qemu/hw
+ 1717  ls
+ 1718  grep control_in ./*
+ 1719  exit
+ 1720  ssh -p 22223 root@localhost
+ 1721  l
+ 1722  ls
+ 1723  su
+ 1724  cd ../qemu/hw
+ 1725  ls
+ 1726  vim virtio-crypto.c
+ 1727  vim virtio-crypto.h
+ 1728  vim virtio-crypto.c
+ 1729  ls
+ 1730  grep ioctl ./*
+ 1731  vim virtio-crypto.c
+ 1732  vim crypto-module.c 
+ 1733  ls
+ 1734  vim crypto-chrdev.c
+ 1735  vim crypto-chrdev.h
+ 1736  vim crypto-ioctl.h
+ 1737  vim crypto-vq.h
+ 1738  vim crypto-module.c 
+ 1739  ssh -p 22223 root@localhost
+ 1740  ls
+ 1741  grep sg_init_one ./*
+ 1742  vim crypto-chrdev.c
+ 1743  ls
+ 1744  vim crypto-vq.c
+ 1745  cd ..
+ 1746  ls
+ 1747  cd qemu//hw/
+ 1748  ls
+ 1749  vim update_source.sh 
+ 1750  vim run-utopia.sh 
+ 1751  vim virtio-crypto.
+ 1752  vim virtio-crypto.c
+ 1753  vim virtio-pci.c 
+ 1754  ls
+ 1755  cd ..
+ 1756  ls
+ 1757  cd guest/
+ 1758  ls
+ 1759  vim test_crypto
+ 1760  vim insert_module_attach_nodes.sh 
+ 1761  vim crypto_dev_nodes.sh 
+ 1762  ls
+ 1763  vim crypto-chrdev.c 
+ 1764  ks
+ 1765  ls
+ 1766  vim crypto-module.c 
+ 1767  ls
+ 1768  lsmod
+ 1769  cd ..
+ 1770  ls
+ 1771  cd ~/Desktop/
+ 1772  ls
+ 1773  cd cryptodev-linux-1.6/
+ 1774  ls
+ 1775  insmod ./cryptodev.ko
+ 1776  su
+ 1777  exit
+ 1778  man 3 memcpy
+ 1779  exit
+ 1780  man 2 ioctl
+ 1781  exit
+ 1782  cd /home/user/qemu-1.2.0/hw
+ 1783  ls
+ 1784  vim iov.h
+ 1785  cd ~/Desktop/ex2/virtualization/qemu/hw
+ 1786  ls
+ 1787  vim virtio-crypto.c
+ 1788  cd /home/user/qemu-1.2.0
+ 1789  grep -r iov_from_buf ./*
+ 1790  vim iov.c
+ 1791  vim iov.h
+ 1792  exit
+ 1793  cd /home/user/qemu-1.2.0/
+ 1794  vim iov.c
+ 1795  vim iov.h
+ 1796  vim iov.c
+ 1797  exit
+ 1798  cd ~/Desktop/cryptodev-linux-1.6/
+ 1799  ls
+ 1800  insmod ./cryptodev.ko
+ 1801  lsmod
+ 1802  su
+ 1803  exit
+ 1804  ls
+ 1805  cd ../qemu/hw/
+ 1806  ls
+ 1807  vim virtio-crypto.c
+ 1808  ./run-utopia.sh 
+ 1809  su
+ 1810  exit
+ 1811  man brk
+ 1812  man 3 end
+ 1813  man objdump
+ 1814  man pthread_create
+ 1815  man 2 clone
+ 1816  histort
+ 1817  history
+ 1818  dmesg
+ 1819  clear
+ 1820  ls
+ 1821  cd ../..
+ 1822  ls
+ 1823  cd sockets/
+ 1824  ls
+ 1825  vim no_imagination.c
+ 1826  vim socket-client.c
+ 1827  cd ..
+ 1828  ls
+ 1829  vim cryptodev/
+ 1830  cd cryptodev/
+ 1831  ls
+ 1832  vim crypto-test.c
+ 1833  cd ..
+ 1834  ls
+ 1835  cd ..
+ 1836  ls
+ 1837  cd cryptodev-linux-1.6/
+ 1838  ls
+ 1839  vim ioctl.c 
+ 1840  cd examples/
+ 1841  ls
+ 1842  vim aes.c
+ 1843  ctags ./*
+ 1844  ls
+ 1845  vim aes.c
+ 1846  cd ..
+ 1847  ls
+ 1848  ctags ./*
+ 1849  vim ioctl.c
+ 1850  exit
+ 1851  ssh -p 22223 root@localhost
+ 1852  clear
+ 1853  ssh -p 22223 root@localhost
+ 1854  ls
+ 1855  make
+ 1856  clear
+ 1857  ssh -p 22223 root@localhost
+ 1858  dmesg
+ 1859  halt
+ 1860  ssh -p 22223 root@localhost
+ 1861  vim test_crypto.c
+ 1862  ssh -p 22223 root@localhost
+ 1863  ls
+ 1864  ssh -p 22223 root@localhost
+ 1865  exit
+ 1866  ssh -p 22223 root@localhost
+ 1867  ls
+ 1868  ssh -p 22223 root@localhost
+ 1869  ssh -p 22223 root@localhost
+ 1870  exit
+ 1871  vim crypto-ioctl.
+ 1872  vim crypto-ioctl.c
+ 1873  vim crypto-vq.c
+ 1874  vim test_crypto.c
+ 1875  vim crypto-ioctl.c
+ 1876  vim crypto-vq.c
+ 1877  vim crypto-ioctl.c
+ 1878  vim test_crypto.c
+ 1879  vim virtio_crypto.c
+ 1880  ls
+ 1881  vim crypto-ioctl.c
+ 1882  vim crypto-chrdev.c
+ 1883  vim crypto-ioctl.c
+ 1884  vim crypto-ioctl.c\
+ 1885  vim crypto-ioctl.c
+ 1886  exit
+ 1887  vim test_crypto.c
+ 1888  ls
+ 1889  make
+ 1890  vim test_crypto.c
+ 1891  dmesg
+ 1892  dmesg > dmesg
+ 1893  vim dmesg
+ 1894  dmesg -c
+ 1895  vim test_crypto.c
+ 1896  exit
+ 1897  cd ../hw
+ 1898  ls
+ 1899  cd ../qemu/hw
+ 1900  ls
+ 1901  su
+ 1902  cd ../qemu/hw
+ 1903  vim virtio-crypto.c
+ 1904  ./update_source.sh 
+ 1905  vim virtio-crypto.c
+ 1906  ./update_source.sh 
+ 1907  ./run-utopia.sh 
+ 1908  ssh -p 22223 root@localhost
+ 1909  ls
+ 1910  vim virtio-crypto.c 
+ 1911  ls
+ 1912  vim virtio-crypto.c 
+ 1913  shutdown -r now
+ 1914  su
+ 1915  cd ../../..
+ 1916  ls
+ 1917  cd cryptodev-linux-1.6/
+ 1918  ls
+ 1919  insmod ./cryptodev.ko
+ 1920  su
+ 1921  exit
+ 1922  cd ~/Desktop/
+ 1923  ls
+ 1924  vim test.c
+ 1925  gcc test.c -o test
+ 1926  ./test
+ 1927  exit
+ 1928  ssh -p 22223 root@localhost
+ 1929  exit
+ 1930  ls
+ 1931  cd ../qemu/hw
+ 1932  ls
+ 1933  ./run-utopia.sh 
+ 1934  su
+ 1935  cd ../qemu/hw
+ 1936  ls
+ 1937  vim virtio-crypto.c
+ 1938  ssh -p 22223 root@localhost 
+ 1939  ls
+ 1940  vim crypto-ioctl.c
+ 1941  ls
+ 1942  vim test_crypto.c
+ 1943  vim crypto-chrdev.c
+ 1944  vim crypto-vq.c
+ 1945  vim crypto-module.c
+ 1946  vim crypto-chrdev.c
+ 1947  vim test_crypto.c
+ 1948  memcpy
+ 1949  man memcpy
+ 1950  strdup
+ 1951  man strdup
+ 1952  man syslog
+ 1953  ls /etc
+ 1954  vim /etc/rsyslog.conf
+ 1955  cd /var/log
+ 1956  ls
+ 1957  vim /etc/rsyslog.conf
+ 1958  vim /usr/share/doc/rsyslog-doc/html/rsyslog_conf.html
+ 1959  cd /usr/share/doc/rsyslog-doc/html
+ 1960  man syslogd
+ 1961  syslogd
+ 1962  syslog
+ 1963  su-
+ 1964  su
+ 1965  dmesg -c
+ 1966  ssh -p 22223 root@localhost
+ 1967  cd ../..
+ 1968  ls
+ 1969  cd virtualization/
+ 1970  cd qemu/
+ 1971  ls
+ 1972  cd hw/
+ 1973  ls
+ 1974  vim virtio-crypto.c
+ 1975  ls
+ 1976  vim crypto-ioctl.c
+ 1977  syslog
+ 1978  syslogs
+ 1979  syslogd
+ 1980  vim crypto-ioctl.c
+ 1981  cd ..
+ 1982  cd q
+ 1983  cd h
+ 1984  cd qemu/
+ 1985  cd hw/
+ 1986  ls
+ 1987  ./update_source.sh 
+ 1988  ./run-utopia.sh 
+ 1989  su
+ 1990  cd ~/.vimrc
+ 1991  vim ~./vimrc
+ 1992  vim ~/.vimrc
+ 1993  exit
+ 1994  grep 'is not a head' ./*
+ 1995  find / -path '/home/user'
+ 1996  history > history

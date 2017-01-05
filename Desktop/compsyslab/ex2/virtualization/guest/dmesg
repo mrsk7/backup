@@ -1,0 +1,1989 @@
+[ 5464.364388] fini: Entering
+[ 5464.364398] crypto_chrdev_destroy: entering
+[ 5464.364416] crypto_chrdev_destroy: leaving
+[ 5464.364459] virtcons_remove: Entering
+[ 5464.382488] virtcons_remove: Leaving
+[ 5464.392793] fini: Leaving
+[ 5471.065225] init: Entering
+[ 5471.065234] crypto_chrdev_init: initializing character device
+[ 5471.065249] crypto_chrdev_init: completed successfully
+[ 5471.065253] 1
+[ 5471.065799] virtcons_probe: Entering
+[ 5471.068750] virtio-pci 0000:00:04.0: irq 42 for MSI/MSI-X
+[ 5471.069028] virtio-pci 0000:00:04.0: irq 43 for MSI/MSI-X
+[ 5471.069358] virtio-pci 0000:00:04.0: irq 44 for MSI/MSI-X
+[ 5471.069730] virtio-pci 0000:00:04.0: irq 45 for MSI/MSI-X
+[ 5471.070004] virtio-pci 0000:00:04.0: irq 46 for MSI/MSI-X
+[ 5471.076924] fill_queue: Entering
+[ 5471.076929] alloc_buf: Entering
+[ 5471.076935] alloc_buf: Leaving
+[ 5471.076938] add_inbuf: Entering
+[ 5471.077879] add_inbuf: Leaving
+[ 5471.077884] alloc_buf: Entering
+[ 5471.077900] alloc_buf: Leaving
+[ 5471.077902] add_inbuf: Entering
+[ 5471.077907] add_inbuf: Leaving
+[ 5471.077909] alloc_buf: Entering
+[ 5471.077915] alloc_buf: Leaving
+[ 5471.077917] add_inbuf: Entering
+[ 5471.077920] add_inbuf: Leaving
+[ 5471.077923] alloc_buf: Entering
+[ 5471.077928] alloc_buf: Leaving
+[ 5471.077931] add_inbuf: Entering
+[ 5471.077934] add_inbuf: Leaving
+[ 5471.077936] alloc_buf: Entering
+[ 5471.077942] alloc_buf: Leaving
+[ 5471.077945] add_inbuf: Entering
+[ 5471.077947] add_inbuf: Leaving
+[ 5471.077950] alloc_buf: Entering
+[ 5471.078022] alloc_buf: Leaving
+[ 5471.078026] add_inbuf: Entering
+[ 5471.078029] add_inbuf: Leaving
+[ 5471.078032] alloc_buf: Entering
+[ 5471.078098] alloc_buf: Leaving
+[ 5471.078102] add_inbuf: Entering
+[ 5471.078106] add_inbuf: Leaving
+[ 5471.078108] alloc_buf: Entering
+[ 5471.078118] alloc_buf: Leaving
+[ 5471.078121] add_inbuf: Entering
+[ 5471.078124] add_inbuf: Leaving
+[ 5471.078126] alloc_buf: Entering
+[ 5471.078132] alloc_buf: Leaving
+[ 5471.078134] add_inbuf: Entering
+[ 5471.078137] add_inbuf: Leaving
+[ 5471.078140] alloc_buf: Entering
+[ 5471.078145] alloc_buf: Leaving
+[ 5471.078148] add_inbuf: Entering
+[ 5471.078151] add_inbuf: Leaving
+[ 5471.078153] alloc_buf: Entering
+[ 5471.078160] alloc_buf: Leaving
+[ 5471.078162] add_inbuf: Entering
+[ 5471.078165] add_inbuf: Leaving
+[ 5471.078168] alloc_buf: Entering
+[ 5471.078173] alloc_buf: Leaving
+[ 5471.078176] add_inbuf: Entering
+[ 5471.078179] add_inbuf: Leaving
+[ 5471.078181] alloc_buf: Entering
+[ 5471.078187] alloc_buf: Leaving
+[ 5471.078190] add_inbuf: Entering
+[ 5471.078192] add_inbuf: Leaving
+[ 5471.078195] alloc_buf: Entering
+[ 5471.078208] alloc_buf: Leaving
+[ 5471.078210] add_inbuf: Entering
+[ 5471.078213] add_inbuf: Leaving
+[ 5471.078216] alloc_buf: Entering
+[ 5471.078222] alloc_buf: Leaving
+[ 5471.078224] add_inbuf: Entering
+[ 5471.078227] add_inbuf: Leaving
+[ 5471.078230] alloc_buf: Entering
+[ 5471.078301] alloc_buf: Leaving
+[ 5471.078305] add_inbuf: Entering
+[ 5471.078308] add_inbuf: Leaving
+[ 5471.078311] alloc_buf: Entering
+[ 5471.078320] alloc_buf: Leaving
+[ 5471.078322] add_inbuf: Entering
+[ 5471.078325] add_inbuf: Leaving
+[ 5471.078328] alloc_buf: Entering
+[ 5471.078333] alloc_buf: Leaving
+[ 5471.078336] add_inbuf: Entering
+[ 5471.078338] add_inbuf: Leaving
+[ 5471.078341] alloc_buf: Entering
+[ 5471.078347] alloc_buf: Leaving
+[ 5471.078350] add_inbuf: Entering
+[ 5471.078352] add_inbuf: Leaving
+[ 5471.078355] alloc_buf: Entering
+[ 5471.078361] alloc_buf: Leaving
+[ 5471.078364] add_inbuf: Entering
+[ 5471.078366] add_inbuf: Leaving
+[ 5471.078369] alloc_buf: Entering
+[ 5471.078374] alloc_buf: Leaving
+[ 5471.078377] add_inbuf: Entering
+[ 5471.078380] add_inbuf: Leaving
+[ 5471.078382] alloc_buf: Entering
+[ 5471.078388] alloc_buf: Leaving
+[ 5471.078390] add_inbuf: Entering
+[ 5471.078393] add_inbuf: Leaving
+[ 5471.078396] alloc_buf: Entering
+[ 5471.078401] alloc_buf: Leaving
+[ 5471.078403] add_inbuf: Entering
+[ 5471.078406] add_inbuf: Leaving
+[ 5471.078409] alloc_buf: Entering
+[ 5471.078415] alloc_buf: Leaving
+[ 5471.078418] add_inbuf: Entering
+[ 5471.078421] add_inbuf: Leaving
+[ 5471.078423] alloc_buf: Entering
+[ 5471.078429] alloc_buf: Leaving
+[ 5471.078431] add_inbuf: Entering
+[ 5471.078434] add_inbuf: Leaving
+[ 5471.078437] alloc_buf: Entering
+[ 5471.078442] alloc_buf: Leaving
+[ 5471.078445] add_inbuf: Entering
+[ 5471.078447] add_inbuf: Leaving
+[ 5471.078450] alloc_buf: Entering
+[ 5471.078516] alloc_buf: Leaving
+[ 5471.078520] add_inbuf: Entering
+[ 5471.078523] add_inbuf: Leaving
+[ 5471.078526] alloc_buf: Entering
+[ 5471.078536] alloc_buf: Leaving
+[ 5471.078538] add_inbuf: Entering
+[ 5471.078541] add_inbuf: Leaving
+[ 5471.078544] alloc_buf: Entering
+[ 5471.078550] alloc_buf: Leaving
+[ 5471.078553] add_inbuf: Entering
+[ 5471.078556] add_inbuf: Leaving
+[ 5471.078558] alloc_buf: Entering
+[ 5471.078564] alloc_buf: Leaving
+[ 5471.078566] add_inbuf: Entering
+[ 5471.078569] add_inbuf: Leaving
+[ 5471.078572] alloc_buf: Entering
+[ 5471.078578] alloc_buf: Leaving
+[ 5471.078581] add_inbuf: Entering
+[ 5471.078583] add_inbuf: Leaving
+[ 5471.078586] alloc_buf: Entering
+[ 5471.078591] alloc_buf: Leaving
+[ 5471.078594] add_inbuf: Entering
+[ 5471.078596] add_inbuf: Leaving
+[ 5471.078599] alloc_buf: Entering
+[ 5471.078604] alloc_buf: Leaving
+[ 5471.078607] add_inbuf: Entering
+[ 5471.078610] add_inbuf: Leaving
+[ 5471.078612] alloc_buf: Entering
+[ 5471.078618] alloc_buf: Leaving
+[ 5471.078620] add_inbuf: Entering
+[ 5471.078623] add_inbuf: Leaving
+[ 5471.078626] alloc_buf: Entering
+[ 5471.078631] alloc_buf: Leaving
+[ 5471.078634] add_inbuf: Entering
+[ 5471.078637] add_inbuf: Leaving
+[ 5471.078639] alloc_buf: Entering
+[ 5471.078645] alloc_buf: Leaving
+[ 5471.078648] add_inbuf: Entering
+[ 5471.078650] add_inbuf: Leaving
+[ 5471.078653] alloc_buf: Entering
+[ 5471.078658] alloc_buf: Leaving
+[ 5471.078661] add_inbuf: Entering
+[ 5471.078664] add_inbuf: Leaving
+[ 5471.078666] alloc_buf: Entering
+[ 5471.078672] alloc_buf: Leaving
+[ 5471.078675] add_inbuf: Entering
+[ 5471.078677] add_inbuf: Leaving
+[ 5471.078680] alloc_buf: Entering
+[ 5471.078744] alloc_buf: Leaving
+[ 5471.078748] add_inbuf: Entering
+[ 5471.078751] add_inbuf: Leaving
+[ 5471.078754] alloc_buf: Entering
+[ 5471.078763] alloc_buf: Leaving
+[ 5471.078766] add_inbuf: Entering
+[ 5471.078768] add_inbuf: Leaving
+[ 5471.078771] alloc_buf: Entering
+[ 5471.078777] alloc_buf: Leaving
+[ 5471.078780] add_inbuf: Entering
+[ 5471.078782] add_inbuf: Leaving
+[ 5471.078785] alloc_buf: Entering
+[ 5471.078791] alloc_buf: Leaving
+[ 5471.078793] add_inbuf: Entering
+[ 5471.078796] add_inbuf: Leaving
+[ 5471.078799] alloc_buf: Entering
+[ 5471.078804] alloc_buf: Leaving
+[ 5471.078806] add_inbuf: Entering
+[ 5471.078809] add_inbuf: Leaving
+[ 5471.078812] alloc_buf: Entering
+[ 5471.078817] alloc_buf: Leaving
+[ 5471.078820] add_inbuf: Entering
+[ 5471.078823] add_inbuf: Leaving
+[ 5471.078825] alloc_buf: Entering
+[ 5471.078889] alloc_buf: Leaving
+[ 5471.078893] add_inbuf: Entering
+[ 5471.078897] add_inbuf: Leaving
+[ 5471.078900] alloc_buf: Entering
+[ 5471.078909] alloc_buf: Leaving
+[ 5471.078911] add_inbuf: Entering
+[ 5471.078914] add_inbuf: Leaving
+[ 5471.078916] alloc_buf: Entering
+[ 5471.078922] alloc_buf: Leaving
+[ 5471.078924] add_inbuf: Entering
+[ 5471.078927] add_inbuf: Leaving
+[ 5471.078930] alloc_buf: Entering
+[ 5471.078936] alloc_buf: Leaving
+[ 5471.078938] add_inbuf: Entering
+[ 5471.078941] add_inbuf: Leaving
+[ 5471.078944] alloc_buf: Entering
+[ 5471.078949] alloc_buf: Leaving
+[ 5471.078952] add_inbuf: Entering
+[ 5471.078954] add_inbuf: Leaving
+[ 5471.078957] alloc_buf: Entering
+[ 5471.078962] alloc_buf: Leaving
+[ 5471.078965] add_inbuf: Entering
+[ 5471.078967] add_inbuf: Leaving
+[ 5471.078970] alloc_buf: Entering
+[ 5471.078975] alloc_buf: Leaving
+[ 5471.078977] add_inbuf: Entering
+[ 5471.078980] add_inbuf: Leaving
+[ 5471.078983] alloc_buf: Entering
+[ 5471.078988] alloc_buf: Leaving
+[ 5471.078990] add_inbuf: Entering
+[ 5471.078993] add_inbuf: Leaving
+[ 5471.078996] alloc_buf: Entering
+[ 5471.079001] alloc_buf: Leaving
+[ 5471.079003] add_inbuf: Entering
+[ 5471.079006] add_inbuf: Leaving
+[ 5471.079008] alloc_buf: Entering
+[ 5471.079014] alloc_buf: Leaving
+[ 5471.079016] add_inbuf: Entering
+[ 5471.079019] add_inbuf: Leaving
+[ 5471.079021] alloc_buf: Entering
+[ 5471.079026] alloc_buf: Leaving
+[ 5471.079029] add_inbuf: Entering
+[ 5471.079032] add_inbuf: Leaving
+[ 5471.079034] alloc_buf: Entering
+[ 5471.079040] alloc_buf: Leaving
+[ 5471.079043] add_inbuf: Entering
+[ 5471.079045] add_inbuf: Leaving
+[ 5471.079048] alloc_buf: Entering
+[ 5471.079054] alloc_buf: Leaving
+[ 5471.079056] add_inbuf: Entering
+[ 5471.079059] add_inbuf: Leaving
+[ 5471.079062] alloc_buf: Entering
+[ 5471.079068] alloc_buf: Leaving
+[ 5471.079070] add_inbuf: Entering
+[ 5471.079073] add_inbuf: Leaving
+[ 5471.079075] alloc_buf: Entering
+[ 5471.079081] alloc_buf: Leaving
+[ 5471.079083] add_inbuf: Entering
+[ 5471.079086] add_inbuf: Leaving
+[ 5471.079088] alloc_buf: Entering
+[ 5471.079094] alloc_buf: Leaving
+[ 5471.079096] add_inbuf: Entering
+[ 5471.079099] add_inbuf: Leaving
+[ 5471.079102] alloc_buf: Entering
+[ 5471.079110] alloc_buf: Leaving
+[ 5471.079113] add_inbuf: Entering
+[ 5471.079116] add_inbuf: Leaving
+[ 5471.079118] alloc_buf: Entering
+[ 5471.079124] alloc_buf: Leaving
+[ 5471.079126] add_inbuf: Entering
+[ 5471.079129] add_inbuf: Leaving
+[ 5471.079131] alloc_buf: Entering
+[ 5471.079138] alloc_buf: Leaving
+[ 5471.079140] add_inbuf: Entering
+[ 5471.079143] add_inbuf: Leaving
+[ 5471.079146] alloc_buf: Entering
+[ 5471.079152] alloc_buf: Leaving
+[ 5471.079154] add_inbuf: Entering
+[ 5471.079157] add_inbuf: Leaving
+[ 5471.079160] alloc_buf: Entering
+[ 5471.079165] alloc_buf: Leaving
+[ 5471.079168] add_inbuf: Entering
+[ 5471.079171] add_inbuf: Leaving
+[ 5471.079173] alloc_buf: Entering
+[ 5471.079179] alloc_buf: Leaving
+[ 5471.079182] add_inbuf: Entering
+[ 5471.079185] add_inbuf: Leaving
+[ 5471.079187] alloc_buf: Entering
+[ 5471.079193] alloc_buf: Leaving
+[ 5471.079195] add_inbuf: Entering
+[ 5471.079198] add_inbuf: Leaving
+[ 5471.079200] alloc_buf: Entering
+[ 5471.079206] alloc_buf: Leaving
+[ 5471.079209] add_inbuf: Entering
+[ 5471.079211] add_inbuf: Leaving
+[ 5471.079214] alloc_buf: Entering
+[ 5471.079220] alloc_buf: Leaving
+[ 5471.079222] add_inbuf: Entering
+[ 5471.079225] add_inbuf: Leaving
+[ 5471.079228] alloc_buf: Entering
+[ 5471.079234] alloc_buf: Leaving
+[ 5471.079236] add_inbuf: Entering
+[ 5471.079239] add_inbuf: Leaving
+[ 5471.079241] alloc_buf: Entering
+[ 5471.079246] alloc_buf: Leaving
+[ 5471.079249] add_inbuf: Entering
+[ 5471.079252] add_inbuf: Leaving
+[ 5471.079254] alloc_buf: Entering
+[ 5471.079323] alloc_buf: Leaving
+[ 5471.079326] add_inbuf: Entering
+[ 5471.079330] add_inbuf: Leaving
+[ 5471.079332] alloc_buf: Entering
+[ 5471.079342] alloc_buf: Leaving
+[ 5471.079345] add_inbuf: Entering
+[ 5471.079348] add_inbuf: Leaving
+[ 5471.079350] alloc_buf: Entering
+[ 5471.079363] alloc_buf: Leaving
+[ 5471.079366] add_inbuf: Entering
+[ 5471.079369] add_inbuf: Leaving
+[ 5471.079372] alloc_buf: Entering
+[ 5471.079377] alloc_buf: Leaving
+[ 5471.079380] add_inbuf: Entering
+[ 5471.079383] add_inbuf: Leaving
+[ 5471.079385] alloc_buf: Entering
+[ 5471.079391] alloc_buf: Leaving
+[ 5471.079393] add_inbuf: Entering
+[ 5471.079396] add_inbuf: Leaving
+[ 5471.079399] alloc_buf: Entering
+[ 5471.079404] alloc_buf: Leaving
+[ 5471.079407] add_inbuf: Entering
+[ 5471.079410] add_inbuf: Leaving
+[ 5471.079412] alloc_buf: Entering
+[ 5471.079418] alloc_buf: Leaving
+[ 5471.079421] add_inbuf: Entering
+[ 5471.079424] add_inbuf: Leaving
+[ 5471.079426] alloc_buf: Entering
+[ 5471.079432] alloc_buf: Leaving
+[ 5471.079434] add_inbuf: Entering
+[ 5471.079437] add_inbuf: Leaving
+[ 5471.079440] alloc_buf: Entering
+[ 5471.079505] alloc_buf: Leaving
+[ 5471.079509] add_inbuf: Entering
+[ 5471.079512] add_inbuf: Leaving
+[ 5471.079515] alloc_buf: Entering
+[ 5471.079584] alloc_buf: Leaving
+[ 5471.079587] add_inbuf: Entering
+[ 5471.079591] add_inbuf: Leaving
+[ 5471.079594] alloc_buf: Entering
+[ 5471.079603] alloc_buf: Leaving
+[ 5471.079605] add_inbuf: Entering
+[ 5471.079608] add_inbuf: Leaving
+[ 5471.079611] alloc_buf: Entering
+[ 5471.079617] alloc_buf: Leaving
+[ 5471.079619] add_inbuf: Entering
+[ 5471.079622] add_inbuf: Leaving
+[ 5471.079625] alloc_buf: Entering
+[ 5471.079630] alloc_buf: Leaving
+[ 5471.079633] add_inbuf: Entering
+[ 5471.079636] add_inbuf: Leaving
+[ 5471.079638] alloc_buf: Entering
+[ 5471.079644] alloc_buf: Leaving
+[ 5471.079647] add_inbuf: Entering
+[ 5471.079650] add_inbuf: Leaving
+[ 5471.079652] alloc_buf: Entering
+[ 5471.079658] alloc_buf: Leaving
+[ 5471.079661] add_inbuf: Entering
+[ 5471.079663] add_inbuf: Leaving
+[ 5471.079666] alloc_buf: Entering
+[ 5471.079672] alloc_buf: Leaving
+[ 5471.079675] add_inbuf: Entering
+[ 5471.079677] add_inbuf: Leaving
+[ 5471.079680] alloc_buf: Entering
+[ 5471.079687] alloc_buf: Leaving
+[ 5471.079689] add_inbuf: Entering
+[ 5471.079692] add_inbuf: Leaving
+[ 5471.079694] alloc_buf: Entering
+[ 5471.079700] alloc_buf: Leaving
+[ 5471.079703] add_inbuf: Entering
+[ 5471.079706] add_inbuf: Leaving
+[ 5471.079708] alloc_buf: Entering
+[ 5471.079714] alloc_buf: Leaving
+[ 5471.079717] add_inbuf: Entering
+[ 5471.079719] add_inbuf: Leaving
+[ 5471.079722] alloc_buf: Entering
+[ 5471.079727] alloc_buf: Leaving
+[ 5471.079730] add_inbuf: Entering
+[ 5471.079733] add_inbuf: Leaving
+[ 5471.079735] alloc_buf: Entering
+[ 5471.079741] alloc_buf: Leaving
+[ 5471.079743] add_inbuf: Entering
+[ 5471.079746] add_inbuf: Leaving
+[ 5471.079749] alloc_buf: Entering
+[ 5471.079754] alloc_buf: Leaving
+[ 5471.079757] add_inbuf: Entering
+[ 5471.079759] add_inbuf: Leaving
+[ 5471.079762] alloc_buf: Entering
+[ 5471.079767] alloc_buf: Leaving
+[ 5471.079770] add_inbuf: Entering
+[ 5471.079773] add_inbuf: Leaving
+[ 5471.079801] alloc_buf: Entering
+[ 5471.079808] alloc_buf: Leaving
+[ 5471.079810] add_inbuf: Entering
+[ 5471.079813] add_inbuf: Leaving
+[ 5471.079816] alloc_buf: Entering
+[ 5471.079822] alloc_buf: Leaving
+[ 5471.079824] add_inbuf: Entering
+[ 5471.079827] add_inbuf: Leaving
+[ 5471.079829] alloc_buf: Entering
+[ 5471.079835] alloc_buf: Leaving
+[ 5471.079838] add_inbuf: Entering
+[ 5471.079841] add_inbuf: Leaving
+[ 5471.079843] alloc_buf: Entering
+[ 5471.079849] alloc_buf: Leaving
+[ 5471.079851] add_inbuf: Entering
+[ 5471.079854] add_inbuf: Leaving
+[ 5471.079857] alloc_buf: Entering
+[ 5471.079924] alloc_buf: Leaving
+[ 5471.079928] add_inbuf: Entering
+[ 5471.079932] add_inbuf: Leaving
+[ 5471.079934] alloc_buf: Entering
+[ 5471.079944] alloc_buf: Leaving
+[ 5471.079947] add_inbuf: Entering
+[ 5471.079950] add_inbuf: Leaving
+[ 5471.079952] alloc_buf: Entering
+[ 5471.079959] alloc_buf: Leaving
+[ 5471.079961] add_inbuf: Entering
+[ 5471.079964] add_inbuf: Leaving
+[ 5471.079966] alloc_buf: Entering
+[ 5471.079972] alloc_buf: Leaving
+[ 5471.079974] add_inbuf: Entering
+[ 5471.079977] add_inbuf: Leaving
+[ 5471.079980] alloc_buf: Entering
+[ 5471.079985] alloc_buf: Leaving
+[ 5471.079988] add_inbuf: Entering
+[ 5471.079991] add_inbuf: Leaving
+[ 5471.079993] alloc_buf: Entering
+[ 5471.079999] alloc_buf: Leaving
+[ 5471.080002] add_inbuf: Entering
+[ 5471.080004] add_inbuf: Leaving
+[ 5471.080007] alloc_buf: Entering
+[ 5471.080013] alloc_buf: Leaving
+[ 5471.080015] add_inbuf: Entering
+[ 5471.080018] add_inbuf: Leaving
+[ 5471.080021] alloc_buf: Entering
+[ 5471.080027] alloc_buf: Leaving
+[ 5471.080030] add_inbuf: Entering
+[ 5471.080032] add_inbuf: Leaving
+[ 5471.080035] alloc_buf: Entering
+[ 5471.080573] alloc_buf: Leaving
+[ 5471.080577] add_inbuf: Entering
+[ 5471.080580] add_inbuf: Leaving
+[ 5471.080583] alloc_buf: Entering
+[ 5471.080590] alloc_buf: Leaving
+[ 5471.080592] add_inbuf: Entering
+[ 5471.080595] add_inbuf: Leaving
+[ 5471.080597] alloc_buf: Entering
+[ 5471.080604] alloc_buf: Leaving
+[ 5471.080606] add_inbuf: Entering
+[ 5471.080610] add_inbuf: Leaving
+[ 5471.080612] alloc_buf: Entering
+[ 5471.080618] alloc_buf: Leaving
+[ 5471.080621] add_inbuf: Entering
+[ 5471.080623] add_inbuf: Leaving
+[ 5471.080626] alloc_buf: Entering
+[ 5471.080632] alloc_buf: Leaving
+[ 5471.080635] add_inbuf: Entering
+[ 5471.080637] add_inbuf: Leaving
+[ 5471.080640] alloc_buf: Entering
+[ 5471.080707] alloc_buf: Leaving
+[ 5471.080710] add_inbuf: Entering
+[ 5471.080714] add_inbuf: Leaving
+[ 5471.080717] alloc_buf: Entering
+[ 5471.080727] alloc_buf: Leaving
+[ 5471.080729] add_inbuf: Entering
+[ 5471.080732] add_inbuf: Leaving
+[ 5471.080735] alloc_buf: Entering
+[ 5471.080741] alloc_buf: Leaving
+[ 5471.080743] add_inbuf: Entering
+[ 5471.080746] add_inbuf: Leaving
+[ 5471.080749] alloc_buf: Entering
+[ 5471.080755] alloc_buf: Leaving
+[ 5471.080757] add_inbuf: Entering
+[ 5471.080760] add_inbuf: Leaving
+[ 5471.080763] alloc_buf: Entering
+[ 5471.080768] alloc_buf: Leaving
+[ 5471.080771] add_inbuf: Entering
+[ 5471.080773] add_inbuf: Leaving
+[ 5471.080776] alloc_buf: Entering
+[ 5471.080782] alloc_buf: Leaving
+[ 5471.080784] add_inbuf: Entering
+[ 5471.080787] add_inbuf: Leaving
+[ 5471.080790] alloc_buf: Entering
+[ 5471.080795] alloc_buf: Leaving
+[ 5471.080798] add_inbuf: Entering
+[ 5471.080801] add_inbuf: Leaving
+[ 5471.080803] alloc_buf: Entering
+[ 5471.080809] alloc_buf: Leaving
+[ 5471.080811] add_inbuf: Entering
+[ 5471.080814] add_inbuf: Leaving
+[ 5471.080817] alloc_buf: Entering
+[ 5471.080823] alloc_buf: Leaving
+[ 5471.080826] add_inbuf: Entering
+[ 5471.080828] add_inbuf: Leaving
+[ 5471.080831] alloc_buf: Entering
+[ 5471.080839] alloc_buf: Leaving
+[ 5471.080841] add_inbuf: Entering
+[ 5471.080844] add_inbuf: Leaving
+[ 5471.080847] alloc_buf: Entering
+[ 5471.080853] alloc_buf: Leaving
+[ 5471.080855] add_inbuf: Entering
+[ 5471.080858] add_inbuf: Leaving
+[ 5471.080861] alloc_buf: Entering
+[ 5471.080945] alloc_buf: Leaving
+[ 5471.080949] add_inbuf: Entering
+[ 5471.080952] add_inbuf: Leaving
+[ 5471.080955] alloc_buf: Entering
+[ 5471.081022] alloc_buf: Leaving
+[ 5471.081025] add_inbuf: Entering
+[ 5471.081029] add_inbuf: Leaving
+[ 5471.081031] alloc_buf: Entering
+[ 5471.081040] alloc_buf: Leaving
+[ 5471.081043] add_inbuf: Entering
+[ 5471.081046] add_inbuf: Leaving
+[ 5471.081048] alloc_buf: Entering
+[ 5471.081054] alloc_buf: Leaving
+[ 5471.081057] add_inbuf: Entering
+[ 5471.081060] add_inbuf: Leaving
+[ 5471.081062] alloc_buf: Entering
+[ 5471.081069] alloc_buf: Leaving
+[ 5471.081071] add_inbuf: Entering
+[ 5471.081074] add_inbuf: Leaving
+[ 5471.081077] alloc_buf: Entering
+[ 5471.081143] alloc_buf: Leaving
+[ 5471.081147] add_inbuf: Entering
+[ 5471.081151] add_inbuf: Leaving
+[ 5471.081154] fill_queue: Leaving
+[ 5471.081158] fill_queue: Entering
+[ 5471.081160] alloc_buf: Entering
+[ 5471.081170] alloc_buf: Leaving
+[ 5471.081172] add_inbuf: Entering
+[ 5471.082147] add_inbuf: Leaving
+[ 5471.082152] alloc_buf: Entering
+[ 5471.082168] alloc_buf: Leaving
+[ 5471.082171] add_inbuf: Entering
+[ 5471.082176] add_inbuf: Leaving
+[ 5471.082178] alloc_buf: Entering
+[ 5471.082184] alloc_buf: Leaving
+[ 5471.082187] add_inbuf: Entering
+[ 5471.082190] add_inbuf: Leaving
+[ 5471.082192] alloc_buf: Entering
+[ 5471.082199] alloc_buf: Leaving
+[ 5471.082202] add_inbuf: Entering
+[ 5471.082204] add_inbuf: Leaving
+[ 5471.082207] alloc_buf: Entering
+[ 5471.082213] alloc_buf: Leaving
+[ 5471.082216] add_inbuf: Entering
+[ 5471.082219] add_inbuf: Leaving
+[ 5471.082222] alloc_buf: Entering
+[ 5471.082231] alloc_buf: Leaving
+[ 5471.082234] add_inbuf: Entering
+[ 5471.082237] add_inbuf: Leaving
+[ 5471.082239] alloc_buf: Entering
+[ 5471.082246] alloc_buf: Leaving
+[ 5471.082248] add_inbuf: Entering
+[ 5471.082251] add_inbuf: Leaving
+[ 5471.082254] alloc_buf: Entering
+[ 5471.082260] alloc_buf: Leaving
+[ 5471.082262] add_inbuf: Entering
+[ 5471.082265] add_inbuf: Leaving
+[ 5471.082268] alloc_buf: Entering
+[ 5471.082274] alloc_buf: Leaving
+[ 5471.082277] add_inbuf: Entering
+[ 5471.082280] add_inbuf: Leaving
+[ 5471.082282] alloc_buf: Entering
+[ 5471.082288] alloc_buf: Leaving
+[ 5471.082291] add_inbuf: Entering
+[ 5471.082293] add_inbuf: Leaving
+[ 5471.082296] alloc_buf: Entering
+[ 5471.082302] alloc_buf: Leaving
+[ 5471.082304] add_inbuf: Entering
+[ 5471.082307] add_inbuf: Leaving
+[ 5471.082310] alloc_buf: Entering
+[ 5471.082315] alloc_buf: Leaving
+[ 5471.082318] add_inbuf: Entering
+[ 5471.082321] add_inbuf: Leaving
+[ 5471.082323] alloc_buf: Entering
+[ 5471.082329] alloc_buf: Leaving
+[ 5471.082332] add_inbuf: Entering
+[ 5471.082335] add_inbuf: Leaving
+[ 5471.082337] alloc_buf: Entering
+[ 5471.082342] alloc_buf: Leaving
+[ 5471.082345] add_inbuf: Entering
+[ 5471.082348] add_inbuf: Leaving
+[ 5471.082350] alloc_buf: Entering
+[ 5471.082356] alloc_buf: Leaving
+[ 5471.082359] add_inbuf: Entering
+[ 5471.082361] add_inbuf: Leaving
+[ 5471.082364] alloc_buf: Entering
+[ 5471.082621] alloc_buf: Leaving
+[ 5471.082626] add_inbuf: Entering
+[ 5471.082630] add_inbuf: Leaving
+[ 5471.082633] alloc_buf: Entering
+[ 5471.082643] alloc_buf: Leaving
+[ 5471.082646] add_inbuf: Entering
+[ 5471.082649] add_inbuf: Leaving
+[ 5471.082652] alloc_buf: Entering
+[ 5471.082657] alloc_buf: Leaving
+[ 5471.082661] add_inbuf: Entering
+[ 5471.082664] add_inbuf: Leaving
+[ 5471.082667] alloc_buf: Entering
+[ 5471.082674] alloc_buf: Leaving
+[ 5471.082676] add_inbuf: Entering
+[ 5471.082679] add_inbuf: Leaving
+[ 5471.082682] alloc_buf: Entering
+[ 5471.082688] alloc_buf: Leaving
+[ 5471.082691] add_inbuf: Entering
+[ 5471.082694] add_inbuf: Leaving
+[ 5471.082696] alloc_buf: Entering
+[ 5471.082702] alloc_buf: Leaving
+[ 5471.082705] add_inbuf: Entering
+[ 5471.082708] add_inbuf: Leaving
+[ 5471.082711] alloc_buf: Entering
+[ 5471.082716] alloc_buf: Leaving
+[ 5471.082719] add_inbuf: Entering
+[ 5471.082722] add_inbuf: Leaving
+[ 5471.082725] alloc_buf: Entering
+[ 5471.082730] alloc_buf: Leaving
+[ 5471.082733] add_inbuf: Entering
+[ 5471.082736] add_inbuf: Leaving
+[ 5471.082739] alloc_buf: Entering
+[ 5471.082744] alloc_buf: Leaving
+[ 5471.082747] add_inbuf: Entering
+[ 5471.082750] add_inbuf: Leaving
+[ 5471.082752] alloc_buf: Entering
+[ 5471.082758] alloc_buf: Leaving
+[ 5471.082761] add_inbuf: Entering
+[ 5471.082764] add_inbuf: Leaving
+[ 5471.082766] alloc_buf: Entering
+[ 5471.082772] alloc_buf: Leaving
+[ 5471.082774] add_inbuf: Entering
+[ 5471.082777] add_inbuf: Leaving
+[ 5471.082780] alloc_buf: Entering
+[ 5471.082786] alloc_buf: Leaving
+[ 5471.082789] add_inbuf: Entering
+[ 5471.082792] add_inbuf: Leaving
+[ 5471.082794] alloc_buf: Entering
+[ 5471.082800] alloc_buf: Leaving
+[ 5471.082803] add_inbuf: Entering
+[ 5471.082805] add_inbuf: Leaving
+[ 5471.082808] alloc_buf: Entering
+[ 5471.082814] alloc_buf: Leaving
+[ 5471.082816] add_inbuf: Entering
+[ 5471.082819] add_inbuf: Leaving
+[ 5471.082822] alloc_buf: Entering
+[ 5471.082828] alloc_buf: Leaving
+[ 5471.082830] add_inbuf: Entering
+[ 5471.082833] add_inbuf: Leaving
+[ 5471.082836] alloc_buf: Entering
+[ 5471.082841] alloc_buf: Leaving
+[ 5471.082845] add_inbuf: Entering
+[ 5471.082847] add_inbuf: Leaving
+[ 5471.082850] alloc_buf: Entering
+[ 5471.082857] alloc_buf: Leaving
+[ 5471.082860] add_inbuf: Entering
+[ 5471.082863] add_inbuf: Leaving
+[ 5471.082866] fill_queue: Leaving
+[ 5471.082870] virtcons_probe: Leaving
+[ 5471.085968] 2
+[ 5471.085973] init: Leaving
+[ 5614.327489] crypto_chrdev_open: entering
+[ 5614.327497] Could not find crypto device with 5 minor
+[ 5614.327538] crypto_chrdev_open: leaving, with ret = -19
+[ 5618.494210] crypto_chrdev_open: entering
+[ 5618.494223] send_control_msg: Entering
+[ 5618.495095] control_out_intr: Entering
+[ 5618.495103] control_out_intr: Leaving
+[ 5618.495611] control_in_intr: Entering
+[ 5618.495620] fd=26
+[ 5618.495626] add_inbuf: Entering
+[ 5618.496006] add_inbuf: Leaving
+[ 5618.496013] control_in_intr: Leaving
+[ 5618.496025] send_control_msg: Leaving
+[ 5618.496030] crypto_chrdev_open: leaving, with ret = 0
+[ 5618.498899] crypto_chrdev_read: Entering
+[ 5618.498906] crypto_chrdev_read: Leaving
+[ 5618.510349] crypto_chrdev_release: Entering
+[ 5618.510356] send_control_msg: Entering
+[ 5618.511426] control_out_intr: Entering
+[ 5618.511432] control_out_intr: Leaving
+[ 5618.515232] control_in_intr: Entering
+[ 5618.515243] OK@Close fd in host machine
+[ 5618.515249] add_inbuf: Entering
+[ 5618.517030] add_inbuf: Leaving
+[ 5618.517040] control_in_intr: Leaving
+[ 5618.517571] send_control_msg: Leaving
+[ 5618.517578] crypto_chrdev_release: Leaving
+[ 6270.255648] crypto_chrdev_open: entering
+[ 6270.255662] send_control_msg: Entering
+[ 6270.256232] control_out_intr: Entering
+[ 6270.256232] control_out_intr: Leaving
+[ 6270.256992] send_control_msg: Leaving
+[ 6270.256998] !crypto_device_ready(crdev)
+[ 6270.257872] control_in_intr: Entering
+[ 6270.257881] fd=26
+[ 6270.258124] add_inbuf: Entering
+[ 6270.258502] crypto_chrdev_open: leaving, with ret = 0
+[ 6270.259548] add_inbuf: Leaving
+[ 6270.259557] control_in_intr: Leaving
+[ 6270.294393] crypto_chrdev_ioctl: Entering
+[ 6270.294423] IN CIOGSESSION
+[ 6270.294430] send_buf: Entering
+[ 6270.294436] reclaim_consumed_buffers: Entering
+[ 6270.294442] reclaim_consumed_buffers: Leaving
+[ 6270.295165] in_intr: Entering
+[ 6270.295171] get_inbuf: Entering
+[ 6270.295177] get_inbuf: Leaving
+[ 6270.295183] in_intr: Leaving
+[ 6270.295195] send_buf: Leaving
+[ 6270.295199] device_has_data: Entering
+[ 6270.295203] get_inbuf: Entering
+[ 6270.295207] device_has_data: Leaving
+[ 6270.295211] woke up in CIOCGSESSION
+[ 6270.307643] device_has_data: Entering
+[ 6270.307652] get_inbuf: Entering
+[ 6270.307657] device_has_data: Leaving
+[ 6270.307662] fill_readbuf: Entering
+[ 6270.307666] device_has_data: Entering
+[ 6270.307670] get_inbuf: Entering
+[ 6270.307674] device_has_data: Leaving
+[ 6270.307679] add_inbuf: Entering
+[ 6270.308034] add_inbuf: Leaving
+[ 6270.308040] fill_readbuf: Leaving
+[ 6270.311907] crypto_chrdev_ioctl: Leaving
+[ 6270.318731] crypto_chrdev_ioctl: Entering
+[ 6270.318745] IN CIOCCRYPT
+[ 6270.318750] 
+[ 6270.318752] 1
+[ 6270.318756] LEN 256
+[ 6270.318760] 
+[ 6270.318762] 2
+[ 6270.318766] 73
+[ 6270.318769] 54
+[ 6270.318773] e7
+[ 6270.318776] d1
+[ 6270.318778] 16
+[ 6270.318781] 1d
+[ 6270.318784] 64
+[ 6270.318787] 7d
+[ 6270.318790] 4e
+[ 6270.318792] 95
+[ 6270.318795] 5f
+[ 6270.318798] 3d
+[ 6270.318801] 1c
+[ 6270.318803] f5
+[ 6270.318806] b7
+[ 6270.318809] d3
+[ 6270.318812] 46
+[ 6270.318815] 57
+[ 6270.318817] 64
+[ 6270.318820] f4
+[ 6270.318823] 61
+[ 6270.318826] b2
+[ 6270.318829] aa
+[ 6270.318831] 78
+[ 6270.318834] 52
+[ 6270.318837] 61
+[ 6270.318840] 64
+[ 6270.318843] 5a
+[ 6270.318845] b6
+[ 6270.318848] 7e
+[ 6270.318851] 8
+[ 6270.318854] ab
+[ 6270.318857] 2c
+[ 6270.318860] 91
+[ 6270.318862] 22
+[ 6270.318865] e1
+[ 6270.318868] e0
+[ 6270.318871] a8
+[ 6270.318873] b6
+[ 6270.318876] 77
+[ 6270.318879] 6d
+[ 6270.318882] 62
+[ 6270.318885] 15
+[ 6270.318888] 8e
+[ 6270.318891] 9e
+[ 6270.318893] 48
+[ 6270.318896] 61
+[ 6270.318899] f2
+[ 6270.318902] 12
+[ 6270.318905] b6
+[ 6270.318907] 3c
+[ 6270.318910] 79
+[ 6270.318913] f1
+[ 6270.318916] 61
+[ 6270.318919] df
+[ 6270.318921] fa
+[ 6270.318924] 6e
+[ 6270.318927] 3d
+[ 6270.318930] a7
+[ 6270.318933] 7
+[ 6270.318935] 19
+[ 6270.318938] a3
+[ 6270.318941] a1
+[ 6270.318944] 2
+[ 6270.318947] c7
+[ 6270.318949] 9c
+[ 6270.318952] 20
+[ 6270.318955] 95
+[ 6270.318958] ac
+[ 6270.318961] 4b
+[ 6270.318963] 86
+[ 6270.318966] ee
+[ 6270.318969] 1f
+[ 6270.318972] 6
+[ 6270.318975] 29
+[ 6270.318978] 3f
+[ 6270.318981] 65
+[ 6270.318983] 4c
+[ 6270.318986] 22
+[ 6270.318989] 14
+[ 6270.318992] 5d
+[ 6270.318995] af
+[ 6270.318997] 1d
+[ 6270.319000] f0
+[ 6270.319003] 2b
+[ 6270.319006] 41
+[ 6270.319009] cc
+[ 6270.319011] 5f
+[ 6270.319014] 32
+[ 6270.319017] a7
+[ 6270.319020] 62
+[ 6270.319022] b2
+[ 6270.319025] 8c
+[ 6270.319028] b
+[ 6270.319031] c5
+[ 6270.319034] 8d
+[ 6270.319036] 56
+[ 6270.319039] 96
+[ 6270.319042] 2e
+[ 6270.319045] cc
+[ 6270.319048] 50
+[ 6270.319050] 8e
+[ 6270.319053] 17
+[ 6270.319056] 50
+[ 6270.319059] 8
+[ 6270.319062] e
+[ 6270.319064] 48
+[ 6270.319067] cb
+[ 6270.319070] 9
+[ 6270.319073] 12
+[ 6270.319076] 85
+[ 6270.319078] e4
+[ 6270.319081] a5
+[ 6270.319084] 1f
+[ 6270.319087] 19
+[ 6270.319090] 68
+[ 6270.319092] 5a
+[ 6270.319095] bd
+[ 6270.319098] 2
+[ 6270.319101] 6c
+[ 6270.319104] ce
+[ 6270.319106] 97
+[ 6270.319109] 90
+[ 6270.319112] 58
+[ 6270.319115] 94
+[ 6270.319118] 7f
+[ 6270.319121] 1
+[ 6270.319124] 2e
+[ 6270.319127] f7
+[ 6270.319130] 97
+[ 6270.319133] 0
+[ 6270.319136] 32
+[ 6270.319139] 8b
+[ 6270.319142] 64
+[ 6270.319144] 53
+[ 6270.319147] 7
+[ 6270.319150] 3e
+[ 6270.319153] 1f
+[ 6270.319156] 30
+[ 6270.319158] b1
+[ 6270.319161] 4d
+[ 6270.319164] 9d
+[ 6270.319167] 7f
+[ 6270.319170] 1
+[ 6270.319172] f9
+[ 6270.319175] 22
+[ 6270.319178] 4b
+[ 6270.319181] a
+[ 6270.319183] 4c
+[ 6270.319186] 5c
+[ 6270.319189] 20
+[ 6270.319192] 4a
+[ 6270.319195] 67
+[ 6270.319197] ac
+[ 6270.319200] 66
+[ 6270.319203] 47
+[ 6270.319206] ec
+[ 6270.319209] e4
+[ 6270.319211] a4
+[ 6270.319214] a5
+[ 6270.319217] a
+[ 6270.319220] 96
+[ 6270.319222] 4a
+[ 6270.319225] 34
+[ 6270.319228] 62
+[ 6270.319231] ba
+[ 6270.319234] 89
+[ 6270.319236] 14
+[ 6270.319239] e
+[ 6270.319242] 82
+[ 6270.319245] ad
+[ 6270.319248] 79
+[ 6270.319250] 20
+[ 6270.319253] b2
+[ 6270.319256] 90
+[ 6270.319259] f1
+[ 6270.319261] bf
+[ 6270.319264] f6
+[ 6270.319267] a5
+[ 6270.319270] b2
+[ 6270.319273] 80
+[ 6270.319276] 4e
+[ 6270.319278] 86
+[ 6270.319281] 5a
+[ 6270.319284] 51
+[ 6270.319287] df
+[ 6270.319289] b
+[ 6270.319292] fd
+[ 6270.319295] b3
+[ 6270.319298] ee
+[ 6270.319301] 59
+[ 6270.319304] a6
+[ 6270.319306] 5b
+[ 6270.319309] 9e
+[ 6270.319312] 8f
+[ 6270.319315] 34
+[ 6270.319317] bc
+[ 6270.319320] 26
+[ 6270.319323] 73
+[ 6270.319326] 51
+[ 6270.319329] 66
+[ 6270.319331] 34
+[ 6270.319334] 90
+[ 6270.319337] 98
+[ 6270.319340] 1d
+[ 6270.319342] b0
+[ 6270.319345] 50
+[ 6270.319348] a9
+[ 6270.319351] 11
+[ 6270.319354] ad
+[ 6270.319356] f5
+[ 6270.319359] 87
+[ 6270.319362] c8
+[ 6270.319365] 9
+[ 6270.319368] b1
+[ 6270.319370] f5
+[ 6270.319373] 81
+[ 6270.319376] b4
+[ 6270.319379] 30
+[ 6270.319382] e3
+[ 6270.319384] 6
+[ 6270.319387] 8c
+[ 6270.319390] 55
+[ 6270.319393] 51
+[ 6270.319395] 3a
+[ 6270.319398] 59
+[ 6270.319401] 32
+[ 6270.319404] 8e
+[ 6270.319407] 73
+[ 6270.319409] 8
+[ 6270.319412] 85
+[ 6270.319415] 6c
+[ 6270.319418] 7f
+[ 6270.319421] 4e
+[ 6270.319423] 0
+[ 6270.319426] 17
+[ 6270.319429] fb
+[ 6270.319432] f5
+[ 6270.319435] eb
+[ 6270.319438] 92
+[ 6270.319440] 29
+[ 6270.319443] 27
+[ 6270.319446] 3e
+[ 6270.319449] 38
+[ 6270.319452] f4
+[ 6270.319454] ec
+[ 6270.319457] 6e
+[ 6270.319460] 94
+[ 6270.319463] 9a
+[ 6270.319466] 8a
+[ 6270.319468] e8
+[ 6270.319471] c5
+[ 6270.319474] 23
+[ 6270.319477] 3e
+[ 6270.319480] ed
+[ 6270.319482] 74
+[ 6270.319485] 
+[ 6270.319487] 3
+[ 6270.319491] 
+[ 6270.319492] DSTP
+[ 6270.319496] 77
+[ 6270.319498] d7
+[ 6270.319501] 9b
+[ 6270.319504] 7c
+[ 6270.319507] 0
+[ 6270.319510] 0
+[ 6270.319512] 0
+[ 6270.319515] 0
+[ 6270.319518] 2c
+[ 6270.319521] f8
+[ 6270.319524] 53
+[ 6270.319526] 14
+[ 6270.319529] 87
+[ 6270.319532] 7f
+[ 6270.319535] 0
+[ 6270.319537] 0
+[ 6270.319540] f8
+[ 6270.319543] 67
+[ 6270.319546] 53
+[ 6270.319549] 14
+[ 6270.319551] 87
+[ 6270.319554] 7f
+[ 6270.319557] 0
+[ 6270.319560] 0
+[ 6270.319563] 0
+[ 6270.319565] 0
+[ 6270.319569] 0
+[ 6270.319572] 0
+[ 6270.319574] 0
+[ 6270.319577] 0
+[ 6270.319580] 0
+[ 6270.319582] 0
+[ 6270.319585] 37
+[ 6270.319588] 0
+[ 6270.319591] 0
+[ 6270.319594] 0
+[ 6270.319596] 0
+[ 6270.319599] 0
+[ 6270.319602] 0
+[ 6270.319604] 0
+[ 6270.319607] 5d
+[ 6270.319610] 6f
+[ 6270.319613] f2
+[ 6270.319616] 1
+[ 6270.319618] 0
+[ 6270.319621] 0
+[ 6270.319624] 0
+[ 6270.319627] 0
+[ 6270.319629] d8
+[ 6270.319632] 73
+[ 6270.319635] 1d
+[ 6270.319638] 14
+[ 6270.319641] 87
+[ 6270.319643] 7f
+[ 6270.319646] 0
+[ 6270.319649] 0
+[ 6270.319652] 0
+[ 6270.319655] 72
+[ 6270.319657] 46
+[ 6270.319660] 88
+[ 6270.319663] ff
+[ 6270.319666] 7f
+[ 6270.319669] 0
+[ 6270.319671] 0
+[ 6270.319674] 28
+[ 6270.319677] 7c
+[ 6270.319680] 1d
+[ 6270.319682] 14
+[ 6270.319685] 87
+[ 6270.319688] 7f
+[ 6270.319691] 0
+[ 6270.319694] 0
+[ 6270.319696] 98
+[ 6270.319699] 14
+[ 6270.319702] 1e
+[ 6270.319705] 14
+[ 6270.319708] 87
+[ 6270.319710] 7f
+[ 6270.319738] 0
+[ 6270.319741] 0
+[ 6270.319743] 0
+[ 6270.319746] 0
+[ 6270.319749] 0
+[ 6270.319752] 0
+[ 6270.319755] 1
+[ 6270.319757] 0
+[ 6270.319760] 0
+[ 6270.319763] 0
+[ 6270.319766] 3c
+[ 6270.319769] 67
+[ 6270.319771] 53
+[ 6270.319774] 14
+[ 6270.319777] 87
+[ 6270.319780] 7f
+[ 6270.319783] 0
+[ 6270.319786] 0
+[ 6270.319788] 0
+[ 6270.319791] 0
+[ 6270.319794] 0
+[ 6270.319797] 0
+[ 6270.319799] 0
+[ 6270.319802] 0
+[ 6270.319805] 0
+[ 6270.319808] 0
+[ 6270.319811] e8
+[ 6270.319813] 29
+[ 6270.319816] 75
+[ 6270.319819] 14
+[ 6270.319822] 87
+[ 6270.319825] 7f
+[ 6270.319828] 0
+[ 6270.319830] 0
+[ 6270.319833] b0
+[ 6270.319836] 24
+[ 6270.319839] 75
+[ 6270.319842] 14
+[ 6270.319845] 87
+[ 6270.319847] 7f
+[ 6270.319850] 0
+[ 6270.319853] 0
+[ 6270.319856] c3
+[ 6270.319859] 4
+[ 6270.319861] 40
+[ 6270.319864] 0
+[ 6270.319867] 0
+[ 6270.319870] 0
+[ 6270.319873] 0
+[ 6270.319875] 0
+[ 6270.319878] 78
+[ 6270.319881] 46
+[ 6270.319884] 1e
+[ 6270.319887] 14
+[ 6270.319890] 87
+[ 6270.319893] 7f
+[ 6270.319895] 0
+[ 6270.319898] 0
+[ 6270.319901] 30
+[ 6270.319904] 4
+[ 6270.319907] 40
+[ 6270.319910] 0
+[ 6270.319912] 0
+[ 6270.319915] 0
+[ 6270.319918] 0
+[ 6270.319921] 0
+[ 6270.319923] 0
+[ 6270.319926] 0
+[ 6270.319929] 0
+[ 6270.319932] 0
+[ 6270.319935] 1
+[ 6270.319937] 0
+[ 6270.319940] 0
+[ 6270.319943] 0
+[ 6270.319946] 5a
+[ 6270.319949] 6
+[ 6270.319951] 0
+[ 6270.319954] 0
+[ 6270.319957] 1
+[ 6270.319960] 0
+[ 6270.319963] 0
+[ 6270.319965] 0
+[ 6270.319968] c0
+[ 6270.319971] 71
+[ 6270.319974] 46
+[ 6270.319977] 88
+[ 6270.319979] ff
+[ 6270.319982] 7f
+[ 6270.319985] 0
+[ 6270.319988] 0
+[ 6270.319991] 80
+[ 6270.319994] 54
+[ 6270.319996] 75
+[ 6270.319999] 14
+[ 6270.320002] 87
+[ 6270.320005] 7f
+[ 6270.320008] 0
+[ 6270.320010] 0
+[ 6270.320013] 50
+[ 6270.320016] 72
+[ 6270.320019] 46
+[ 6270.320022] 88
+[ 6270.320025] ff
+[ 6270.320028] 7f
+[ 6270.320031] 0
+[ 6270.320034] 0
+[ 6270.320036] e8
+[ 6270.320039] 29
+[ 6270.320042] 75
+[ 6270.320045] 14
+[ 6270.320048] 87
+[ 6270.320051] 7f
+[ 6270.320173] 0
+[ 6270.320432] 0
+[ 6270.320437] 78
+[ 6270.320439] 72
+[ 6270.320442] 46
+[ 6270.320445] 88
+[ 6270.320448] ff
+[ 6270.320451] 7f
+[ 6270.320454] 0
+[ 6270.320457] 0
+[ 6270.320459] 28
+[ 6270.320462] 51
+[ 6270.320465] 75
+[ 6270.320468] 14
+[ 6270.320471] 87
+[ 6270.320473] 7f
+[ 6270.320476] 0
+[ 6270.320479] 0
+[ 6270.320482] 77
+[ 6270.320485] d7
+[ 6270.320488] 9b
+[ 6270.320490] 7c
+[ 6270.320493] 0
+[ 6270.320496] 0
+[ 6270.320499] 0
+[ 6270.320502] 0
+[ 6270.320504] f2
+[ 6270.320507] fa
+[ 6270.320510] 53
+[ 6270.320513] 14
+[ 6270.320516] 87
+[ 6270.320519] 7f
+[ 6270.320521] 0
+[ 6270.320524] 0
+[ 6270.320527] 0
+[ 6270.320530] 0
+[ 6270.320533] 0
+[ 6270.320535] 0
+[ 6270.320538] 0
+[ 6270.320541] 0
+[ 6270.320544] 0
+[ 6270.320546] 0
+[ 6270.320549] e8
+[ 6270.320552] 29
+[ 6270.320555] 75
+[ 6270.320558] 14
+[ 6270.320560] 87
+[ 6270.320563] 7f
+[ 6270.320566] 0
+[ 6270.320569] 0
+[ 6270.320572] 1
+[ 6270.320575] 0
+[ 6270.320577] 0
+[ 6270.320580] 0
+[ 6270.320583] 0
+[ 6270.320586] 0
+[ 6270.320588] 0
+[ 6270.320591] 0
+[ 6270.320594] 0
+[ 6270.320597] 0
+[ 6270.320599] 0
+[ 6270.320602] 0
+[ 6270.320605] 0
+[ 6270.320608] 0
+[ 6270.320610] 0
+[ 6270.320613] 0
+[ 6270.320616] 
+[ 6270.320618] 4
+[ 6270.320622] 
+[ 6270.320624] IVP
+[ 6270.320627] 0
+[ 6270.320630] 0
+[ 6270.320633] 0
+[ 6270.320635] 0
+[ 6270.320638] 0
+[ 6270.320641] 0
+[ 6270.320644] 0
+[ 6270.320646] 0
+[ 6270.320649] 12
+[ 6270.320652] 37
+[ 6270.320655] 54
+[ 6270.320658] 14
+[ 6270.320661] 87
+[ 6270.320663] 7f
+[ 6270.320666] 0
+[ 6270.320669] 0
+[ 6270.320672] 0
+[ 6270.320675] 1
+[ 6270.320678] 2
+[ 6270.320680] 3
+[ 6270.320683] 4
+[ 6270.320686] 5
+[ 6270.320689] 6
+[ 6270.320692] 7
+[ 6270.320694] 8
+[ 6270.320697] 9
+[ 6270.320700] a
+[ 6270.320703] b
+[ 6270.320705] c
+[ 6270.320708] d
+[ 6270.320711] e
+[ 6270.320714] f
+[ 6270.320717] 10
+[ 6270.320719] 11
+[ 6270.320722] 12
+[ 6270.320725] 13
+[ 6270.320728] 14
+[ 6270.320731] 15
+[ 6270.320733] 16
+[ 6270.320736] 17
+[ 6270.320739] 98
+[ 6270.320742] 14
+[ 6270.320745] 1e
+[ 6270.320747] 14
+[ 6270.320750] 87
+[ 6270.320753] 7f
+[ 6270.320756] 0
+[ 6270.320759] 0
+[ 6270.320762] fe
+[ 6270.320764] 8d
+[ 6270.320767] 7a
+[ 6270.320770] ef
+[ 6270.320773] 0
+[ 6270.320776] 0
+[ 6270.320778] 0
+[ 6270.320781] 0
+[ 6270.320784] 0
+[ 6270.320787] 1
+[ 6270.320790] 0
+[ 6270.320792] 0
+[ 6270.320795] 0
+[ 6270.320798] 0
+[ 6270.320801] 0
+[ 6270.320803] 0
+[ 6270.320806] 
+[ 6270.320808] 5
+[ 6270.320812] send_buf: Entering
+[ 6270.320817] reclaim_consumed_buffers: Entering
+[ 6270.320824] reclaim_consumed_buffers: Leaving
+[ 6270.321903] in_intr: Entering
+[ 6270.321910] get_inbuf: Entering
+[ 6270.321916] get_inbuf: Leaving
+[ 6270.321920] in_intr: Leaving
+[ 6270.321931] send_buf: Leaving
+[ 6270.321935] device_has_data: Entering
+[ 6270.321939] get_inbuf: Entering
+[ 6270.321943] device_has_data: Leaving
+[ 6270.321948] fill_readbuf: Entering
+[ 6270.321952] device_has_data: Entering
+[ 6270.321956] get_inbuf: Entering
+[ 6270.321960] device_has_data: Leaving
+[ 6270.321964] add_inbuf: Entering
+[ 6270.322230] add_inbuf: Leaving
+[ 6270.322235] fill_readbuf: Leaving
+[ 6270.322239] before
+[ 6270.322244] after
+[ 6270.322247] after
+[ 6270.322253] crypto_chrdev_ioctl: Leaving
+[ 6270.326604] crypto_chrdev_ioctl: Entering
+[ 6270.326617] IN CIOCCRYPT
+[ 6270.326622] 
+[ 6270.326623] 1
+[ 6270.326627] LEN 256
+[ 6270.327347] 
+[ 6270.327350] 2
+[ 6270.327354] a4
+[ 6270.327358] 8f
+[ 6270.327362] 11
+[ 6270.327364] 3c
+[ 6270.327367] 1f
+[ 6270.327370] 27
+[ 6270.327373] ef
+[ 6270.327376] 73
+[ 6270.327379] 2a
+[ 6270.327382] e4
+[ 6270.327385] 78
+[ 6270.327388] c5
+[ 6270.327391] 23
+[ 6270.327394] 35
+[ 6270.327397] 16
+[ 6270.327399] 81
+[ 6270.327402] 56
+[ 6270.327405] 3b
+[ 6270.327408] 5
+[ 6270.327411] 91
+[ 6270.327414] 5d
+[ 6270.327417] e7
+[ 6270.327420] dd
+[ 6270.327423] d6
+[ 6270.327426] ca
+[ 6270.327429] 4a
+[ 6270.327431] 36
+[ 6270.327434] 48
+[ 6270.327437] 28
+[ 6270.327440] 64
+[ 6270.327443] b2
+[ 6270.327446] 5d
+[ 6270.327449] d6
+[ 6270.327452] 4e
+[ 6270.327455] 48
+[ 6270.327458] 1c
+[ 6270.327460] b3
+[ 6270.327463] 9c
+[ 6270.327466] d0
+[ 6270.327469] 16
+[ 6270.327472] c6
+[ 6270.327475] 35
+[ 6270.327478] a1
+[ 6270.327481] f9
+[ 6270.327484] c1
+[ 6270.327487] a
+[ 6270.327489] e9
+[ 6270.327492] ef
+[ 6270.327495] 44
+[ 6270.327498] d9
+[ 6270.327501] e8
+[ 6270.327504] 9
+[ 6270.327507] 7f
+[ 6270.327510] fc
+[ 6270.327513] 14
+[ 6270.327516] 3
+[ 6270.327519] 77
+[ 6270.327521] 18
+[ 6270.327524] d7
+[ 6270.327527] b2
+[ 6270.327530] ad
+[ 6270.327533] 78
+[ 6270.327536] a6
+[ 6270.327539] 87
+[ 6270.327542] d0
+[ 6270.327545] 84
+[ 6270.327547] a0
+[ 6270.327550] a9
+[ 6270.327553] c
+[ 6270.327556] 4d
+[ 6270.327559] ae
+[ 6270.327562] ab
+[ 6270.327565] a4
+[ 6270.327568] 4d
+[ 6270.327571] ba
+[ 6270.327574] 44
+[ 6270.327576] 7e
+[ 6270.327579] 8b
+[ 6270.327582] 57
+[ 6270.327585] f7
+[ 6270.327588] d1
+[ 6270.327591] f5
+[ 6270.327594] 14
+[ 6270.327597] ea
+[ 6270.327600] aa
+[ 6270.327603] 5e
+[ 6270.327605] 61
+[ 6270.327608] dd
+[ 6270.327612] c2
+[ 6270.327615] 83
+[ 6270.327618] f5
+[ 6270.327621] 35
+[ 6270.327624] 56
+[ 6270.327627] 9a
+[ 6270.327629] 54
+[ 6270.327632] 96
+[ 6270.327635] bf
+[ 6270.327638] 9a
+[ 6270.327641] ba
+[ 6270.327644] 45
+[ 6270.327647] 54
+[ 6270.327650] 1a
+[ 6270.327653] 8c
+[ 6270.327655] 13
+[ 6270.327658] b4
+[ 6270.327661] 22
+[ 6270.327664] 1b
+[ 6270.327667] 55
+[ 6270.327670] 2
+[ 6270.327673] 8
+[ 6270.327676] 56
+[ 6270.327679] 48
+[ 6270.327682] 24
+[ 6270.327684] 76
+[ 6270.327687] dc
+[ 6270.327690] 6
+[ 6270.327693] 12
+[ 6270.327696] b4
+[ 6270.327699] 1e
+[ 6270.327702] 41
+[ 6270.327705] 97
+[ 6270.327708] 4
+[ 6270.327711] 2c
+[ 6270.327845] 67
+[ 6270.329215] 84
+[ 6270.329219] 9c
+[ 6270.329222] 64
+[ 6270.329225] a0
+[ 6270.329228] 75
+[ 6270.329231] e4
+[ 6270.329233] 12
+[ 6270.329236] aa
+[ 6270.329239] 3f
+[ 6270.329242] b5
+[ 6270.329245] bb
+[ 6270.329248] f8
+[ 6270.329251] db
+[ 6270.329254] 40
+[ 6270.329257] 27
+[ 6270.329260] 1b
+[ 6270.329262] 83
+[ 6270.329265] 9a
+[ 6270.329268] 2f
+[ 6270.329271] 1c
+[ 6270.329274] 35
+[ 6270.329277] 62
+[ 6270.329280] b6
+[ 6270.329283] b1
+[ 6270.329286] cb
+[ 6270.329289] 66
+[ 6270.329292] e4
+[ 6270.329294] d4
+[ 6270.329297] 6c
+[ 6270.329300] d1
+[ 6270.329303] 97
+[ 6270.329306] 5e
+[ 6270.329309] e5
+[ 6270.329312] d6
+[ 6270.329315] 75
+[ 6270.329318] ca
+[ 6270.329321] df
+[ 6270.329323] 4c
+[ 6270.329326] 5e
+[ 6270.329329] 11
+[ 6270.329332] 14
+[ 6270.329335] 30
+[ 6270.329338] 11
+[ 6270.329341] c6
+[ 6270.329344] 89
+[ 6270.329347] 9
+[ 6270.329350] 68
+[ 6270.329352] ab
+[ 6270.329355] cb
+[ 6270.329358] e9
+[ 6270.329361] 0
+[ 6270.329364] 17
+[ 6270.329367] 76
+[ 6270.329370] 12
+[ 6270.329373] 2d
+[ 6270.329376] 7b
+[ 6270.329379] 12
+[ 6270.329382] ef
+[ 6270.329385] 93
+[ 6270.329388] 89
+[ 6270.329391] a9
+[ 6270.329393] 9c
+[ 6270.329396] de
+[ 6270.329399] 5a
+[ 6270.329402] 9e
+[ 6270.329405] cd
+[ 6270.329408] 57
+[ 6270.329411] ae
+[ 6270.329414] ca
+[ 6270.329417] 1f
+[ 6270.329420] 26
+[ 6270.329423] 94
+[ 6270.329425] 11
+[ 6270.329428] 72
+[ 6270.329432] 53
+[ 6270.329435] 9b
+[ 6270.329437] 78
+[ 6270.329440] ea
+[ 6270.329443] b9
+[ 6270.329446] a8
+[ 6270.329449] ff
+[ 6270.329452] 50
+[ 6270.329455] 9c
+[ 6270.329458] 77
+[ 6270.329461] bd
+[ 6270.329464] 6c
+[ 6270.329467] 9c
+[ 6270.329469] a5
+[ 6270.329472] 6c
+[ 6270.329475] d5
+[ 6270.329478] 3a
+[ 6270.329481] 1a
+[ 6270.329484] 17
+[ 6270.329487] 21
+[ 6270.329490] 8d
+[ 6270.329493] 57
+[ 6270.329496] 0
+[ 6270.329499] 9c
+[ 6270.329502] 6e
+[ 6270.329505] e0
+[ 6270.329507] ec
+[ 6270.329510] 51
+[ 6270.329513] 17
+[ 6270.329516] b2
+[ 6270.329519] 5c
+[ 6270.329522] 8c
+[ 6270.329525] 16
+[ 6270.329528] f6
+[ 6270.329531] 0
+[ 6270.329534] 3f
+[ 6270.329537] fa
+[ 6270.329540] 92
+[ 6270.329543] e1
+[ 6270.329545] d5
+[ 6270.329548] a7
+[ 6270.329551] a7
+[ 6270.329554] 34
+[ 6270.329557] b6
+[ 6270.329560] d7
+[ 6270.329563] da
+[ 6270.329566] ca
+[ 6270.329569] 62
+[ 6270.329572] a9
+[ 6270.329574] 9b
+[ 6270.329577] fc
+[ 6270.329580] a6
+[ 6270.329583] 99
+[ 6270.329586] 13
+[ 6270.329589] d
+[ 6270.329592] d7
+[ 6270.329595] d2
+[ 6270.329598] 6f
+[ 6270.329601] 
+[ 6270.329602] 3
+[ 6270.329606] 
+[ 6270.329608] DSTP
+[ 6270.329612] 1
+[ 6270.329615] 0
+[ 6270.329617] 0
+[ 6270.329620] 0
+[ 6270.329623] 87
+[ 6270.329841] 7f
+[ 6270.329846] 0
+[ 6270.329849] 0
+[ 6270.329851] 28
+[ 6270.329854] 51
+[ 6270.329857] 75
+[ 6270.329860] 14
+[ 6270.329863] 87
+[ 6270.329866] 7f
+[ 6270.329869] 0
+[ 6270.329872] 0
+[ 6270.329875] 0
+[ 6270.329877] 0
+[ 6270.329880] 0
+[ 6270.329883] 0
+[ 6270.329886] 0
+[ 6270.329889] 0
+[ 6270.329891] 0
+[ 6270.329894] 0
+[ 6270.329897] a
+[ 6270.329900] f0
+[ 6270.329903] 53
+[ 6270.329906] 14
+[ 6270.329908] 87
+[ 6270.329911] 7f
+[ 6270.329914] 0
+[ 6270.329917] 0
+[ 6270.329920] 60
+[ 6270.329923] 61
+[ 6270.329926] 54
+[ 6270.329928] 88
+[ 6270.329931] ff
+[ 6270.329934] 7f
+[ 6270.329937] 0
+[ 6270.329940] 0
+[ 6270.329943] 0
+[ 6270.329946] 72
+[ 6270.329948] 46
+[ 6270.329951] 88
+[ 6270.329954] ff
+[ 6270.329957] 7f
+[ 6270.329960] 0
+[ 6270.329963] 0
+[ 6270.329966] 0
+[ 6270.329969] 0
+[ 6270.329972] 0
+[ 6270.329975] 0
+[ 6270.329978] 0
+[ 6270.329980] 0
+[ 6270.329983] 0
+[ 6270.329986] 0
+[ 6270.329989] 80
+[ 6270.329992] 54
+[ 6270.329995] 75
+[ 6270.329998] 14
+[ 6270.330001] 87
+[ 6270.330003] 7f
+[ 6270.330006] 0
+[ 6270.330009] 0
+[ 6270.330012] 0
+[ 6270.330015] 72
+[ 6270.330018] 46
+[ 6270.330021] 88
+[ 6270.330024] ff
+[ 6270.330026] 7f
+[ 6270.330029] 0
+[ 6270.330032] 0
+[ 6270.330035] 18
+[ 6270.330038] 72
+[ 6270.330041] 46
+[ 6270.330044] 88
+[ 6270.330046] ff
+[ 6270.330049] 7f
+[ 6270.330052] 0
+[ 6270.330055] 0
+[ 6270.330058] 2e
+[ 6270.330061] 4e
+[ 6270.330064] 3d
+[ 6270.330067] f6
+[ 6270.330070] 1
+[ 6270.330072] 0
+[ 6270.330075] 0
+[ 6270.330078] 0
+[ 6270.330081] c3
+[ 6270.330084] 4
+[ 6270.330087] 40
+[ 6270.330090] 0
+[ 6270.330092] 0
+[ 6270.330095] 0
+[ 6270.330098] 0
+[ 6270.330101] 0
+[ 6270.330104] 68
+[ 6270.330107] 62
+[ 6270.330110] 54
+[ 6270.330112] 88
+[ 6270.330115] ff
+[ 6270.330118] 7f
+[ 6270.330121] 0
+[ 6270.330124] 0
+[ 6270.330127] 0
+[ 6270.330130] 0
+[ 6270.330132] 0
+[ 6270.330135] 0
+[ 6270.330138] 0
+[ 6270.330141] 0
+[ 6270.330144] 0
+[ 6270.330146] 0
+[ 6270.330149] 2e
+[ 6270.330152] 0
+[ 6270.330155] 0
+[ 6270.330158] 0
+[ 6270.330161] 0
+[ 6270.330164] 0
+[ 6270.330166] 0
+[ 6270.330169] 0
+[ 6270.330172] 38
+[ 6270.330175] f5
+[ 6270.330178] d8
+[ 6270.330181] 3
+[ 6270.330184] 0
+[ 6270.330187] 0
+[ 6270.330189] 0
+[ 6270.330192] 0
+[ 6270.330195] 34
+[ 6270.330198] 7a
+[ 6270.330201] 1d
+[ 6270.330204] 14
+[ 6270.330207] 87
+[ 6270.330210] 7f
+[ 6270.330212] 0
+[ 6270.330215] 0
+[ 6270.330218] 50
+[ 6270.330221] 73
+[ 6270.330224] 46
+[ 6270.330227] 88
+[ 6270.330230] ff
+[ 6270.330233] 7f
+[ 6270.330236] 0
+[ 6270.330239] 0
+[ 6270.330242] 28
+[ 6270.330245] 7c
+[ 6270.330247] 1d
+[ 6270.330250] 14
+[ 6270.330253] 87
+[ 6270.330256] 7f
+[ 6270.330259] 0
+[ 6270.330262] 0
+[ 6270.330265] c0
+[ 6270.330268] 3a
+[ 6270.330270] 1e
+[ 6270.330273] 14
+[ 6270.330276] 87
+[ 6270.330279] 7f
+[ 6270.330282] 0
+[ 6270.330285] 0
+[ 6270.330288] 68
+[ 6270.330291] 73
+[ 6270.330294] 46
+[ 6270.330296] 88
+[ 6270.330299] ff
+[ 6270.330302] 7f
+[ 6270.330305] 0
+[ 6270.330308] 0
+[ 6270.330311] b8
+[ 6270.330314] 56
+[ 6270.330317] 75
+[ 6270.330319] 14
+[ 6270.330322] 87
+[ 6270.330325] 7f
+[ 6270.330328] 0
+[ 6270.330331] 0
+[ 6270.330334] 98
+[ 6270.330337] 14
+[ 6270.330340] 1e
+[ 6270.330342] 14
+[ 6270.330345] 87
+[ 6270.330348] 7f
+[ 6270.330351] 0
+[ 6270.330354] 0
+[ 6270.330357] b0
+[ 6270.330360] 24
+[ 6270.330363] 75
+[ 6270.330366] 14
+[ 6270.330369] 87
+[ 6270.330372] 7f
+[ 6270.330375] 0
+[ 6270.330378] 0
+[ 6270.330380] b0
+[ 6270.330383] 24
+[ 6270.330386] 75
+[ 6270.330389] 14
+[ 6270.330392] 87
+[ 6270.330395] 7f
+[ 6270.330398] 0
+[ 6270.330401] 0
+[ 6270.330404] ff
+[ 6270.330406] ff
+[ 6270.330409] ff
+[ 6270.330412] ff
+[ 6270.330415] 0
+[ 6270.330418] 0
+[ 6270.330421] 0
+[ 6270.330424] 0
+[ 6270.330426] 78
+[ 6270.330429] 46
+[ 6270.330432] 1e
+[ 6270.330435] 14
+[ 6270.330438] 87
+[ 6270.330441] 7f
+[ 6270.330444] 0
+[ 6270.330447] 0
+[ 6270.330449] 1
+[ 6270.330452] 0
+[ 6270.330455] 0
+[ 6270.330458] 0
+[ 6270.330461] 0
+[ 6270.330464] 0
+[ 6270.330466] 0
+[ 6270.330469] 0
+[ 6270.330472] 18
+[ 6270.330475] 13
+[ 6270.330478] 60
+[ 6270.330481] 0
+[ 6270.330484] 0
+[ 6270.330487] 0
+[ 6270.330489] 0
+[ 6270.330492] 0
+[ 6270.330495] 0
+[ 6270.330498] 0
+[ 6270.330501] 0
+[ 6270.330504] 0
+[ 6270.330507] 0
+[ 6270.330509] 0
+[ 6270.330512] 0
+[ 6270.330515] 0
+[ 6270.330518] 0
+[ 6270.330521] 0
+[ 6270.330524] 0
+[ 6270.330526] 0
+[ 6270.330529] 0
+[ 6270.330532] 0
+[ 6270.330535] 0
+[ 6270.330538] 0
+[ 6270.330541] 0
+[ 6270.330543] 0
+[ 6270.330546] 0
+[ 6270.330549] 0
+[ 6270.330552] 0
+[ 6270.330555] 0
+[ 6270.330558] 0
+[ 6270.330560] 0
+[ 6270.330563] 
+[ 6270.330565] 4
+[ 6270.330569] 
+[ 6270.330571] IVP
+[ 6270.330574] 0
+[ 6270.330577] 0
+[ 6270.330580] 0
+[ 6270.330583] 0
+[ 6270.330585] 0
+[ 6270.330588] 0
+[ 6270.330591] 0
+[ 6270.330594] 0
+[ 6270.330597] 12
+[ 6270.330599] 37
+[ 6270.330602] 54
+[ 6270.330605] 14
+[ 6270.330608] 87
+[ 6270.330611] 7f
+[ 6270.330614] 0
+[ 6270.330616] 0
+[ 6270.330619] 0
+[ 6270.330622] 1
+[ 6270.330625] 2
+[ 6270.330628] 3
+[ 6270.330630] 4
+[ 6270.330633] 5
+[ 6270.330636] 6
+[ 6270.330639] 7
+[ 6270.330642] 8
+[ 6270.330644] 9
+[ 6270.330647] a
+[ 6270.330650] b
+[ 6270.330653] c
+[ 6270.330655] d
+[ 6270.330658] e
+[ 6270.330661] f
+[ 6270.330664] 10
+[ 6270.330667] 11
+[ 6270.330670] 12
+[ 6270.330672] 13
+[ 6270.330675] 14
+[ 6270.330678] 15
+[ 6270.330681] 16
+[ 6270.330684] 17
+[ 6270.330687] 98
+[ 6270.330689] 14
+[ 6270.330692] 1e
+[ 6270.330695] 14
+[ 6270.330698] 87
+[ 6270.330701] 7f
+[ 6270.330704] 0
+[ 6270.330706] 0
+[ 6270.330709] fe
+[ 6270.330712] 8d
+[ 6270.330715] 7a
+[ 6270.330718] ef
+[ 6270.330721] 1
+[ 6270.330723] 0
+[ 6270.330726] 0
+[ 6270.330729] 0
+[ 6270.330732] 0
+[ 6270.330735] 1
+[ 6270.330737] 0
+[ 6270.330740] 0
+[ 6270.330743] 0
+[ 6270.330746] 0
+[ 6270.330749] 0
+[ 6270.330751] 0
+[ 6270.330754] 
+[ 6270.330756] 5
+[ 6270.330761] send_buf: Entering
+[ 6270.330766] reclaim_consumed_buffers: Entering
+[ 6270.330772] reclaim_consumed_buffers: Leaving
+[ 6270.331568] in_intr: Entering
+[ 6270.331574] get_inbuf: Entering
+[ 6270.331578] get_inbuf: Leaving
+[ 6270.331580] in_intr: Leaving
+[ 6270.331830] out_intr: Entering
+[ 6270.331836] out_intr: Leaving
+[ 6270.331846] send_buf: Leaving
+[ 6270.331850] device_has_data: Entering
+[ 6270.331854] get_inbuf: Entering
+[ 6270.331859] device_has_data: Leaving
+[ 6270.331863] fill_readbuf: Entering
+[ 6270.331867] device_has_data: Entering
+[ 6270.331871] get_inbuf: Entering
+[ 6270.331875] device_has_data: Leaving
+[ 6270.331880] add_inbuf: Entering
+[ 6270.332371] add_inbuf: Leaving
+[ 6270.332376] fill_readbuf: Leaving
+[ 6270.332380] before
+[ 6270.332384] after
+[ 6270.332387] after
+[ 6270.332393] crypto_chrdev_ioctl: Leaving
+[ 6270.345046] crypto_chrdev_ioctl: Entering
+[ 6270.345063] IN CIOCFSESSION
+[ 6270.345068] send_buf: Entering
+[ 6270.345073] reclaim_consumed_buffers: Entering
+[ 6270.345080] reclaim_consumed_buffers: Leaving
+[ 6270.345890] in_intr: Entering
+[ 6270.345897] get_inbuf: Entering
+[ 6270.345903] get_inbuf: Leaving
+[ 6270.345908] in_intr: Leaving
+[ 6270.345919] send_buf: Leaving
+[ 6270.345923] device_has_data: Entering
+[ 6270.345927] get_inbuf: Entering
+[ 6270.345931] device_has_data: Leaving
+[ 6270.345935] fill_readbuf: Entering
+[ 6270.345939] device_has_data: Entering
+[ 6270.345943] get_inbuf: Entering
+[ 6270.345947] device_has_data: Leaving
+[ 6270.345951] add_inbuf: Entering
+[ 6270.346198] add_inbuf: Leaving
+[ 6270.346203] fill_readbuf: Leaving
+[ 6270.346210] crypto_chrdev_ioctl: Leaving
+[ 6270.360966] crypto_chrdev_release: Entering
+[ 6270.360978] send_control_msg: Entering
+[ 6270.361575] control_in_intr: Entering
+[ 6270.361584] OK@Close fd in host machine
+[ 6270.361589] add_inbuf: Entering
+[ 6270.361903] add_inbuf: Leaving
+[ 6270.361910] control_in_intr: Leaving
+[ 6270.361923] send_control_msg: Leaving
+[ 6270.361927] crypto_chrdev_release: Leaving

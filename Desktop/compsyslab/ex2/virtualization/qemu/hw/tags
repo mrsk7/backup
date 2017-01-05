@@ -1,0 +1,460 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AALG_MAX_RESULT_LEN	cryptodev.h	74;"	d
+AES_BLOCK_LEN	cryptodev.h	64;"	d
+BLOWFISH_BLOCK_LEN	cryptodev.h	66;"	d
+CAMELLIA_BLOCK_LEN	cryptodev.h	65;"	d
+CAST128_BLOCK_LEN	cryptodev.h	68;"	d
+CIOCASYMFEAT	cryptodev.h	278;"	d
+CIOCASYNCCRYPT	cryptodev.h	286;"	d
+CIOCASYNCFETCH	cryptodev.h	287;"	d
+CIOCAUTHCRYPT	cryptodev.h	290;"	d
+CIOCCRYPT	cryptodev.h	276;"	d
+CIOCFSESSION	cryptodev.h	275;"	d
+CIOCGSESSINFO	cryptodev.h	279;"	d
+CIOCGSESSION	cryptodev.h	274;"	d
+CIOCKEY	cryptodev.h	277;"	d
+COP_DECRYPT	cryptodev.h	119;"	d
+COP_ENCRYPT	cryptodev.h	118;"	d
+COP_FLAG_AEAD_SRTP_TYPE	cryptodev.h	218;"	d
+COP_FLAG_AEAD_TLS_TYPE	cryptodev.h	216;"	d
+COP_FLAG_FINAL	cryptodev.h	213;"	d
+COP_FLAG_NONE	cryptodev.h	211;"	d
+COP_FLAG_NO_ZC	cryptodev.h	215;"	d
+COP_FLAG_RESET	cryptodev.h	220;"	d
+COP_FLAG_UPDATE	cryptodev.h	212;"	d
+COP_FLAG_WRITE_IV	cryptodev.h	214;"	d
+CRF_DH_COMPUTE_KEY	cryptodev.h	268;"	d
+CRF_DSA_SIGN	cryptodev.h	266;"	d
+CRF_DSA_VERIFY	cryptodev.h	267;"	d
+CRF_MOD_EXP	cryptodev.h	264;"	d
+CRF_MOD_EXP_CRT	cryptodev.h	265;"	d
+CRIOGET	cryptodev.h	273;"	d
+CRIOGET_NOT_NEEDED	cryptodev.h	283;"	d
+CRK_ALGORITHM_ALL	cryptodev.h	/^	CRK_ALGORITHM_ALL$/;"	e	enum:cryptodev_crk_op_t
+CRK_ALGORITHM_MAX	cryptodev.h	260;"	d
+CRK_DH_COMPUTE_KEY	cryptodev.h	/^	CRK_DH_COMPUTE_KEY = 4,$/;"	e	enum:cryptodev_crk_op_t
+CRK_DSA_SIGN	cryptodev.h	/^	CRK_DSA_SIGN = 2,$/;"	e	enum:cryptodev_crk_op_t
+CRK_DSA_VERIFY	cryptodev.h	/^	CRK_DSA_VERIFY = 3,$/;"	e	enum:cryptodev_crk_op_t
+CRK_MAXPARAM	cryptodev.h	239;"	d
+CRK_MOD_EXP	cryptodev.h	/^	CRK_MOD_EXP = 0,$/;"	e	enum:cryptodev_crk_op_t
+CRK_MOD_EXP_CRT	cryptodev.h	/^	CRK_MOD_EXP_CRT = 1,$/;"	e	enum:cryptodev_crk_op_t
+CRYPTODEV_MAX_ALG_NAME	cryptodev.h	77;"	d
+CRYPTO_3DES_CBC	cryptodev.h	/^	CRYPTO_3DES_CBC = 2,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_AES_CBC	cryptodev.h	/^	CRYPTO_AES_CBC = CRYPTO_RIJNDAEL128_CBC,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_AES_CTR	cryptodev.h	/^	CRYPTO_AES_CTR = 21,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_AES_ECB	cryptodev.h	/^	CRYPTO_AES_ECB = 23,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_AES_GCM	cryptodev.h	/^	CRYPTO_AES_GCM = 50,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_AES_XTS	cryptodev.h	/^	CRYPTO_AES_XTS = 22,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_ALGORITHM_ALL	cryptodev.h	/^	CRYPTO_ALGORITHM_ALL, \/* Keep updated - see below *\/$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_ALGORITHM_MAX	cryptodev.h	58;"	d
+CRYPTO_ALG_FLAG_DSA_SHA	cryptodev.h	232;"	d
+CRYPTO_ALG_FLAG_RNG_ENABLE	cryptodev.h	231;"	d
+CRYPTO_ALG_FLAG_SUPPORTED	cryptodev.h	230;"	d
+CRYPTO_ARC4	cryptodev.h	/^	CRYPTO_ARC4 = 12,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_BLF_CBC	cryptodev.h	/^	CRYPTO_BLF_CBC = 3,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_BLOCK_MAX_LEN	cryptodev.h	18;"	d
+CRYPTO_CAMELLIA_CBC	cryptodev.h	/^	CRYPTO_CAMELLIA_CBC = 101,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_CAST_CBC	cryptodev.h	/^	CRYPTO_CAST_CBC = 4,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_CIPHER_MAX_KEY_LEN	cryptodev.h	15;"	d
+CRYPTO_DATA_MAX_LEN	cryptodev.h	19;"	d
+CRYPTO_DEFLATE_COMP	cryptodev.h	/^	CRYPTO_DEFLATE_COMP = 15,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_DES_CBC	cryptodev.h	/^	CRYPTO_DES_CBC = 1,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_HMAC_MAX_KEY_LEN	cryptodev.h	14;"	d
+CRYPTO_LZS_COMP	cryptodev.h	/^	CRYPTO_LZS_COMP = 17,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_MD5	cryptodev.h	/^	CRYPTO_MD5 = 13,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_MD5_HMAC	cryptodev.h	/^	CRYPTO_MD5_HMAC = 6,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_MD5_KPDK	cryptodev.h	/^	CRYPTO_MD5_KPDK = 9,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_NULL	cryptodev.h	/^	CRYPTO_NULL = 16,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_RIJNDAEL128_CBC	cryptodev.h	/^	CRYPTO_RIJNDAEL128_CBC = 11,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_RIPEMD160	cryptodev.h	/^	CRYPTO_RIPEMD160,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_RIPEMD160_HMAC	cryptodev.h	/^	CRYPTO_RIPEMD160_HMAC = 8,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_SHA1	cryptodev.h	/^	CRYPTO_SHA1 = 14,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_SHA1_HMAC	cryptodev.h	/^	CRYPTO_SHA1_HMAC = 7,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_SHA1_KPDK	cryptodev.h	/^	CRYPTO_SHA1_KPDK = 10,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_SHA2_256	cryptodev.h	/^	CRYPTO_SHA2_256,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_SHA2_256_HMAC	cryptodev.h	/^	CRYPTO_SHA2_256_HMAC = 18,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_SHA2_384	cryptodev.h	/^	CRYPTO_SHA2_384,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_SHA2_384_HMAC	cryptodev.h	/^	CRYPTO_SHA2_384_HMAC = 19,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_SHA2_512	cryptodev.h	/^	CRYPTO_SHA2_512,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_SHA2_512_HMAC	cryptodev.h	/^	CRYPTO_SHA2_512_HMAC = 20,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_SKIPJACK_CBC	cryptodev.h	/^	CRYPTO_SKIPJACK_CBC = 5,$/;"	e	enum:cryptodev_crypto_op_t
+DES3_BLOCK_LEN	cryptodev.h	62;"	d
+DES_BLOCK_LEN	cryptodev.h	61;"	d
+EALG_MAX_BLOCK_LEN	cryptodev.h	71;"	d
+FMT_PCIBUS	pci.h	81;"	d
+FUNC_IN	virtio-crypto.h	19;"	d
+FUNC_OUT	virtio-crypto.h	20;"	d
+HASH_MAX_LEN	cryptodev.h	79;"	d
+L_CRYPTODEV_H	cryptodev.h	6;"	d
+MSIVectorReleaseNotifier	pci.h	/^typedef void (*MSIVectorReleaseNotifier)(PCIDevice *dev, unsigned int vector);$/;"	t
+MSIVectorUseNotifier	pci.h	/^typedef int (*MSIVectorUseNotifier)(PCIDevice *dev, unsigned int vector,$/;"	t
+PCIConfigReadFunc	pci.h	/^typedef uint32_t PCIConfigReadFunc(PCIDevice *pci_dev,$/;"	t
+PCIConfigWriteFunc	pci.h	/^typedef void PCIConfigWriteFunc(PCIDevice *pci_dev,$/;"	t
+PCIDMAContextFunc	pci.h	/^typedef DMAContext *(*PCIDMAContextFunc)(PCIBus *, void *, int);$/;"	t
+PCIDevice	pci.h	/^struct PCIDevice {$/;"	s
+PCIDeviceClass	pci.h	/^typedef struct PCIDeviceClass {$/;"	s
+PCIDeviceClass	pci.h	/^} PCIDeviceClass;$/;"	t	typeref:struct:PCIDeviceClass
+PCIE_CONFIG_SPACE_SIZE	pci.h	113;"	d
+PCIHotplugState	pci.h	/^} PCIHotplugState;$/;"	t	typeref:enum:__anon3
+PCIINTxRoute	pci.h	/^typedef struct PCIINTxRoute {$/;"	s
+PCIINTxRoute	pci.h	/^} PCIINTxRoute;$/;"	t	typeref:struct:PCIINTxRoute
+PCIINTxRoutingNotifier	pci.h	/^typedef void (*PCIINTxRoutingNotifier)(PCIDevice *dev);$/;"	t
+PCIIORegion	pci.h	/^typedef struct PCIIORegion {$/;"	s
+PCIIORegion	pci.h	/^} PCIIORegion;$/;"	t	typeref:struct:PCIIORegion
+PCIMapIORegionFunc	pci.h	/^typedef void PCIMapIORegionFunc(PCIDevice *pci_dev, int region_num,$/;"	t
+PCIUnregisterFunc	pci.h	/^typedef void PCIUnregisterFunc(PCIDevice *pci_dev);$/;"	t
+PCI_BAR_UNMAPPED	pci.h	93;"	d
+PCI_COLDPLUG_ENABLED	pci.h	/^    PCI_COLDPLUG_ENABLED,$/;"	e	enum:__anon3
+PCI_CONFIG_HEADER_SIZE	pci.h	109;"	d
+PCI_CONFIG_SPACE_SIZE	pci.h	111;"	d
+PCI_DEVFN	pci.h	17;"	d
+PCI_DEVICE	pci.h	138;"	d
+PCI_DEVICE_CLASS	pci.h	140;"	d
+PCI_DEVICE_GET_CLASS	pci.h	142;"	d
+PCI_DEVICE_ID_APPLE_343S1201	pci.h	37;"	d
+PCI_DEVICE_ID_APPLE_IPID_USB	pci.h	41;"	d
+PCI_DEVICE_ID_APPLE_UNI_N_I_PCI	pci.h	38;"	d
+PCI_DEVICE_ID_APPLE_UNI_N_KEYL	pci.h	40;"	d
+PCI_DEVICE_ID_APPLE_UNI_N_PCI	pci.h	39;"	d
+PCI_DEVICE_ID_HITACHI_SH7751R	pci.h	34;"	d
+PCI_DEVICE_ID_IBM_440GX	pci.h	29;"	d
+PCI_DEVICE_ID_IBM_OPENPIC2	pci.h	30;"	d
+PCI_DEVICE_ID_INTEL_82551IT	pci.h	65;"	d
+PCI_DEVICE_ID_INTEL_82557	pci.h	66;"	d
+PCI_DEVICE_ID_INTEL_82801IR	pci.h	67;"	d
+PCI_DEVICE_ID_MARVELL_GT6412X	pci.h	50;"	d
+PCI_DEVICE_ID_QEMU_VGA	pci.h	54;"	d
+PCI_DEVICE_ID_REALTEK_8029	pci.h	44;"	d
+PCI_DEVICE_ID_VIRTIO_BALLOON	pci.h	76;"	d
+PCI_DEVICE_ID_VIRTIO_BLOCK	pci.h	75;"	d
+PCI_DEVICE_ID_VIRTIO_CONSOLE	pci.h	77;"	d
+PCI_DEVICE_ID_VIRTIO_CRYPTO	pci.h	79;"	d
+PCI_DEVICE_ID_VIRTIO_NET	pci.h	74;"	d
+PCI_DEVICE_ID_VIRTIO_SCSI	pci.h	78;"	d
+PCI_DEVICE_ID_VMWARE_IDE	pci.h	62;"	d
+PCI_DEVICE_ID_VMWARE_NET	pci.h	60;"	d
+PCI_DEVICE_ID_VMWARE_SCSI	pci.h	61;"	d
+PCI_DEVICE_ID_VMWARE_SVGA	pci.h	59;"	d
+PCI_DEVICE_ID_VMWARE_SVGA2	pci.h	58;"	d
+PCI_DEVICE_ID_XILINX_XC2VP30	pci.h	47;"	d
+PCI_DMA_DEFINE_LDST	pci.h	615;"	d
+PCI_DMA_DEFINE_LDST	pci.h	635;"	d
+PCI_FUNC	pci.h	19;"	d
+PCI_FUNC_MAX	pci.h	21;"	d
+PCI_HEADER_TYPE_MULTI_FUNCTION	pci.h	106;"	d
+PCI_HOTPLUG_DISABLED	pci.h	/^    PCI_HOTPLUG_DISABLED,$/;"	e	enum:__anon3
+PCI_HOTPLUG_ENABLED	pci.h	/^    PCI_HOTPLUG_ENABLED,$/;"	e	enum:__anon3
+PCI_INTX_DISABLED	pci.h	/^        PCI_INTX_DISABLED,$/;"	e	enum:PCIINTxRoute::__anon2
+PCI_INTX_ENABLED	pci.h	/^        PCI_INTX_ENABLED,$/;"	e	enum:PCIINTxRoute::__anon2
+PCI_INTX_INVERTED	pci.h	/^        PCI_INTX_INVERTED,$/;"	e	enum:PCIINTxRoute::__anon2
+PCI_NUM_PINS	pci.h	115;"	d
+PCI_NUM_REGIONS	pci.h	101;"	d
+PCI_ROM_SLOT	pci.h	100;"	d
+PCI_SLOT	pci.h	18;"	d
+PCI_SLOT_MAX	pci.h	20;"	d
+PCI_SUBDEVICE_ID_QEMU	pci.h	72;"	d
+PCI_SUBVENDOR_ID_REDHAT_QUMRANET	pci.h	71;"	d
+PCI_VENDOR_ID_HITACHI	pci.h	33;"	d
+PCI_VENDOR_ID_QEMU	pci.h	53;"	d
+PCI_VENDOR_ID_REDHAT_QUMRANET	pci.h	70;"	d
+PCI_VENDOR_ID_VMWARE	pci.h	57;"	d
+QEMU_PCI_CAP_EXPRESS	pci.h	/^    QEMU_PCI_CAP_EXPRESS = 0x4,$/;"	e	enum:__anon1
+QEMU_PCI_CAP_MSI	pci.h	/^    QEMU_PCI_CAP_MSI = 0x1,$/;"	e	enum:__anon1
+QEMU_PCI_CAP_MSIX	pci.h	/^    QEMU_PCI_CAP_MSIX = 0x2,$/;"	e	enum:__anon1
+QEMU_PCI_CAP_MULTIFUNCTION	pci.h	/^    QEMU_PCI_CAP_MULTIFUNCTION = (1 << QEMU_PCI_CAP_MULTIFUNCTION_BITNR),$/;"	e	enum:__anon1
+QEMU_PCI_CAP_MULTIFUNCTION_BITNR	pci.h	124;"	d
+QEMU_PCI_CAP_SERR	pci.h	/^    QEMU_PCI_CAP_SERR = (1 << QEMU_PCI_CAP_SERR_BITNR),$/;"	e	enum:__anon1
+QEMU_PCI_CAP_SERR_BITNR	pci.h	128;"	d
+QEMU_PCI_CAP_SHPC	pci.h	/^    QEMU_PCI_CAP_SHPC = (1 << QEMU_PCI_SHPC_BITNR),$/;"	e	enum:__anon1
+QEMU_PCI_CAP_SLOTID	pci.h	/^    QEMU_PCI_CAP_SLOTID = (1 << QEMU_PCI_SLOTID_BITNR),$/;"	e	enum:__anon1
+QEMU_PCI_H	pci.h	2;"	d
+QEMU_PCI_SHPC_BITNR	pci.h	131;"	d
+QEMU_PCI_SLOTID_BITNR	pci.h	133;"	d
+RIJNDAEL128_BLOCK_LEN	cryptodev.h	63;"	d
+SIOP_FLAG_KERNEL_DRIVER_ONLY	cryptodev.h	116;"	d
+SKIPJACK_BLOCK_LEN	cryptodev.h	67;"	d
+TYPE_PCI_DEVICE	pci.h	137;"	d
+VIRTIO_CRYPTO_DEVICE_GUEST_OPEN	virtio-crypto.h	39;"	d
+VIRTIO_CRYPTO_DEVICE_HOST_OPEN	virtio-crypto.h	40;"	d
+VIRTIO_ID_CRYPTO	virtio-crypto.h	22;"	d
+VIRTIO_MSI_CONFIG_VECTOR	virtio-pci.c	70;"	d	file:
+VIRTIO_MSI_QUEUE_VECTOR	virtio-pci.c	72;"	d	file:
+VIRTIO_PCI_CONFIG	virtio-pci.c	83;"	d	file:
+VIRTIO_PCI_CONFIG_MSI	virtio-pci.c	76;"	d	file:
+VIRTIO_PCI_CONFIG_NOMSI	virtio-pci.c	75;"	d	file:
+VIRTIO_PCI_FLAG_BUS_MASTER_BUG	virtio-pci.c	92;"	d	file:
+VIRTIO_PCI_GUEST_FEATURES	virtio-pci.c	46;"	d	file:
+VIRTIO_PCI_HOST_FEATURES	virtio-pci.c	43;"	d	file:
+VIRTIO_PCI_ISR	virtio-pci.c	66;"	d	file:
+VIRTIO_PCI_QUEUE_ADDR_SHIFT	virtio-pci.c	89;"	d	file:
+VIRTIO_PCI_QUEUE_NOTIFY	virtio-pci.c	58;"	d	file:
+VIRTIO_PCI_QUEUE_NUM	virtio-pci.c	52;"	d	file:
+VIRTIO_PCI_QUEUE_PFN	virtio-pci.c	49;"	d	file:
+VIRTIO_PCI_QUEUE_SEL	virtio-pci.c	55;"	d	file:
+VIRTIO_PCI_REGION_SIZE	virtio-pci.c	77;"	d	file:
+VIRTIO_PCI_STATUS	virtio-pci.c	61;"	d	file:
+VMSTATE_PCI_DEVICE	pci.h	660;"	d
+VMSTATE_PCI_DEVICE_POINTER	pci.h	668;"	d
+VirtIOCrypto	virtio-crypto.c	/^struct VirtIOCrypto {$/;"	s	file:
+VirtIOCrypto	virtio-crypto.h	/^typedef struct VirtIOCrypto VirtIOCrypto;$/;"	t	typeref:struct:VirtIOCrypto
+_VIRTIO_CRYPTO_H	virtio-crypto.h	14;"	d
+__user	cryptodev.h	10;"	d
+addr	pci.h	/^    pcibus_t addr; \/* current PCI mapping address. -1 means not mapped *\/$/;"	m	struct:PCIIORegion
+address_space	pci.h	/^    MemoryRegion *address_space;$/;"	m	struct:PCIIORegion
+alg_info	cryptodev.h	/^	struct alg_info {$/;"	s	struct:session_info_op
+alignmask	cryptodev.h	/^	__u16	alignmask;	\/* alignment constraints *\/$/;"	m	struct:session_info_op
+auth_len	cryptodev.h	/^	__u32	auth_len;	\/* length of auth data *\/$/;"	m	struct:crypt_auth_op
+auth_src	cryptodev.h	/^	__u8	__user *auth_src;	\/* authenticated-only data *\/$/;"	m	struct:crypt_auth_op
+bus	pci.h	/^    PCIBus *bus;$/;"	m	struct:PCIDevice
+c_ivq	virtio-crypto.c	/^	VirtQueue *c_ivq, *c_ovq;$/;"	m	struct:VirtIOCrypto	file:
+c_ovq	virtio-crypto.c	/^	VirtQueue *c_ivq, *c_ovq;$/;"	m	struct:VirtIOCrypto	file:
+cap_present	pci.h	/^    uint32_t cap_present;$/;"	m	struct:PCIDevice
+cipher	cryptodev.h	/^	__u32	cipher;		\/* cryptodev_crypto_op_t *\/$/;"	m	struct:session_op
+cipher_info	cryptodev.h	/^	} cipher_info, hash_info;$/;"	m	struct:session_info_op	typeref:struct:session_info_op::alg_info
+class_id	pci.h	/^    uint16_t class_id;$/;"	m	struct:PCIDeviceClass
+cmask	pci.h	/^    uint8_t *cmask;$/;"	m	struct:PCIDevice
+cmd	virtio-crypto.h	/^	unsigned int cmd;$/;"	m	struct:virtio_crypto_buffer
+config	pci.h	/^    uint8_t *config;$/;"	m	struct:PCIDevice
+config	virtio-crypto.c	/^	struct virtio_crypto_config config;$/;"	m	struct:VirtIOCrypto	typeref:struct:VirtIOCrypto::virtio_crypto_config	file:
+config_read	pci.h	/^    PCIConfigReadFunc *config_read;$/;"	m	struct:PCIDevice
+config_read	pci.h	/^    PCIConfigReadFunc *config_read;$/;"	m	struct:PCIDeviceClass
+config_write	pci.h	/^    PCIConfigWriteFunc *config_write;$/;"	m	struct:PCIDevice
+config_write	pci.h	/^    PCIConfigWriteFunc *config_write;$/;"	m	struct:PCIDeviceClass
+control_in	virtio-crypto.c	/^static void control_in(VirtIODevice *vdev, VirtQueue *vq)$/;"	f	file:
+control_out	virtio-crypto.c	/^static void control_out(VirtIODevice *vdev, VirtQueue *vq)$/;"	f	file:
+cra_driver_name	cryptodev.h	/^		char cra_driver_name[CRYPTODEV_MAX_ALG_NAME];$/;"	m	struct:session_info_op::alg_info
+cra_name	cryptodev.h	/^		char cra_name[CRYPTODEV_MAX_ALG_NAME];$/;"	m	struct:session_info_op::alg_info
+crk_iparams	cryptodev.h	/^	__u16	crk_iparams;$/;"	m	struct:crypt_kop
+crk_op	cryptodev.h	/^	__u32	crk_op;		\/* cryptodev_crk_ot_t *\/$/;"	m	struct:crypt_kop
+crk_oparams	cryptodev.h	/^	__u16	crk_oparams;$/;"	m	struct:crypt_kop
+crk_pad1	cryptodev.h	/^	__u32	crk_pad1;$/;"	m	struct:crypt_kop
+crk_param	cryptodev.h	/^	struct crparam	crk_param[CRK_MAXPARAM];$/;"	m	struct:crypt_kop	typeref:struct:crypt_kop::crparam
+crk_status	cryptodev.h	/^	__u32	crk_status;$/;"	m	struct:crypt_kop
+crp_nbits	cryptodev.h	/^	__u32	crp_nbits;$/;"	m	struct:crparam
+crp_p	cryptodev.h	/^	__u8	*crp_p;$/;"	m	struct:crparam
+crparam	cryptodev.h	/^struct crparam {$/;"	s
+crypt	virtio-crypto.h	/^		struct crypt_op crypt;$/;"	m	union:virtio_crypto_buffer::__anon4	typeref:struct:virtio_crypto_buffer::__anon4::crypt_op
+crypt_auth_op	cryptodev.h	/^struct crypt_auth_op {$/;"	s
+crypt_kop	cryptodev.h	/^struct crypt_kop {$/;"	s
+crypt_op	cryptodev.h	/^struct crypt_op {$/;"	s
+crypto_handle_ioctl_packet	virtio-crypto.c	/^static ssize_t crypto_handle_ioctl_packet(VirtIOCrypto *crdev, $/;"	f	file:
+cryptodev_crk_op_t	cryptodev.h	/^enum cryptodev_crk_op_t {$/;"	g
+cryptodev_crypto_op_t	cryptodev.h	/^enum cryptodev_crypto_op_t {$/;"	g
+devfn	pci.h	/^    int32_t devfn;$/;"	m	struct:PCIDevice
+device_id	pci.h	/^    uint16_t device_id;$/;"	m	struct:PCIDeviceClass
+dma	pci.h	/^    DMAContext *dma;$/;"	m	struct:PCIDevice
+dst	cryptodev.h	/^	__u8	__user *dst;	\/* pointer to output data *\/$/;"	m	struct:crypt_op
+dst	cryptodev.h	/^	__u8	__user *dst;	\/* pointer to output data. Must have$/;"	m	struct:crypt_auth_op
+dstp	virtio-crypto.h	/^	uint8_t dstp[CRYPTO_DATA_MAX_LEN];$/;"	m	struct:virtio_crypto_buffer
+event	virtio-crypto.h	/^	uint16_t event;     \/* The kind of control event (see below) *\/$/;"	m	struct:virtio_crypto_control
+exit	pci.h	/^    PCIUnregisterFunc *exit;$/;"	m	struct:PCIDeviceClass
+exp	pci.h	/^    PCIExpressDevice exp;$/;"	m	struct:PCIDevice
+fd	virtio-crypto.c	/^	int fd;$/;"	m	struct:VirtIOCrypto	file:
+flags	cryptodev.h	/^	__u16	flags;		\/* see COP_FLAG_* *\/$/;"	m	struct:crypt_op
+flags	cryptodev.h	/^	__u16	flags;		\/* see COP_FLAG_AEAD_* *\/$/;"	m	struct:crypt_auth_op
+flags	cryptodev.h	/^	__u32   flags;          \/* SIOP_FLAGS_* *\/$/;"	m	struct:session_info_op
+get_config	virtio-crypto.c	/^static void get_config(VirtIODevice *vdev, uint8_t *config_data)$/;"	f	file:
+get_features	virtio-crypto.c	/^static uint32_t get_features(VirtIODevice *vdev, uint32_t features)$/;"	f	file:
+handle_control_message	virtio-crypto.c	/^static void handle_control_message(VirtIOCrypto *crdev, void *buf, size_t len)$/;"	f	file:
+handle_input	virtio-crypto.c	/^static void handle_input(VirtIODevice *vdev, VirtQueue *vq)$/;"	f	file:
+handle_output	virtio-crypto.c	/^static void handle_output(VirtIODevice *vdev, VirtQueue *vq)$/;"	f	file:
+has_rom	pci.h	/^    bool has_rom;$/;"	m	struct:PCIDevice
+hash_info	cryptodev.h	/^	} cipher_info, hash_info;$/;"	m	struct:session_info_op	typeref:struct:session_info_op::alg_info
+init	pci.h	/^    int (*init)(PCIDevice *dev);$/;"	m	struct:PCIDeviceClass
+intx_routing_notifier	pci.h	/^    PCIINTxRoutingNotifier intx_routing_notifier;$/;"	m	struct:PCIDevice
+io_regions	pci.h	/^    PCIIORegion io_regions[PCI_NUM_REGIONS];$/;"	m	struct:PCIDevice
+irq	pci.h	/^    int irq;$/;"	m	struct:PCIINTxRoute
+irq	pci.h	/^    qemu_irq *irq;$/;"	m	struct:PCIDevice
+irq_state	pci.h	/^    uint8_t irq_state;$/;"	m	struct:PCIDevice
+is_bridge	pci.h	/^    int is_bridge;$/;"	m	struct:PCIDeviceClass
+is_express	pci.h	/^    int is_express;   \/* is this device pci express? *\/$/;"	m	struct:PCIDeviceClass
+iv	cryptodev.h	/^	__u8	__user *iv;$/;"	m	struct:crypt_auth_op
+iv	cryptodev.h	/^	__u8	__user *iv;$/;"	m	struct:crypt_op
+iv_len	cryptodev.h	/^	__u32   iv_len;$/;"	m	struct:crypt_auth_op
+ivp	virtio-crypto.h	/^	uint8_t ivp[CRYPTO_BLOCK_MAX_LEN];$/;"	m	struct:virtio_crypto_buffer
+ivq	virtio-crypto.c	/^	VirtQueue *ivq, *ovq;$/;"	m	struct:VirtIOCrypto	file:
+key	cryptodev.h	/^	__u8	__user *key;$/;"	m	struct:session_op
+keylen	cryptodev.h	/^	__u32	keylen;$/;"	m	struct:session_op
+keyp	virtio-crypto.h	/^	uint8_t keyp[CRYPTO_CIPHER_MAX_KEY_LEN];$/;"	m	struct:virtio_crypto_buffer
+kvm_virtio_pci_vector_release	virtio-pci.c	/^static void kvm_virtio_pci_vector_release(PCIDevice *dev, unsigned vector)$/;"	f	file:
+kvm_virtio_pci_vector_use	virtio-pci.c	/^static int kvm_virtio_pci_vector_use(PCIDevice *dev, unsigned vector,$/;"	f	file:
+kvm_virtio_pci_vq_vector_release	virtio-pci.c	/^static void kvm_virtio_pci_vq_vector_release(VirtIOPCIProxy *proxy,$/;"	f	file:
+kvm_virtio_pci_vq_vector_use	virtio-pci.c	/^static int kvm_virtio_pci_vq_vector_use(VirtIOPCIProxy *proxy,$/;"	f	file:
+len	cryptodev.h	/^	__u32	len;		\/* length of source data *\/$/;"	m	struct:crypt_auth_op
+len	cryptodev.h	/^	__u32	len;		\/* length of source data *\/$/;"	m	struct:crypt_op
+mac	cryptodev.h	/^	__u32	mac;		\/* cryptodev_crypto_op_t *\/$/;"	m	struct:session_op
+mac	cryptodev.h	/^	__u8	__user *mac;$/;"	m	struct:crypt_op
+mackey	cryptodev.h	/^	__u8	__user *mackey;$/;"	m	struct:session_op
+mackeylen	cryptodev.h	/^	__u32	mackeylen;$/;"	m	struct:session_op
+memory	pci.h	/^    MemoryRegion *memory;$/;"	m	struct:PCIIORegion
+mode	pci.h	/^    } mode;$/;"	m	struct:PCIINTxRoute	typeref:enum:PCIINTxRoute::__anon2
+msi_cap	pci.h	/^    uint8_t msi_cap;$/;"	m	struct:PCIDevice
+msix_cap	pci.h	/^    uint8_t msix_cap;$/;"	m	struct:PCIDevice
+msix_entries_nr	pci.h	/^    int msix_entries_nr;$/;"	m	struct:PCIDevice
+msix_entry_used	pci.h	/^    unsigned *msix_entry_used;$/;"	m	struct:PCIDevice
+msix_exclusive_bar	pci.h	/^    MemoryRegion msix_exclusive_bar;$/;"	m	struct:PCIDevice
+msix_function_masked	pci.h	/^    bool msix_function_masked;$/;"	m	struct:PCIDevice
+msix_pba	pci.h	/^    uint8_t *msix_pba;$/;"	m	struct:PCIDevice
+msix_pba_mmio	pci.h	/^    MemoryRegion msix_pba_mmio;$/;"	m	struct:PCIDevice
+msix_table	pci.h	/^    uint8_t *msix_table;$/;"	m	struct:PCIDevice
+msix_table_mmio	pci.h	/^    MemoryRegion msix_table_mmio;$/;"	m	struct:PCIDevice
+msix_vector_release_notifier	pci.h	/^    MSIVectorReleaseNotifier msix_vector_release_notifier;$/;"	m	struct:PCIDevice
+msix_vector_use_notifier	pci.h	/^    MSIVectorUseNotifier msix_vector_use_notifier;$/;"	m	struct:PCIDevice
+name	pci.h	/^    char name[64];$/;"	m	struct:PCIDevice
+no_hotplug	pci.h	/^    int no_hotplug;$/;"	m	struct:PCIDeviceClass
+op	cryptodev.h	/^	__u16	op;		\/* COP_ENCRYPT or COP_DECRYPT *\/$/;"	m	struct:crypt_auth_op
+op	cryptodev.h	/^	__u16	op;		\/* COP_ENCRYPT or COP_DECRYPT *\/$/;"	m	struct:crypt_op
+op	virtio-crypto.h	/^	} op;$/;"	m	struct:virtio_crypto_buffer	typeref:union:virtio_crypto_buffer::__anon4
+ovq	virtio-crypto.c	/^	VirtQueue *ivq, *ovq;$/;"	m	struct:VirtIOCrypto	file:
+parent_class	pci.h	/^    DeviceClass parent_class;$/;"	m	struct:PCIDeviceClass
+pci_byte_test_and_clear_mask	pci.h	/^pci_byte_test_and_clear_mask(uint8_t *config, uint8_t mask)$/;"	f
+pci_byte_test_and_set_mask	pci.h	/^pci_byte_test_and_set_mask(uint8_t *config, uint8_t mask)$/;"	f
+pci_config_set_class	pci.h	/^pci_config_set_class(uint8_t *pci_config, uint16_t val)$/;"	f
+pci_config_set_device_id	pci.h	/^pci_config_set_device_id(uint8_t *pci_config, uint16_t val)$/;"	f
+pci_config_set_interrupt_pin	pci.h	/^pci_config_set_interrupt_pin(uint8_t *pci_config, uint8_t val)$/;"	f
+pci_config_set_prog_interface	pci.h	/^pci_config_set_prog_interface(uint8_t *pci_config, uint8_t val)$/;"	f
+pci_config_set_revision	pci.h	/^pci_config_set_revision(uint8_t *pci_config, uint8_t val)$/;"	f
+pci_config_set_vendor_id	pci.h	/^pci_config_set_vendor_id(uint8_t *pci_config, uint16_t val)$/;"	f
+pci_config_size	pci.h	/^static inline uint32_t pci_config_size(const PCIDevice *d)$/;"	f
+pci_dma_context	pci.h	/^static inline DMAContext *pci_dma_context(PCIDevice *dev)$/;"	f
+pci_dma_map	pci.h	/^static inline void *pci_dma_map(PCIDevice *dev, dma_addr_t addr,$/;"	f
+pci_dma_read	pci.h	/^static inline int pci_dma_read(PCIDevice *dev, dma_addr_t addr,$/;"	f
+pci_dma_rw	pci.h	/^static inline int pci_dma_rw(PCIDevice *dev, dma_addr_t addr,$/;"	f
+pci_dma_sglist_init	pci.h	/^static inline void pci_dma_sglist_init(QEMUSGList *qsg, PCIDevice *dev,$/;"	f
+pci_dma_unmap	pci.h	/^static inline void pci_dma_unmap(PCIDevice *dev, void *buffer, dma_addr_t len,$/;"	f
+pci_dma_write	pci.h	/^static inline int pci_dma_write(PCIDevice *dev, dma_addr_t addr,$/;"	f
+pci_get_byte	pci.h	/^pci_get_byte(const uint8_t *config)$/;"	f
+pci_get_byte_by_mask	pci.h	/^pci_get_byte_by_mask(uint8_t *config, uint8_t mask)$/;"	f
+pci_get_long	pci.h	/^pci_get_long(const uint8_t *config)$/;"	f
+pci_get_long_by_mask	pci.h	/^pci_get_long_by_mask(uint8_t *config, uint32_t mask)$/;"	f
+pci_get_quad	pci.h	/^pci_get_quad(const uint8_t *config)$/;"	f
+pci_get_quad_by_mask	pci.h	/^pci_get_quad_by_mask(uint8_t *config, uint64_t mask)$/;"	f
+pci_get_word	pci.h	/^pci_get_word(const uint8_t *config)$/;"	f
+pci_get_word_by_mask	pci.h	/^pci_get_word_by_mask(uint8_t *config, uint16_t mask)$/;"	f
+pci_hotplug_fn	pci.h	/^typedef int (*pci_hotplug_fn)(DeviceState *qdev, PCIDevice *pci_dev,$/;"	t
+pci_is_express	pci.h	/^static inline int pci_is_express(const PCIDevice *d)$/;"	f
+pci_long_test_and_clear_mask	pci.h	/^pci_long_test_and_clear_mask(uint8_t *config, uint32_t mask)$/;"	f
+pci_long_test_and_set_mask	pci.h	/^pci_long_test_and_set_mask(uint8_t *config, uint32_t mask)$/;"	f
+pci_map_irq_fn	pci.h	/^typedef int (*pci_map_irq_fn)(PCIDevice *pci_dev, int irq_num);$/;"	t
+pci_quad_test_and_clear_mask	pci.h	/^pci_quad_test_and_clear_mask(uint8_t *config, uint64_t mask)$/;"	f
+pci_quad_test_and_set_mask	pci.h	/^pci_quad_test_and_set_mask(uint8_t *config, uint64_t mask)$/;"	f
+pci_route_irq_fn	pci.h	/^typedef PCIINTxRoute (*pci_route_irq_fn)(void *opaque, int pin);$/;"	t
+pci_set_byte	pci.h	/^pci_set_byte(uint8_t *config, uint8_t val)$/;"	f
+pci_set_byte_by_mask	pci.h	/^pci_set_byte_by_mask(uint8_t *config, uint8_t mask, uint8_t reg)$/;"	f
+pci_set_irq_fn	pci.h	/^typedef void (*pci_set_irq_fn)(void *opaque, int irq_num, int level);$/;"	t
+pci_set_long	pci.h	/^pci_set_long(uint8_t *config, uint32_t val)$/;"	f
+pci_set_long_by_mask	pci.h	/^pci_set_long_by_mask(uint8_t *config, uint32_t mask, uint32_t reg)$/;"	f
+pci_set_quad	pci.h	/^pci_set_quad(uint8_t *config, uint64_t val)$/;"	f
+pci_set_quad_by_mask	pci.h	/^pci_set_quad_by_mask(uint8_t *config, uint64_t mask, uint64_t reg)$/;"	f
+pci_set_word	pci.h	/^pci_set_word(uint8_t *config, uint16_t val)$/;"	f
+pci_set_word_by_mask	pci.h	/^pci_set_word_by_mask(uint8_t *config, uint16_t mask, uint16_t reg)$/;"	f
+pci_word_test_and_clear_mask	pci.h	/^pci_word_test_and_clear_mask(uint8_t *config, uint16_t mask)$/;"	f
+pci_word_test_and_set_mask	pci.h	/^pci_word_test_and_set_mask(uint8_t *config, uint16_t mask)$/;"	f
+qdev	pci.h	/^    DeviceState qdev;$/;"	m	struct:PCIDevice
+revision	pci.h	/^    uint8_t revision;$/;"	m	struct:PCIDeviceClass
+rom	pci.h	/^    MemoryRegion rom;$/;"	m	struct:PCIDevice
+rom_bar	pci.h	/^    uint32_t rom_bar;$/;"	m	struct:PCIDevice
+romfile	pci.h	/^    char *romfile;$/;"	m	struct:PCIDevice
+romfile	pci.h	/^    const char *romfile;$/;"	m	struct:PCIDeviceClass
+send_buffer	virtio-crypto.c	/^static size_t send_buffer(VirtIOCrypto *crdev, const uint8_t *buf, size_t size)$/;"	f	file:
+send_control_event	virtio-crypto.c	/^static size_t send_control_event(VirtIOCrypto *crdev, uint16_t event, $/;"	f	file:
+ses	cryptodev.h	/^	__u32	ses;		\/* session identifier *\/$/;"	m	struct:crypt_auth_op
+ses	cryptodev.h	/^	__u32	ses;		\/* session identifier *\/$/;"	m	struct:crypt_op
+ses	cryptodev.h	/^	__u32	ses;		\/* session identifier *\/$/;"	m	struct:session_op
+ses	cryptodev.h	/^	__u32 ses;		\/* session identifier *\/$/;"	m	struct:session_info_op
+sess	virtio-crypto.h	/^		struct session_op sess;$/;"	m	union:virtio_crypto_buffer::__anon4	typeref:struct:virtio_crypto_buffer::__anon4::session_op
+sess_id	virtio-crypto.h	/^		uint32_t sess_id;$/;"	m	union:virtio_crypto_buffer::__anon4
+session_info_op	cryptodev.h	/^struct session_info_op {$/;"	s
+session_op	cryptodev.h	/^struct session_op {$/;"	s
+set_config	virtio-crypto.c	/^static void set_config(VirtIODevice *vdev, const uint8_t *config_data)$/;"	f	file:
+shpc	pci.h	/^    SHPCDevice *shpc;$/;"	m	struct:PCIDevice
+size	pci.h	/^    pcibus_t size;$/;"	m	struct:PCIIORegion
+src	cryptodev.h	/^	__u8	__user *src;	\/* data to be encrypted and authenticated *\/$/;"	m	struct:crypt_auth_op
+src	cryptodev.h	/^	__u8	__user *src;	\/* source data *\/$/;"	m	struct:crypt_op
+srcp	virtio-crypto.h	/^	uint8_t srcp[CRYPTO_DATA_MAX_LEN];$/;"	m	struct:virtio_crypto_buffer
+subsystem_id	pci.h	/^    uint16_t subsystem_id;              \/* only for header type = 0 *\/$/;"	m	struct:PCIDeviceClass
+subsystem_vendor_id	pci.h	/^    uint16_t subsystem_vendor_id;       \/* only for header type = 0 *\/$/;"	m	struct:PCIDeviceClass
+tag	cryptodev.h	/^	__u8    __user *tag;    \/* where the tag will be copied to. TLS mode$/;"	m	struct:crypt_auth_op
+tag_len	cryptodev.h	/^	__u32	tag_len;	\/* the length of the tag. Use zero for digest size or max tag. *\/$/;"	m	struct:crypt_auth_op
+test	virtio-crypto.h	/^	uint32_t test;$/;"	m	struct:virtio_crypto_config
+type	pci.h	/^    uint8_t type;$/;"	m	struct:PCIIORegion
+used	pci.h	/^    uint8_t *used;$/;"	m	struct:PCIDevice
+value	virtio-crypto.h	/^	int16_t value;     \/* Extra information for the key *\/$/;"	m	struct:virtio_crypto_control
+vdev	virtio-crypto.c	/^	VirtIODevice vdev;$/;"	m	struct:VirtIOCrypto	file:
+vendor_id	pci.h	/^    uint16_t vendor_id;$/;"	m	struct:PCIDeviceClass
+version_id	pci.h	/^    int32_t version_id;$/;"	m	struct:PCIDevice
+virtio_balloon_class_init	virtio-pci.c	/^static void virtio_balloon_class_init(ObjectClass *klass, void *data)$/;"	f	file:
+virtio_balloon_exit_pci	virtio-pci.c	/^static void virtio_balloon_exit_pci(PCIDevice *pci_dev)$/;"	f	file:
+virtio_balloon_info	virtio-pci.c	/^static TypeInfo virtio_balloon_info = {$/;"	v	file:
+virtio_balloon_init_pci	virtio-pci.c	/^static int virtio_balloon_init_pci(PCIDevice *pci_dev)$/;"	f	file:
+virtio_balloon_properties	virtio-pci.c	/^static Property virtio_balloon_properties[] = {$/;"	v	file:
+virtio_blk_class_init	virtio-pci.c	/^static void virtio_blk_class_init(ObjectClass *klass, void *data)$/;"	f	file:
+virtio_blk_exit_pci	virtio-pci.c	/^static void virtio_blk_exit_pci(PCIDevice *pci_dev)$/;"	f	file:
+virtio_blk_info	virtio-pci.c	/^static TypeInfo virtio_blk_info = {$/;"	v	file:
+virtio_blk_init_pci	virtio-pci.c	/^static int virtio_blk_init_pci(PCIDevice *pci_dev)$/;"	f	file:
+virtio_blk_properties	virtio-pci.c	/^static Property virtio_blk_properties[] = {$/;"	v	file:
+virtio_crypto_buffer	virtio-crypto.h	/^struct virtio_crypto_buffer {$/;"	s
+virtio_crypto_buffer	virtio-crypto.h	/^typedef struct virtio_crypto_buffer virtio_crypto_buffer;$/;"	t	typeref:struct:virtio_crypto_buffer
+virtio_crypto_config	virtio-crypto.h	/^struct virtio_crypto_config {$/;"	s
+virtio_crypto_config	virtio-crypto.h	/^typedef struct virtio_crypto_config virtio_crypto_config;$/;"	t	typeref:struct:virtio_crypto_config
+virtio_crypto_control	virtio-crypto.h	/^struct virtio_crypto_control {$/;"	s
+virtio_crypto_exit	virtio-crypto.c	/^void virtio_crypto_exit(VirtIODevice *vdev)$/;"	f
+virtio_crypto_init	virtio-crypto.c	/^VirtIODevice *virtio_crypto_init(DeviceState *dev)$/;"	f
+virtio_crypto_serial_class_init	virtio-pci.c	/^static void virtio_crypto_serial_class_init(ObjectClass *klass, void *data)$/;"	f	file:
+virtio_crypto_serial_exit_pci	virtio-pci.c	/^static void virtio_crypto_serial_exit_pci(PCIDevice *pci_dev)$/;"	f	file:
+virtio_crypto_serial_info	virtio-pci.c	/^static TypeInfo virtio_crypto_serial_info = {$/;"	v	file:
+virtio_crypto_serial_init_pci	virtio-pci.c	/^static int virtio_crypto_serial_init_pci(PCIDevice *pci_dev)$/;"	f	file:
+virtio_crypto_serial_properties	virtio-pci.c	/^static Property virtio_crypto_serial_properties[] = {$/;"	v	file:
+virtio_exit_pci	virtio-pci.c	/^static void virtio_exit_pci(PCIDevice *pci_dev)$/;"	f	file:
+virtio_init_pci	virtio-pci.c	/^void virtio_init_pci(VirtIOPCIProxy *proxy, VirtIODevice *vdev)$/;"	f
+virtio_ioport_read	virtio-pci.c	/^static uint32_t virtio_ioport_read(VirtIOPCIProxy *proxy, uint32_t addr)$/;"	f	file:
+virtio_ioport_write	virtio-pci.c	/^static void virtio_ioport_write(void *opaque, uint32_t addr, uint32_t val)$/;"	f	file:
+virtio_net_class_init	virtio-pci.c	/^static void virtio_net_class_init(ObjectClass *klass, void *data)$/;"	f	file:
+virtio_net_exit_pci	virtio-pci.c	/^static void virtio_net_exit_pci(PCIDevice *pci_dev)$/;"	f	file:
+virtio_net_info	virtio-pci.c	/^static TypeInfo virtio_net_info = {$/;"	v	file:
+virtio_net_init_pci	virtio-pci.c	/^static int virtio_net_init_pci(PCIDevice *pci_dev)$/;"	f	file:
+virtio_net_properties	virtio-pci.c	/^static Property virtio_net_properties[] = {$/;"	v	file:
+virtio_pci_bindings	virtio-pci.c	/^static const VirtIOBindings virtio_pci_bindings = {$/;"	v	file:
+virtio_pci_config_ops	virtio-pci.c	/^static const MemoryRegionOps virtio_pci_config_ops = {$/;"	v	file:
+virtio_pci_config_readb	virtio-pci.c	/^static uint32_t virtio_pci_config_readb(void *opaque, uint32_t addr)$/;"	f	file:
+virtio_pci_config_readl	virtio-pci.c	/^static uint32_t virtio_pci_config_readl(void *opaque, uint32_t addr)$/;"	f	file:
+virtio_pci_config_readw	virtio-pci.c	/^static uint32_t virtio_pci_config_readw(void *opaque, uint32_t addr)$/;"	f	file:
+virtio_pci_config_writeb	virtio-pci.c	/^static void virtio_pci_config_writeb(void *opaque, uint32_t addr, uint32_t val)$/;"	f	file:
+virtio_pci_config_writel	virtio-pci.c	/^static void virtio_pci_config_writel(void *opaque, uint32_t addr, uint32_t val)$/;"	f	file:
+virtio_pci_config_writew	virtio-pci.c	/^static void virtio_pci_config_writew(void *opaque, uint32_t addr, uint32_t val)$/;"	f	file:
+virtio_pci_get_features	virtio-pci.c	/^static unsigned virtio_pci_get_features(void *opaque)$/;"	f	file:
+virtio_pci_load_config	virtio-pci.c	/^static int virtio_pci_load_config(void * opaque, QEMUFile *f)$/;"	f	file:
+virtio_pci_load_queue	virtio-pci.c	/^static int virtio_pci_load_queue(void * opaque, int n, QEMUFile *f)$/;"	f	file:
+virtio_pci_notify	virtio-pci.c	/^static void virtio_pci_notify(void *opaque, uint16_t vector)$/;"	f	file:
+virtio_pci_query_guest_notifiers	virtio-pci.c	/^static bool virtio_pci_query_guest_notifiers(void *opaque)$/;"	f	file:
+virtio_pci_register_types	virtio-pci.c	/^static void virtio_pci_register_types(void)$/;"	f	file:
+virtio_pci_reset	virtio-pci.c	/^void virtio_pci_reset(DeviceState *d)$/;"	f
+virtio_pci_save_config	virtio-pci.c	/^static void virtio_pci_save_config(void * opaque, QEMUFile *f)$/;"	f	file:
+virtio_pci_save_queue	virtio-pci.c	/^static void virtio_pci_save_queue(void * opaque, int n, QEMUFile *f)$/;"	f	file:
+virtio_pci_set_guest_notifier	virtio-pci.c	/^static int virtio_pci_set_guest_notifier(void *opaque, int n, bool assign)$/;"	f	file:
+virtio_pci_set_guest_notifiers	virtio-pci.c	/^static int virtio_pci_set_guest_notifiers(void *opaque, bool assign)$/;"	f	file:
+virtio_pci_set_host_notifier	virtio-pci.c	/^static int virtio_pci_set_host_notifier(void *opaque, int n, bool assign)$/;"	f	file:
+virtio_pci_set_host_notifier_internal	virtio-pci.c	/^static int virtio_pci_set_host_notifier_internal(VirtIOPCIProxy *proxy,$/;"	f	file:
+virtio_pci_start_ioeventfd	virtio-pci.c	/^static void virtio_pci_start_ioeventfd(VirtIOPCIProxy *proxy)$/;"	f	file:
+virtio_pci_stop_ioeventfd	virtio-pci.c	/^static void virtio_pci_stop_ioeventfd(VirtIOPCIProxy *proxy)$/;"	f	file:
+virtio_pci_vmstate_change	virtio-pci.c	/^static void virtio_pci_vmstate_change(void *opaque, bool running)$/;"	f	file:
+virtio_portio	virtio-pci.c	/^static const MemoryRegionPortio virtio_portio[] = {$/;"	v	file:
+virtio_scsi_class_init	virtio-pci.c	/^static void virtio_scsi_class_init(ObjectClass *klass, void *data)$/;"	f	file:
+virtio_scsi_exit_pci	virtio-pci.c	/^static void virtio_scsi_exit_pci(PCIDevice *pci_dev)$/;"	f	file:
+virtio_scsi_info	virtio-pci.c	/^static TypeInfo virtio_scsi_info = {$/;"	v	file:
+virtio_scsi_init_pci	virtio-pci.c	/^static int virtio_scsi_init_pci(PCIDevice *pci_dev)$/;"	f	file:
+virtio_scsi_properties	virtio-pci.c	/^static Property virtio_scsi_properties[] = {$/;"	v	file:
+virtio_serial_class_init	virtio-pci.c	/^static void virtio_serial_class_init(ObjectClass *klass, void *data)$/;"	f	file:
+virtio_serial_exit_pci	virtio-pci.c	/^static void virtio_serial_exit_pci(PCIDevice *pci_dev)$/;"	f	file:
+virtio_serial_info	virtio-pci.c	/^static TypeInfo virtio_serial_info = {$/;"	v	file:
+virtio_serial_init_pci	virtio-pci.c	/^static int virtio_serial_init_pci(PCIDevice *pci_dev)$/;"	f	file:
+virtio_serial_properties	virtio-pci.c	/^static Property virtio_serial_properties[] = {$/;"	v	file:
+virtio_write_config	virtio-pci.c	/^static void virtio_write_config(PCIDevice *pci_dev, uint32_t address,$/;"	f	file:
+w1cmask	pci.h	/^    uint8_t *w1cmask;$/;"	m	struct:PCIDevice
+wmask	pci.h	/^    uint8_t *wmask;$/;"	m	struct:PCIDevice
+wmb	virtio-pci.c	98;"	d	file:

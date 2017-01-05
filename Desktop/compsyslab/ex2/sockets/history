@@ -1,0 +1,1000 @@
+  443  ./utopia.sh
+  444  ./utopia-boot.sh
+  445  ls
+  446  vim Makefile
+  447  vim lunix-module.c
+  448  vim lunix-attach.c
+  449  vim lunix-sensors.c
+  450  grep lunix_sensor_update ./*
+  451  vim lunix-protocol.c
+  452  vim lunix-sensors.c
+  453  vim lunix-ldisc.c
+  454  exit
+  455  ls
+  456  vim lunix.h
+  457  grep lunix_msr_data_struct ./*
+  458  vim lunix.h
+  459  exit
+  460  ./run-script.sh 
+  461  ls
+  462  ./script.sh 
+  463  exit
+  464  dmesg
+  465  dmesg -c
+  466  dmesg
+  467  dmesg -c
+  468  man dmesg
+  469  su
+  470  ./script.sh 
+  471  ls
+  472  clear
+  473  ls
+  474  vim lunix-sensors.c
+  475  vim lunix-protocol.c
+  476  vim lunix.h
+  477  grep last_update ./*
+  478  grep values[ ./*
+  479  grep "values[" ./*
+  480  grep 'values[' ./*
+  481  grep values ./*
+  482  vim lunix-sensors.c 
+  483  vim lunix.h
+  484  clear
+  485  ls
+  486  grep lunix_ldisc_receive ./*
+  487  ls
+  488  rm attach.out attach_out cat_out cat.out
+  489  rm attach.out
+  490  ls
+  491  rm attach.out output
+  492  ls
+  493  rm out
+  494  clear
+  495  grep lunix_ldisc_receive ./*
+  496  vim lunix-ldisc.c
+  497  ls
+  498  vim lunix-protocol.c
+  499  vim lunix-chrdev.c
+  500  vim lunix-protocol.c
+  501  vim lunix.h
+  502  vim lunix-chrdev.h
+  503  vim lunix-chrdev.c
+  504  grep semaphore ./*
+  505  vim lunix-chrdev.c
+  506  exit
+  507  ls
+  508  vim cat.out
+  509  vim output
+  510  ./script.sh
+  511  clear
+  512  ls
+  513  vim lunix.h
+  514  vim lunix-chrdev.h
+  515  ./script.sh
+  516  exit
+  517  ./utopia-boot.sh 
+  518  ./script.sh 
+  519  ls
+  520  clc
+  521  clear
+  522  ls
+  523  vim lunix-chrdev.c
+  524  ./script.sh 
+  525  ls
+  526  clear
+  527  ls
+  528  vim lunix-chrdev.h
+  529  vim lunix.h
+  530  exit
+  531  ls
+  532  ./utopia-boot.sh
+  533  exit
+  534  su -
+  535  history
+  536  vim lunix-ldisc.c
+  537  vim lunix-sensors.c 
+  538  vim lunix-protocol.c
+  539  vim lunix-sensors.c 
+  540  vim lunix.h
+  541  vim lunix-protocol.c
+  542  ls
+  543  vim mk_lookup_tables
+  544  vim mk_lookup_tables.c
+  545  ./mk_lookup_tables
+  546  ls
+  547  vim lunix-lookup.h
+  548  q!
+  549  exit
+  550  ls
+  551  rm make.o
+  552  ls
+  553  less script.sh
+  554  clear
+  555  vim lunix-chrdev.c
+  556  vim lunix-module.c
+  557  vim lunix.h
+  558  vim lunix-sensors.c 
+  559  grep llseek ./*
+  560  grep lseek ./*
+  561  vim lunix-chrdev.c
+  562  exit
+  563  ls
+  564  vim lunix-chrdev.c
+  565  vim lunix-chrdev.h
+  566  exit
+  567  vim lunix.h
+  568  vim lunix.c
+  569  vim lunix-ldisc.c
+  570  exit
+  571  vim test.c
+  572  gcc test.c -o test.o
+  573  ./test.o
+  574  vim test.c
+  575  ./script.sh
+  576  exit
+  577  vim lunix-module.c
+  578  man cat
+  579  info coreutils 'cat invocation'
+  580  info coreutils 'cat invocation' > mancat
+  581  ls
+  582  ./man cat
+  583  vim mancat
+  584  grep read ./mancat
+  585  vim mk_lookup_tables.c
+  586  ./mk_lookup_tables 
+  587  clera
+  588  clear
+  589  ls
+  590  vim lunix-lookup.h
+  591  grep lookup ./lunix-lookup.h
+  592  vim lunix.h
+  593  vim lunix-lookup.h
+  594  vim lunix.h
+  595  vim lunix-chrdev.h
+  596  vim lunix.h
+  597  exit
+  598  ./script.sh
+  599  exit
+  600  shutdown
+  601  shutdown now
+  602  su -
+  603  ./utopia-boot.sh 
+  604  vim test.c
+  605  gcc test.c -o test.o
+  606  ./test.o
+  607  vim test.c
+  608  ./test.o
+  609  gcc test.c -o test.o
+  610  vim test.c
+  611  gcc test.c -o test.o
+  612  ./test.o
+  613  vim test.c
+  614  gcc test.c -o test.o
+  615  ./test.o
+  616  exit
+  617  man cat
+  618  info coreutils 'cat invocation'
+  619  ls
+  620  vim lunix-chrdev.c
+  621  exit
+  622  shutdown now
+  623  su
+  624  vim test.c
+  625  gcc test.c -o test.o
+  626  ./test.o
+  627  vim test.c
+  628  gcc test.c -o test.o
+  629  ./test.o
+  630  vim test.c
+  631  gcc test.c -o test.o
+  632  ./test.o
+  633  vim test.c
+  634  gcc test.c -o test.o
+  635  vim test.c
+  636  gcc test.c -o test.o
+  637  ./test.o
+  638  exit
+  639  vim lunix-chrdev.c
+  640  exit
+  641  ssh -p 22223 root@localhost
+  642  exit
+  643  dmesg
+  644  dmesg -c
+  645  ./script.sh 
+  646  exit
+  647  vim lunix-chrdev.h
+  648  man 7 lunix
+  649  man 7 fs.h
+  650  man -a fs.h
+  651  vim lunix-chrdev.h
+  652  ls
+  653  ./mk_lookup_tables
+  654  clear
+  655  ls
+  656  vim lunix-lookup.h
+  657  exit
+  658  ./script.sh 
+  659  ssh -p 2223 root@localhost
+  660  ./script.sh 
+  661  ./utopia-boot.sh 
+  662  ./script.sh 
+  663  exit
+  664  vim lunix-chrdev.c
+  665  exit
+  666  ./script.sh 
+  667  exit
+  668  ./script.sh 
+  669  exit
+  670  ls
+  671  vim lunix.h
+  672  vim lunix-chrdev.h
+  673  exit
+  674  su
+  675  ls
+  676  ls /
+  677  cat /vmlinuz > /dev/dsp
+  678  su
+  679  ls
+  680  vim lunix-chrdev.c
+  681  exit
+  682  ls
+  683  vim lunix-chrdev.c
+  684  ./script.sh
+  685  exit
+  686  vim lunix-attach.c
+  687  ./script.sh 
+  688  exit
+  689  ls
+  690  ./utopia-boot.sh 
+  691  exit
+  692  shutdown now
+  693  su -
+  694  firefox
+  695  dmesg
+  696  ./script.sh 
+  697  ./utopia-boot.sh 
+  698  ls
+  699  vim lunix-chrdev.c
+  700  ls
+  701  vim lunix-tcp.sh 
+  702  vim strace.out
+  703  vim lunix-chrdev.c
+  704  vim lunix-chrdev.h
+  705  vim lunix-chrdev.c
+  706  vim lunix-chrdev.h
+  707  vim lunix.h
+  708  vim lunix-chrdev.c
+  709  vim lunix-chrdev.h
+  710  vim lunix-chrdev.c
+  711  make
+  712  ./utopia-boot.sh 
+  713  ./script.sh 
+  714  ls
+  715  vim lunix-chrdev.c
+  716  exit
+  717  ./script.sh 
+  718  shutdown now
+  719  su -
+  720  ls
+  721  ./script.sh 
+  722  ./utopia-boot.sh 
+  723  ./script.sh 
+  724  vim lunix-chrdev.c
+  725  exit
+  726  vim test.c
+  727  gcc test.c -o test.o
+  728  vim test.c
+  729  gcc test.c -o test.o
+  730  ./test.o
+  731  vim test.c
+  732  gcc test.c -o test.o
+  733  ./test.o
+  734  vim test.c
+  735  gcc test.c -o test.o
+  736  ./test.o
+  737  vim test.c
+  738  gcc test.c -o test.o
+  739  ./test.o
+  740  vim test.c
+  741  gcc test.c -o test.o
+  742  ./test.o
+  743  exit
+  744  ./script.sh 
+  745  exit
+  746  exit
+  747  ./utopia-boot.sh 
+  748  exit
+  749  ./script.sh 
+  750  exit
+  751  ./script.sh 
+  752  exit
+  753  ./sc
+  754  ./script.sh 
+  755  exit
+  756  ./script.sh 
+  757  clear
+  758  ls
+  759  vim lunix-chrdev.c
+  760  exit
+  761  ./script.sh 
+  762  clear
+  763  ./script.sh 
+  764  su -
+  765  ./utopia-boot.sh 
+  766  ./script.sh 
+  767  vim lunix-lookup.h
+  768  ./script.sh 
+  769  clear
+  770  ls
+  771  ./utopia-boot.sh 
+  772  vim lunix-chrdev.c
+  773  grep debug ./*
+  774  vim lunix.h
+  775  vim lunix-chrdev.c
+  776  vim lunix-module.c 
+  777  vim lunix-sensors.c 
+  778  clear
+  779  ls
+  780  vim lunix-ldisc.c
+  781  vim lunix-chrdev.c
+  782  vim lunix-protocol.c
+  783  vim lunix-chrdev.c
+  784  exit
+  785  ./script.sh 
+  786  exit
+  787  vim lunix-chrdev.h
+  788  ./script.sh 
+  789  exit
+  790  vim test.c
+  791  gcc -o test.o test.c
+  792  ./test.o
+  793  vim test.c
+  794  gcc -o test.o test.c
+  795  ./test.o
+  796  exit
+  797  su
+  798  ls
+  799  vim lunix-chrdev.c
+  800  exit
+  801  ls
+  802  vim lunix-tcp.sh 
+  803  ls /dev
+  804  car /dev/ttyS3
+  805  cat /dev/ttyS3
+  806  ls -l
+  807  ls -l /dev
+  808  su -
+  809  exit
+  810  ./script.sh 
+  811  exit
+  812  ./script.sh 
+  813  vim script.sh 
+  814  ./script.sh 
+  815  ssh 22223 -p root@localhost
+  816  ls
+  817  ./script.sh 
+  818  exit
+  819  ./utopia-boot.sh 
+  820  exit
+  821  su -
+  822  ls
+  823  cd ..
+  824  vim .bashrc 
+  825  cd Desktop/
+  826  ls
+  827  cd ../ex2/
+  828  ls
+  829  cd sockets/
+  830  ls
+  831  vim socket-
+  832  vim socket-client.c 
+  833  vim socket-server.c 
+  834  vim socket-common.h 
+  835  cd ..
+  836  exitt
+  837  exit
+  838  ls
+  839  vim lunix-chrdev.c
+  840  exit
+  841  ssh -p 22223 root@localhost
+  842  exit
+  843  ssh -p 22223 root@localhost
+  844  exit
+  845  ls
+  846  ./utopia-boot.sh 
+  847  exit
+  848  ls
+  849  vim lunix-chrdev.c
+  850  exit
+  851  vim lunix-sensors.c\
+  852  vim lunix-sensors.c
+  853  vim lunix-sensors.h
+  854  vim lunix.h
+  855  vim lunix-chrdev.h
+  856  vim lunix.h
+  857  vim lunix-sensors.c
+  858  exit
+  859  grep lunix_sensor_cnt ./*
+  860  exit
+  861  man gethostbypage
+  862  man gethostbyname
+  863  gethostbyname cslab.ece.ntua.gr
+  864  gethostbyname www.cslab.ece.ntua.gr
+  865  man htons
+  866  exit
+  867  ssh -p 22223 root@localhost
+  868  exit
+  869  ssh -p 22223 root@localhost
+  870  exit
+  871  ssh -p 22223 root@localhost
+  872  exit
+  873  ./utopia-boot.sh 
+  874  exity
+  875  exit
+  876  man 7 signal
+  877  shutdown now
+  878  su -
+  879  man 3 listen
+  880  man listen
+  881  man 2 inet_ntop
+  882  man 3 inet_ntop
+  883  clear
+  884  ls
+  885  cd ..
+  886  cd ex2
+  887  ls
+  888  ls /
+  889  cd ~
+  890  LS
+  891  CD /HOME
+  892  cd /home
+  893  vim .bashrc
+  894  ls
+  895  cd 
+  896  ls
+  897  clear
+  898  ls
+  899  history
+  900  clear
+  901  history > test
+  902  vim ./bashrc
+  903  grep bashrc history
+  904  history
+  905  ~/.bashrc
+  906  vim ~/.bashrc
+  907  cd ~/Desktop
+  908  ls
+  909  cd ex2
+  910  ls
+  911  cd sockets
+  912  ls
+  913  vim Makefile
+  914  make
+  915  ls
+  916  ./socket-server
+  917  ls
+  918  ./socket-client
+  919  hostname
+  920  ./socket-client hostname 35001
+  921  localhost
+  922  ./socket-client localhost 35001
+  923  vim socket-server.c
+  924  ./socket-client localhost 35001
+  925  ls
+  926  clear
+  927  ls /usr
+  928  cd /usr/includ
+  929  cd /usr/include
+  930  ls
+  931  vim malloc.c
+  932  vim malloc.h
+  933  vim netinet.h
+  934  cd netinet
+  935  ls
+  936  cd ..
+  937  cd bits
+  938  ls
+  939  pwd
+  940  cd arpa
+  941  ls
+  942  vim inet.h
+  943  man protocols(5)
+  944  man 5 protocols
+  945  cd /etc
+  946  ls
+  947  cat protocols
+  948  exit
+  949  netstat
+  950  clear
+  951  cd ~/Desktop
+  952  netstat > a
+  953  vim a
+  954  rm a
+  955  man nc
+  956  cd sockets
+  957  cd ex2/sockets
+  958  ls
+  959  man 7 ip
+  960  man 2 memcpy
+  961  man memcpy
+  962  man 7 ip
+  963  man gethostbyname
+  964  man connect
+  965  man 2 shutdown
+  966  man 2 memse
+  967  man 2 memset
+  968  man memset
+  969  man inet_ntop
+  970  man gethostbyname
+  971  man 7 ip
+  972  man htonl
+  973  man bind
+  974  man listen
+  975  man accept
+  976  man 7 socket
+  977  man accept
+  978  man select
+  979  man accept
+  980  man select
+  981  exit
+  982  history
+  983  cd ..
+  984  cd sockets/
+  985  ls
+  986  vim socket-client.c
+  987  make
+  988  ./socket-client localhost 35001
+  989  vim socket-client.c
+  990  make
+  991  vim socket-client.c
+  992  make
+  993  ./socket-client localhost 35001
+  994  vim socket-client.c
+  995  make
+  996  ./socket-client localhost 35001
+  997  vim socket-client.c
+  998  man 2 accept
+  999  man 2 poll
+ 1000  man 2 select
+ 1001  man 2 listen
+ 1002  man 2 connect
+ 1003  man 3 getaddrinfo
+ 1004  man 2 socket
+ 1005  su - shutdown
+ 1006  su- shutdown noe
+ 1007  su- shutdown now
+ 1008  su-
+ 1009  su -
+ 1010  ./socket-server
+ 1011  man 2 accept4
+ 1012  man 2 read
+ 1013  man 2 poll
+ 1014  man 2 select
+ 1015  man 2 shutdown
+ 1016  vim no_imagination.c 
+ 1017  exit
+ 1018  ls
+ 1019  cp socket-client.c no_imagination.c
+ 1020  vim no_imagination.c
+ 1021  ls
+ 1022  ./socket-client
+ 1023  vim no_imagination.c
+ 1024  vim socket-client.c
+ 1025  vim no_imagination.c
+ 1026  vim Makefile
+ 1027  make
+ 1028  vim Makefile
+ 1029  make
+ 1030  ls
+ 1031  gcc no_imagination.c socket_common.h -o server-client
+ 1032  gcc no_imagination.c socket-common.h -o server-client
+ 1033  exit
+ 1034  vim socket-server.c
+ 1035  exit
+ 1036  ./socket-client localhost 35001
+ 1037  cd ..
+ 1038  ls
+ 1039  cd helpcode-lunix-tng-20130319/
+ 1040  ls
+ 1041  vim lunix-chrdev.c
+ 1042  exit
+ 1043  man perror
+ 1044  exit
+ 1045  ls
+ 1046  vim socket-common.h 
+ 1047  vim socket-client.c
+ 1048  exi
+ 1049  exit
+ 1050  ls
+ 1051  vim socket-client.c
+ 1052  make
+ 1053  screen
+ 1054  screen ./socket-server
+ 1055  sudo apt-get install screen
+ 1056  su -
+ 1057  ls
+ 1058  screen ./socket-server
+ 1059  vim no_imagination.c 
+ 1060  ls
+ 1061  ./socket-client localhost 35001
+ 1062  ./server-client localhost 35001
+ 1063  man 2 accept
+ 1064  exit
+ 1065  ls
+ 1066  ./server-client localhost 35001
+ 1067  sdfsd
+ 1068  eixt
+ 1069  exit
+ 1070  man 2 accept
+ 1071  man 2 select
+ 1072  vim no_imagination.c 
+ 1073  man memcpy
+ 1074  ls
+ 1075  ./server-client localhost 35001
+ 1076  man 2 perror
+ 1077  man perror
+ 1078  man 2 connect
+ 1079  man 2 socket
+ 1080  man 2 connect
+ 1081  vim no_imagination.c 
+ 1082  EXIT
+ 1083  exit
+ 1084  vim socket-client.c
+ 1085  exit
+ 1086  ls
+ 1087  cd ..
+ 1088  ls
+ 1089  cd sockets/
+ 1090  ls
+ 1091  vim no_imagination.c 
+ 1092  gcc no_imagination.c -o test
+ 1093  la
+ 1094  vim no_imagination.c 
+ 1095  man -a se;ect
+ 1096  man -a select
+ 1097  man -a select_tut
+ 1098  ls
+ 1099  vim socket-client.c 
+ 1100  make
+ 1101  ls
+ 1102  ./socket-
+ 1103  ./socket-client 
+ 1104  ./socket-server 
+ 1105  ./socket-client 
+ 1106  vim socket-client.c 
+ 1107  make
+ 1108  ./socket-server 
+ 1109  vim socket-client.c 
+ 1110  man shutdown
+ 1111  man -a select
+ 1112  vim socket-client.c 
+ 1113  make
+ 1114  ./socket-server 
+ 1115  vim socket-server.c 
+ 1116  make
+ 1117  ./socket-server
+ 1118  make
+ 1119  vim socket-server.c 
+ 1120  vim socket-client.c 
+ 1121  man perror
+ 1122  vim socket-client.c 
+ 1123  make
+ 1124  ./socket-server
+ 1125  history
+ 1126  gcc no_imagination.c socket-common.h -o server-client
+ 1127  clear
+ 1128  gcc no_imagination.c socket-common.h -o server-client
+ 1129  ls
+ 1130  ./server-client
+ 1131  ./server-client localhost 35001
+ 1132  ./socket-client localhost 35001
+ 1133  gcc no_imagination.c socket-common.h -o server-client
+ 1134  ./server-client localhost 35001
+ 1135  gcc no_imagination.c socket-common.h -o server-client
+ 1136  ./server-client localhost 35001
+ 1137  gcc no_imagination.c socket-common.h -o server-client
+ 1138  ./server-client localhost 35001
+ 1139  gcc no_imagination.c socket-common.h -o server-client
+ 1140  ./server-client localhost 35001
+ 1141  gcc no_imagination.c socket-common.h -o server-client
+ 1142  clear
+ 1143  ./server-client localhost 35001
+ 1144  gcc no_imagination.c socket-common.h -o server-client
+ 1145  ./server-client localhost 35001
+ 1146  clear
+ 1147  ./server-client localhost 35001
+ 1148  exit
+ 1149  ls
+ 1150  ./server-client
+ 1151  ./server-client localhost 35001
+ 1152  clear
+ 1153  exit
+ 1154  man 2 connect
+ 1155  man 2 select
+ 1156  ls
+ 1157  gcc no_imagination.c socket-common.h -o server-client
+ 1158  ./server-client
+ 1159  ./server-client localhost 35001
+ 1160  gcc no_imagination.c socket-common.h -o server-client
+ 1161  ./server-client localhost 35001
+ 1162  gcc no_imagination.c socket-common.h -o server-client
+ 1163  ./server-client localhost 35001
+ 1164  gcc no_imagination.c socket-common.h -o server-client
+ 1165  ./server-client localhost 35001
+ 1166  geia sou
+ 1167  gcc no_imagination.c socket-common.h -o server-client
+ 1168  ./server-client localhost 35001
+ 1169  gcc no_imagination.c socket-common.h -o server-client
+ 1170  ./server-client localhost 35001
+ 1171  gcc no_imagination.c socket-common.h -o server-client
+ 1172  ./server-client localhost 35001
+ 1173  gcc no_imagination.c socket-common.h -o server-client
+ 1174  ./server-client localhost 35001
+ 1175  gcc no_imagination.c socket-common.h -o server-client
+ 1176  ./server-client localhost 35001
+ 1177  gcc no_imagination.c socket-common.h -o server-client
+ 1178  ./server-client localhost 35001
+ 1179  gcc no_imagination.c socket-common.h -o server-client
+ 1180  ./server-client localhost 35001
+ 1181  man 2 fflush
+ 1182  man fflush
+ 1183  gcc no_imagination.c socket-common.h -o server-client
+ 1184  ./server-client localhost 35001
+ 1185  gcc no_imagination.c socket-common.h -o server-client
+ 1186  ./server-client localhost 35001
+ 1187  gcc no_imagination.c socket-common.h -o server-client
+ 1188  ./server-client localhost 35001
+ 1189  gcc no_imagination.c socket-common.h -o server-client
+ 1190  ./server-client localhost 35001
+ 1191  gcc no_imagination.c socket-common.h -o server-client
+ 1192  ./server-client localhost 35001
+ 1193  clear
+ 1194  ./server-client localhost 35001
+ 1195  gedit no_imagination.c
+ 1196  gcc no_imagination.c socket-common.h -o server-client
+ 1197  ./server-client localhost 35001
+ 1198  exit
+ 1199  ./server-client localhost 35001
+ 1200  clear
+ 1201  exit
+ 1202  ls
+ 1203  vim socket-client
+ 1204  vim socket-client.c
+ 1205  vim socket-server.c
+ 1206  ls
+ 1207  gedit no_imagination.c 
+ 1208  exitexit
+ 1209  exit
+ 1210  ./socket-client 
+ 1211  ./socket-client localhost 35001
+ 1212  vim socket-
+ 1213  vim socket-client
+ 1214  vim socket-client.c 
+ 1215  make
+ 1216  gcc -Wall -g -o socket-client socket-client.c
+ 1217  ./socket-server 
+ 1218  ./socket-client localhost 35001
+ 1219  vim socket-client.c 
+ 1220  gcc -Wall -g -o socket-client socket-client.c
+ 1221  ./socket-client localhost 35001
+ 1222  man break
+ 1223  man -a break
+ 1224  ./socket-client localhost 35001
+ 1225  vim socket-client
+ 1226  vim socket-client.x
+ 1227  vim socket-client.c
+ 1228  make
+ 1229  ./socket-client localhost 35001
+ 1230  vim socket-client.c
+ 1231  make
+ 1232  ./socket-client localhost 35001
+ 1233  vim socket-client.c
+ 1234  make
+ 1235  ./socket-client localhost 35001
+ 1236  vim socket-client.c
+ 1237  vim no_imagination.c 
+ 1238  cp no_imagination.c test.c
+ 1239  vim test.c
+ 1240  gcc test.c -o test.o socket-common.h
+ 1241  ./test.o
+ 1242  ./test.o localhost 35001
+ 1243  vim test.c
+ 1244  gcc test.c -o test.o socket-common.h
+ 1245  ./test.o localhost 35001
+ 1246  vim test.c
+ 1247  gcc test.c -o test.o socket-common.h
+ 1248  ./test.o localhost 35001
+ 1249  vim no_imagination.c 
+ 1250  clear
+ 1251  ls
+ 1252  ./server-client
+ 1253  ./server-client localhost 35001
+ 1254  vim no_imagination.c 
+ 1255  man 7 socket
+ 1256  man 2 listn
+ 1257  man 2 listen
+ 1258  vim no_imagination.c 
+ 1259  gcc test.c -o test.o socket-common.h
+ 1260  exit
+ 1261  ./server-client localhost 35001
+ 1262  vim no_imagination.c 
+ 1263  gcc test.c -o test.o socket-common.h
+ 1264  ./server-client localhost 35001
+ 1265  gcc -o server-client no_imagination.c socket-common.h
+ 1266  ./server-client localhost 35001
+ 1267  ls .edv
+ 1268  ls /dev
+ 1269  su -
+ 1270  ls /dev
+ 1271  exit
+ 1272  ./server-client localhost 35001
+ 1273  man 3 strcpy
+ 1274  ./server-client localhost 35001
+ 1275  man 3 strcpy
+ 1276  ./server-client localhost 35001
+ 1277  vim no_imagination.c 
+ 1278  gcc test.c -o test.o socket-common.h
+ 1279  ./server-client localhost 35001
+ 1280  cd ../cryptodev/
+ 1281  ls
+ 1282  vim crypto-test.c
+ 1283  vim no_imagination.c 
+ 1284  exit
+ 1285  cd /proc/
+ 1286  ls
+ 1287  cat crypto 
+ 1288  cd ~/Desktop
+ 1289  ls
+ 1290  cd cryptodev-linux-1.6/
+ 1291  make
+ 1292  ls
+ 1293  insmod cryptodev.ko
+ 1294  su -
+ 1295  ls
+ 1296  exit
+ 1297  x2goclient
+ 1298  su -
+ 1299  exit
+ 1300  ./server-client localhost 35001
+ 1301  exit
+ 1302  su -
+ 1303  exit
+ 1304  vim no_imagination.c
+ 1305  exit
+ 1306  ./server-client localhost 35001
+ 1307  vim no_imagination.c
+ 1308  gcc no_imagination.c socket-common.h -o server-client
+ 1309  vim no_imagination.c
+ 1310  gcc no_imagination.c socket-common.h -o server-client
+ 1311  ./server-client localhost 35001
+ 1312  vim no_imagination.c
+ 1313  gcc no_imagination.c socket-common.h -o server-client
+ 1314  ./server-client localhost 35001
+ 1315  vim no_imagination.c
+ 1316  gcc no_imagination.c socket-common.h -o server-client
+ 1317  ./server-client localhost 35001
+ 1318  vim no_imagination.c
+ 1319  gcc no_imagination.c socket-common.h -o server-client
+ 1320  vim no_imagination.c
+ 1321  gcc no_imagination.c socket-common.h -o server-client
+ 1322  vim no_imagination.c
+ 1323  gcc no_imagination.c socket-common.h -o server-client
+ 1324  ./server-client localhost 35001
+ 1325  gcc no_imagination.c socket-common.h -o server-client
+ 1326  vim no_imagination.c
+ 1327  gcc no_imagination.c socket-common.h -o server-client
+ 1328  ./server-client localhost 35001
+ 1329  vim no_imagination.c
+ 1330  gcc no_imagination.c socket-common.h -o server-client
+ 1331  ./server-client localhost 35001
+ 1332  gcc no_imagination.c socket-common.h -o server-client
+ 1333  vim no_imagination.c
+ 1334  gcc no_imagination.c socket-common.h -o server-client
+ 1335  ./server-client localhost 35001
+ 1336  vim no_imagination.c
+ 1337  gcc no_imagination.c socket-common.h -o server-client
+ 1338  ./server-client localhost 35001
+ 1339  gcc no_imagination.c socket-common.h -o server-client
+ 1340  ./server-client localhost 35001
+ 1341  cd ../cryptodev/
+ 1342  ls
+ 1343  vim crypto-test.c 
+ 1344  ls
+ 1345  ctags crypto-test.c
+ 1346  ls
+ 1347  vim crypto-test.c 
+ 1348  make
+ 1349  lsmod
+ 1350  make
+ 1351  ./crypto-test 
+ 1352  cp ../sockets/no_imagination.c ./
+ 1353  ls
+ 1354  vim no_imagination.c 
+ 1355  make 
+ 1356  vim no_imagination.c 
+ 1357  cp ../sockets/socket-common.h ./
+ 1358  gcc -o test no_imagination.c socket-common.h 
+ 1359  ls
+ 1360  vim no_imagination.c 
+ 1361  gcc -o test no_imagination.c socket-common.h 
+ 1362  clear
+ 1363  gcc -o test no_imagination.c socket-common.h 
+ 1364  vim no_imagination.c 
+ 1365  vim crypto-test.c 
+ 1366  vim no_imagination.c 
+ 1367  gcc -o test no_imagination.c socket-common.h 
+ 1368  cler
+ 1369  clear
+ 1370  gcc -o test no_imagination.c socket-common.h 
+ 1371  vim crypto-test.c 
+ 1372  gcc -o test no_imagination.c socket-common.h 
+ 1373  cd ..
+ 1374  ls
+ 1375  cd sockets/
+ 1376  ls
+ 1377  vim no_imagination.c
+ 1378  ./server-client localhost 35001
+ 1379  exit
+ 1380  man 2 select
+ 1381  man 2 sigprocmask
+ 1382  ls
+ 1383  vim no_imagination.c
+ 1384  cp no_imagination.c select.c
+ 1385  vim select.c
+ 1386  rm select.c
+ 1387  vim select.c
+ 1388  gcc select.c -o select
+ 1389  vim select.c
+ 1390  gcc select.c -o select
+ 1391  ./select
+ 1392  vim select.c
+ 1393  gcc select.c -o select
+ 1394  man 2 write
+ 1395  ./select
+ 1396  vim select.c
+ 1397  gcc select.c -o select
+ 1398  ./select
+ 1399  shutdown -r now
+ 1400  su -
+ 1401  vim no_imagination.c
+ 1402  man vim
+ 1403  vim
+ 1404  exit
+ 1405  ls
+ 1406  vim test.c
+ 1407  vim a.c
+ 1408  gcc a.c a.o
+ 1409  gcc a.c -o a.o
+ 1410  vim a.c
+ 1411  rm a.c; rm a.o
+ 1412  exit
+ 1413  ls
+ 1414  cd ../cryptodev/
+ 1415  ls
+ 1416  exit
+ 1417  cd ../cryptodev/
+ 1418  ls
+ 1419  vim crypting
+ 1420  vim crypting.c
+ 1421  ./crypto-test 
+ 1422  ls
+ 1423  vim under_construction.c 
+ 1424  gcc under_construction.c -o no socket-common.h 
+ 1425  ./no
+ 1426  ./no localhost 35001
+ 1427  vim under_construction.c 
+ 1428  gcc under_construction.c -o no socket-common.h 
+ 1429  ./no localhost 35001
+ 1430  gcc under_construction.c -o no socket-common.h 
+ 1431  vim under_construction.c 
+ 1432  gcc under_construction.c -o no socket-common.h 
+ 1433  ./no localhost 35001
+ 1434  gcc under_construction.c -o no socket-common.h 
+ 1435  vim under_construction.c 
+ 1436  dmesg
+ 1437  :q
+ 1438  man grep
+ 1439  man grep
+ 1440  vim under_construction.c 
+ 1441  history
+ 1442  history > history

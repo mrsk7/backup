@@ -1,0 +1,251 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AALG_MAX_RESULT_LEN	cryptodev.h	72;"	d
+AES_BLOCK_LEN	cryptodev.h	62;"	d
+BLOCK_SIZE	test_crypto.c	25;"	d	file:
+BLOWFISH_BLOCK_LEN	cryptodev.h	64;"	d
+CAMELLIA_BLOCK_LEN	cryptodev.h	63;"	d
+CAST128_BLOCK_LEN	cryptodev.h	66;"	d
+CC	Makefile	/^CC = gcc$/;"	m
+CIOCASYMFEAT	cryptodev.h	276;"	d
+CIOCASYNCCRYPT	cryptodev.h	289;"	d
+CIOCASYNCFETCH	cryptodev.h	290;"	d
+CIOCAUTHCRYPT	cryptodev.h	284;"	d
+CIOCCRYPT	cryptodev.h	274;"	d
+CIOCFSESSION	cryptodev.h	273;"	d
+CIOCGSESSINFO	cryptodev.h	277;"	d
+CIOCGSESSION	cryptodev.h	272;"	d
+CIOCKEY	cryptodev.h	275;"	d
+COP_DECRYPT	cryptodev.h	117;"	d
+COP_ENCRYPT	cryptodev.h	116;"	d
+COP_FLAG_AEAD_SRTP_TYPE	cryptodev.h	216;"	d
+COP_FLAG_AEAD_TLS_TYPE	cryptodev.h	214;"	d
+COP_FLAG_FINAL	cryptodev.h	211;"	d
+COP_FLAG_NONE	cryptodev.h	209;"	d
+COP_FLAG_NO_ZC	cryptodev.h	213;"	d
+COP_FLAG_RESET	cryptodev.h	218;"	d
+COP_FLAG_UPDATE	cryptodev.h	210;"	d
+COP_FLAG_WRITE_IV	cryptodev.h	212;"	d
+CRF_DH_COMPUTE_KEY	cryptodev.h	266;"	d
+CRF_DSA_SIGN	cryptodev.h	264;"	d
+CRF_DSA_VERIFY	cryptodev.h	265;"	d
+CRF_MOD_EXP	cryptodev.h	262;"	d
+CRF_MOD_EXP_CRT	cryptodev.h	263;"	d
+CRIOGET	cryptodev.h	271;"	d
+CRIOGET_NOT_NEEDED	cryptodev.h	281;"	d
+CRK_ALGORITHM_ALL	cryptodev.h	/^	CRK_ALGORITHM_ALL$/;"	e	enum:cryptodev_crk_op_t
+CRK_ALGORITHM_MAX	cryptodev.h	258;"	d
+CRK_DH_COMPUTE_KEY	cryptodev.h	/^	CRK_DH_COMPUTE_KEY = 4,$/;"	e	enum:cryptodev_crk_op_t
+CRK_DSA_SIGN	cryptodev.h	/^	CRK_DSA_SIGN = 2,$/;"	e	enum:cryptodev_crk_op_t
+CRK_DSA_VERIFY	cryptodev.h	/^	CRK_DSA_VERIFY = 3,$/;"	e	enum:cryptodev_crk_op_t
+CRK_MAXPARAM	cryptodev.h	237;"	d
+CRK_MOD_EXP	cryptodev.h	/^	CRK_MOD_EXP = 0,$/;"	e	enum:cryptodev_crk_op_t
+CRK_MOD_EXP_CRT	cryptodev.h	/^	CRK_MOD_EXP_CRT = 1,$/;"	e	enum:cryptodev_crk_op_t
+CRYPTODEV_MAX_ALG_NAME	cryptodev.h	75;"	d
+CRYPTO_3DES_CBC	cryptodev.h	/^	CRYPTO_3DES_CBC = 2,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_AES_CBC	cryptodev.h	/^	CRYPTO_AES_CBC = CRYPTO_RIJNDAEL128_CBC,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_AES_CTR	cryptodev.h	/^	CRYPTO_AES_CTR = 21,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_AES_ECB	cryptodev.h	/^	CRYPTO_AES_ECB = 23,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_AES_GCM	cryptodev.h	/^	CRYPTO_AES_GCM = 50,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_AES_XTS	cryptodev.h	/^	CRYPTO_AES_XTS = 22,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_ALGORITHM_ALL	cryptodev.h	/^	CRYPTO_ALGORITHM_ALL, \/* Keep updated - see below *\/$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_ALGORITHM_MAX	cryptodev.h	56;"	d
+CRYPTO_ALG_FLAG_DSA_SHA	cryptodev.h	230;"	d
+CRYPTO_ALG_FLAG_RNG_ENABLE	cryptodev.h	229;"	d
+CRYPTO_ALG_FLAG_SUPPORTED	cryptodev.h	228;"	d
+CRYPTO_ARC4	cryptodev.h	/^	CRYPTO_ARC4 = 12,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_BLF_CBC	cryptodev.h	/^	CRYPTO_BLF_CBC = 3,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_CAMELLIA_CBC	cryptodev.h	/^	CRYPTO_CAMELLIA_CBC = 101,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_CAST_CBC	cryptodev.h	/^	CRYPTO_CAST_CBC = 4,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_CHRDEV_MAJOR	crypto-chrdev.h	27;"	d
+CRYPTO_CIPHER_MAX_KEY_LEN	cryptodev.h	15;"	d
+CRYPTO_DEFLATE_COMP	cryptodev.h	/^	CRYPTO_DEFLATE_COMP = 15,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_DES_CBC	cryptodev.h	/^	CRYPTO_DES_CBC = 1,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_HMAC_MAX_KEY_LEN	cryptodev.h	14;"	d
+CRYPTO_LZS_COMP	cryptodev.h	/^	CRYPTO_LZS_COMP = 17,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_MD5	cryptodev.h	/^	CRYPTO_MD5 = 13,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_MD5_HMAC	cryptodev.h	/^	CRYPTO_MD5_HMAC = 6,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_MD5_KPDK	cryptodev.h	/^	CRYPTO_MD5_KPDK = 9,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_NR_DEVICES	crypto-chrdev.h	28;"	d
+CRYPTO_NULL	cryptodev.h	/^	CRYPTO_NULL = 16,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_RIJNDAEL128_CBC	cryptodev.h	/^	CRYPTO_RIJNDAEL128_CBC = 11,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_RIPEMD160	cryptodev.h	/^	CRYPTO_RIPEMD160,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_RIPEMD160_HMAC	cryptodev.h	/^	CRYPTO_RIPEMD160_HMAC = 8,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_SHA1	cryptodev.h	/^	CRYPTO_SHA1 = 14,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_SHA1_HMAC	cryptodev.h	/^	CRYPTO_SHA1_HMAC = 7,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_SHA1_KPDK	cryptodev.h	/^	CRYPTO_SHA1_KPDK = 10,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_SHA2_224	cryptodev.h	/^	CRYPTO_SHA2_224,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_SHA2_224_HMAC	cryptodev.h	/^	CRYPTO_SHA2_224_HMAC,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_SHA2_256	cryptodev.h	/^	CRYPTO_SHA2_256,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_SHA2_256_HMAC	cryptodev.h	/^	CRYPTO_SHA2_256_HMAC = 18,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_SHA2_384	cryptodev.h	/^	CRYPTO_SHA2_384,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_SHA2_384_HMAC	cryptodev.h	/^	CRYPTO_SHA2_384_HMAC = 19,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_SHA2_512	cryptodev.h	/^	CRYPTO_SHA2_512,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_SHA2_512_HMAC	cryptodev.h	/^	CRYPTO_SHA2_512_HMAC = 20,$/;"	e	enum:cryptodev_crypto_op_t
+CRYPTO_SKIPJACK_CBC	cryptodev.h	/^	CRYPTO_SKIPJACK_CBC = 5,$/;"	e	enum:cryptodev_crypto_op_t
+DATA_SIZE	test_crypto.c	24;"	d	file:
+DEBUG	Makefile	/^DEBUG = y$/;"	m
+DES3_BLOCK_LEN	cryptodev.h	60;"	d
+DES_BLOCK_LEN	cryptodev.h	59;"	d
+EALG_MAX_BLOCK_LEN	cryptodev.h	69;"	d
+HASH_MAX_LEN	cryptodev.h	77;"	d
+KERNELDIR	Makefile	/^KERNELDIR ?= \/lib\/modules\/$(shell uname -r)\/build$/;"	m
+KERNEL_VERBOSE	Makefile	/^KERNEL_VERBOSE = 'V=1'$/;"	m
+KEY_SIZE	test_crypto.c	26;"	d	file:
+L_CRYPTODEV_H	cryptodev.h	6;"	d
+PWD	Makefile	/^PWD := $(shell pwd)$/;"	m
+RIJNDAEL128_BLOCK_LEN	cryptodev.h	61;"	d
+SIOP_FLAG_KERNEL_DRIVER_ONLY	cryptodev.h	114;"	d
+SKIPJACK_BLOCK_LEN	cryptodev.h	65;"	d
+USER_CFLAGS	Makefile	/^USER_CFLAGS = -Wall -Werror #-m32$/;"	m
+VIRTIO_CRYPTO_BAD_ID	crypto.h	9;"	d
+VIRTIO_CRYPTO_DEVICE_GUEST_OPEN	crypto.h	24;"	d
+VIRTIO_CRYPTO_DEVICE_HOST_CLOSE	crypto.h	26;"	d
+VIRTIO_CRYPTO_DEVICE_HOST_OPEN	crypto.h	25;"	d
+VIRTIO_ID_CRYPTO	crypto.h	7;"	d
+_CRYPTO_CHRDEV_H	crypto-chrdev.h	12;"	d
+_CRYPTO_H	crypto.h	2;"	d
+_CRYPTO_IOCTL	crypto-ioctl.h	2;"	d
+_CRYPTO_VQ_H	crypto-vq.h	2;"	d
+__this_module	virtio_crypto.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__used	virtio_crypto.mod.c	/^__used$/;"	v	file:
+__used	virtio_crypto.mod.c	/^__used$/;"	v	typeref:struct:____versions	file:
+__user	cryptodev.h	10;"	d
+add_inbuf	crypto-vq.c	/^int add_inbuf(struct virtqueue *vq, struct crypto_vq_buffer *buf)$/;"	f
+alg_info	cryptodev.h	/^	struct alg_info {$/;"	s	struct:session_info_op
+alignmask	cryptodev.h	/^	__u16	alignmask;	\/* alignment constraints *\/$/;"	m	struct:session_info_op
+alloc_buf	crypto-vq.c	/^static struct crypto_vq_buffer *alloc_buf(size_t buf_size)$/;"	f	file:
+auth_len	cryptodev.h	/^	__u32	auth_len;	\/* length of auth data *\/$/;"	m	struct:crypt_auth_op
+auth_src	cryptodev.h	/^	__u8	__user *auth_src;	\/* authenticated-only data *\/$/;"	m	struct:crypt_auth_op
+buf	crypto-vq.h	/^	char *buf;$/;"	m	struct:crypto_vq_buffer
+c_ivq	crypto.h	/^	struct virtqueue *c_ivq, *c_ovq;$/;"	m	struct:crypto_device	typeref:struct:crypto_device::virtqueue
+c_ovq	crypto.h	/^	struct virtqueue *c_ivq, *c_ovq;$/;"	m	struct:crypto_device	typeref:struct:crypto_device::
+c_wq	crypto.h	/^	wait_queue_head_t c_wq, i_wq;$/;"	m	struct:crypto_device
+cipher	cryptodev.h	/^	__u32	cipher;		\/* cryptodev_crypto_op_t *\/$/;"	m	struct:session_op
+cipher_info	cryptodev.h	/^	} cipher_info, hash_info;$/;"	m	struct:session_info_op	typeref:struct:session_info_op::alg_info
+cmd	crypto.h	/^	unsigned int cmd;$/;"	m	struct:crypto_data
+control_in_intr	crypto-module.c	/^static void control_in_intr(struct virtqueue *vq)$/;"	f	file:
+control_out_intr	crypto-module.c	/^static void control_out_intr(struct virtqueue *vq)$/;"	f	file:
+cra_driver_name	cryptodev.h	/^		char cra_driver_name[CRYPTODEV_MAX_ALG_NAME];$/;"	m	struct:session_info_op::alg_info
+cra_name	cryptodev.h	/^		char cra_name[CRYPTODEV_MAX_ALG_NAME];$/;"	m	struct:session_info_op::alg_info
+crdrvdata	crypto-module.c	/^struct crypto_driver_data crdrvdata;$/;"	v	typeref:struct:crypto_driver_data
+crdrvdata_lock	crypto-module.c	/^DEFINE_SPINLOCK(crdrvdata_lock);$/;"	v
+crk_iparams	cryptodev.h	/^	__u16	crk_iparams;$/;"	m	struct:crypt_kop
+crk_op	cryptodev.h	/^	__u32	crk_op;		\/* cryptodev_crk_ot_t *\/$/;"	m	struct:crypt_kop
+crk_oparams	cryptodev.h	/^	__u16	crk_oparams;$/;"	m	struct:crypt_kop
+crk_pad1	cryptodev.h	/^	__u32	crk_pad1;$/;"	m	struct:crypt_kop
+crk_param	cryptodev.h	/^	struct crparam	crk_param[CRK_MAXPARAM];$/;"	m	struct:crypt_kop	typeref:struct:crypt_kop::crparam
+crk_status	cryptodev.h	/^	__u32	crk_status;$/;"	m	struct:crypt_kop
+crp_nbits	cryptodev.h	/^	__u32	crp_nbits;$/;"	m	struct:crparam
+crp_p	cryptodev.h	/^	__u8	*crp_p;$/;"	m	struct:crparam
+crparam	cryptodev.h	/^struct crparam {$/;"	s
+crypt	crypto.h	/^		struct crypt_op crypt;$/;"	m	union:crypto_data::__anon1	typeref:struct:crypto_data::__anon1::crypt_op
+crypt_auth_op	cryptodev.h	/^struct crypt_auth_op {$/;"	s
+crypt_kop	cryptodev.h	/^struct crypt_kop {$/;"	s
+crypt_op	cryptodev.h	/^struct crypt_op {$/;"	s
+crypto_chrdev_cdev	crypto-chrdev.c	/^struct cdev crypto_chrdev_cdev;$/;"	v	typeref:struct:cdev
+crypto_chrdev_destroy	crypto-chrdev.c	/^void crypto_chrdev_destroy(void)$/;"	f
+crypto_chrdev_fops	crypto-chrdev.c	/^static struct file_operations crypto_chrdev_fops = $/;"	v	typeref:struct:file_operations	file:
+crypto_chrdev_init	crypto-chrdev.c	/^int crypto_chrdev_init(void)$/;"	f
+crypto_chrdev_ioctl	crypto-chrdev.c	/^static long crypto_chrdev_ioctl(struct file *filp, unsigned int cmd, $/;"	f	file:
+crypto_chrdev_open	crypto-chrdev.c	/^static int crypto_chrdev_open(struct inode *inode, struct file *filp)$/;"	f	file:
+crypto_chrdev_read	crypto-chrdev.c	/^static ssize_t crypto_chrdev_read(struct file *filp, char __user *usrbuf, $/;"	f	file:
+crypto_chrdev_release	crypto-chrdev.c	/^static int crypto_chrdev_release(struct inode *inode, struct file *filp)$/;"	f	file:
+crypto_data	crypto.h	/^typedef struct crypto_data {$/;"	s
+crypto_data	crypto.h	/^} crypto_data;$/;"	t	typeref:struct:crypto_data
+crypto_device	crypto.h	/^struct crypto_device {$/;"	s
+crypto_device_ready	crypto-chrdev.c	/^static bool crypto_device_ready(struct crypto_device *crdev)$/;"	f	file:
+crypto_driver_data	crypto.h	/^struct crypto_driver_data {$/;"	s
+crypto_ioctl	crypto-ioctl.c	/^long crypto_ioctl(struct file *filp, unsigned int cmd, unsigned long arg)$/;"	f
+crypto_vq_buffer	crypto-vq.h	/^struct crypto_vq_buffer {$/;"	s
+cryptodev_crk_op_t	cryptodev.h	/^enum cryptodev_crk_op_t {$/;"	g
+cryptodev_crypto_op_t	cryptodev.h	/^enum cryptodev_crypto_op_t {$/;"	g
+debug	crypto-chrdev.h	19;"	d
+debug	crypto-chrdev.h	21;"	d
+device_has_data	crypto-vq.c	/^bool device_has_data(struct crypto_device *crdev)$/;"	f
+devs	crypto.h	/^	struct list_head devs;$/;"	m	struct:crypto_driver_data	typeref:struct:crypto_driver_data::list_head
+dst	cryptodev.h	/^	__u8	__user *dst;	\/* pointer to output data *\/$/;"	m	struct:crypt_op
+dst	cryptodev.h	/^	__u8	__user *dst;	\/* pointer to output data. Must have$/;"	m	struct:crypt_auth_op
+dstp	crypto.h	/^	uint8_t dstp[CRYPTO_DATA_MAX_LEN];$/;"	m	struct:crypto_data
+event	crypto.h	/^	__u16 event;            \/* The kind of control event (see below) *\/$/;"	m	struct:virtio_crypto_control
+fd	crypto.h	/^	int fd;$/;"	m	struct:crypto_device
+features	crypto-module.c	/^static unsigned int features[] = {$/;"	v	file:
+fill_queue	crypto-vq.c	/^unsigned int fill_queue(struct virtqueue *vq, spinlock_t *lock)$/;"	f
+fill_readbuf	crypto-vq.c	/^ssize_t fill_readbuf(struct crypto_device *crdev, char *out_buf, $/;"	f
+fill_urandom_buff	test_crypto.c	/^int fill_urandom_buff(char in[DATA_SIZE]){$/;"	f
+find_vqs	crypto-module.c	/^static int find_vqs(struct crypto_device *crdev)$/;"	f	file:
+fini	crypto-module.c	/^module_exit(fini);$/;"	v
+fini	crypto-module.c	/^static void __exit fini(void)$/;"	f	file:
+flags	cryptodev.h	/^	__u16	flags;		\/* see COP_FLAG_* *\/$/;"	m	struct:crypt_op
+flags	cryptodev.h	/^	__u16	flags;		\/* see COP_FLAG_AEAD_* *\/$/;"	m	struct:crypt_auth_op
+flags	cryptodev.h	/^	__u32   flags;          \/* SIOP_FLAGS_* *\/$/;"	m	struct:session_info_op
+free_buf	crypto-vq.c	/^void free_buf(struct crypto_vq_buffer *buf)$/;"	f
+get_crypto_dev_by_minor	crypto-chrdev.c	/^static struct crypto_device *get_crypto_dev_by_minor(unsigned int minor)$/;"	f	file:
+get_inbuf	crypto-vq.c	/^struct crypto_vq_buffer *get_inbuf(struct crypto_device *crdev)$/;"	f
+handle_control_message	crypto-module.c	/^static void handle_control_message(struct crypto_device *crdev,$/;"	f	file:
+hash_info	cryptodev.h	/^	} cipher_info, hash_info;$/;"	m	struct:session_info_op	typeref:struct:session_info_op::alg_info
+i_wq	crypto.h	/^	wait_queue_head_t c_wq, i_wq;$/;"	m	struct:crypto_device
+id_table	crypto-module.c	/^static struct virtio_device_id id_table[] = {$/;"	v	typeref:struct:virtio_device_id	file:
+in_intr	crypto-module.c	/^static void in_intr(struct virtqueue *vq)$/;"	f	file:
+inbuf	crypto.h	/^	struct crypto_vq_buffer *inbuf;$/;"	m	struct:crypto_device	typeref:struct:crypto_device::crypto_vq_buffer
+init	crypto-module.c	/^module_init(init);$/;"	v
+init	crypto-module.c	/^static int __init init(void)$/;"	f	file:
+iv	cryptodev.h	/^	__u8	__user *iv;$/;"	m	struct:crypt_auth_op
+iv	cryptodev.h	/^	__u8	__user *iv;$/;"	m	struct:crypt_op
+iv_len	cryptodev.h	/^	__u32   iv_len;$/;"	m	struct:crypt_auth_op
+ivp	crypto.h	/^	uint8_t ivp[CRYPTO_BLOCK_MAX_LEN];$/;"	m	struct:crypto_data
+ivq	crypto.h	/^	struct virtqueue *ivq, *ovq;$/;"	m	struct:crypto_device	typeref:struct:crypto_device::virtqueue
+key	cryptodev.h	/^	__u8	__user *key;$/;"	m	struct:session_op
+keylen	cryptodev.h	/^	__u32	keylen;$/;"	m	struct:session_op
+keyp	crypto.h	/^	uint8_t keyp[CRYPTO_CIPHER_MAX_KEY_LEN];$/;"	m	struct:crypto_data
+len	crypto-vq.h	/^	size_t len;$/;"	m	struct:crypto_vq_buffer
+len	cryptodev.h	/^	__u32	len;		\/* length of source data *\/$/;"	m	struct:crypt_auth_op
+len	cryptodev.h	/^	__u32	len;		\/* length of source data *\/$/;"	m	struct:crypt_op
+list	crypto.h	/^	struct list_head list;$/;"	m	struct:crypto_device	typeref:struct:crypto_device::list_head
+mac	cryptodev.h	/^	__u32	mac;		\/* cryptodev_crypto_op_t *\/$/;"	m	struct:session_op
+mac	cryptodev.h	/^	__u8	__user *mac;$/;"	m	struct:crypt_op
+mackey	cryptodev.h	/^	__u8	__user *mackey;$/;"	m	struct:session_op
+mackeylen	cryptodev.h	/^	__u32	mackeylen;$/;"	m	struct:session_op
+main	test_crypto.c	/^int main(int argc, char **argv)$/;"	f
+minor	crypto.h	/^	unsigned int minor;$/;"	m	struct:crypto_device
+next_minor	crypto.h	/^	unsigned int next_minor;$/;"	m	struct:crypto_driver_data
+obj-m	Makefile	/^obj-m := virtio_crypto.o$/;"	m
+offset	crypto-vq.h	/^	size_t offset;$/;"	m	struct:crypto_vq_buffer
+op	crypto.h	/^	} op;$/;"	m	struct:crypto_data	typeref:union:crypto_data::__anon1
+op	cryptodev.h	/^	__u16	op;		\/* COP_ENCRYPT or COP_DECRYPT *\/$/;"	m	struct:crypt_auth_op
+op	cryptodev.h	/^	__u16	op;		\/* COP_ENCRYPT or COP_DECRYPT *\/$/;"	m	struct:crypt_op
+out_intr	crypto-module.c	/^static void out_intr(struct virtqueue *vq)$/;"	f	file:
+ovq	crypto.h	/^	struct virtqueue *ivq, *ovq;$/;"	m	struct:crypto_device	typeref:struct:crypto_device::
+ovq_full	crypto.h	/^	bool ovq_full;$/;"	m	struct:crypto_device
+reclaim_consumed_buffers	crypto-vq.c	/^void reclaim_consumed_buffers(struct crypto_device *crdev)$/;"	f
+sem	crypto.h	/^	struct semaphore *sem;$/;"	m	struct:crypto_device	typeref:struct:crypto_device::semaphore
+send_buf	crypto-vq.c	/^ssize_t send_buf(struct crypto_device *crdev, void *in_buf, size_t in_count,$/;"	f
+send_control_msg	crypto-vq.c	/^ssize_t send_control_msg(struct crypto_device *crdev, unsigned int event,$/;"	f
+ses	cryptodev.h	/^	__u32	ses;		\/* session identifier *\/$/;"	m	struct:crypt_auth_op
+ses	cryptodev.h	/^	__u32	ses;		\/* session identifier *\/$/;"	m	struct:crypt_op
+ses	cryptodev.h	/^	__u32	ses;		\/* session identifier *\/$/;"	m	struct:session_op
+ses	cryptodev.h	/^	__u32 ses;		\/* session identifier *\/$/;"	m	struct:session_info_op
+sess	crypto.h	/^		struct session_op sess;$/;"	m	union:crypto_data::__anon1	typeref:struct:crypto_data::__anon1::session_op
+sess_id	crypto.h	/^		uint32_t sess_id;$/;"	m	union:crypto_data::__anon1
+session_info_op	cryptodev.h	/^struct session_info_op {$/;"	s
+session_op	cryptodev.h	/^struct session_op {$/;"	s
+size	crypto-vq.h	/^	size_t size;$/;"	m	struct:crypto_vq_buffer
+src	cryptodev.h	/^	__u8	__user *src;	\/* data to be encrypted and authenticated *\/$/;"	m	struct:crypt_auth_op
+src	cryptodev.h	/^	__u8	__user *src;	\/* source data *\/$/;"	m	struct:crypt_op
+srcp	crypto.h	/^	uint8_t srcp[CRYPTO_DATA_MAX_LEN];$/;"	m	struct:crypto_data
+tag	cryptodev.h	/^	__u8    __user *tag;    \/* where the tag will be copied to. TLS mode$/;"	m	struct:crypt_auth_op
+tag_len	cryptodev.h	/^	__u32	tag_len;	\/* the length of the tag. Use zero for digest size or max tag. *\/$/;"	m	struct:crypt_auth_op
+test_crypto	test_crypto.c	/^static int test_crypto(int cfd)$/;"	f	file:
+unused	crypto.h	/^	__u32 unused;$/;"	m	struct:virtio_crypto_config
+value	crypto.h	/^	short value;            \/* Extra information for the key *\/$/;"	m	struct:virtio_crypto_control
+vdev	crypto.h	/^	struct virtio_device *vdev;$/;"	m	struct:crypto_device	typeref:struct:crypto_device::virtio_device
+virtcons_probe	crypto-module.c	/^static int __devinit virtcons_probe(struct virtio_device *vdev)$/;"	f	file:
+virtcons_remove	crypto-module.c	/^static void virtcons_remove(struct virtio_device *vdev)$/;"	f	file:
+virtio_crypto	crypto-module.c	/^static struct virtio_driver virtio_crypto = {$/;"	v	typeref:struct:virtio_driver	file:
+virtio_crypto-objs	Makefile	/^virtio_crypto-objs := crypto-module.o crypto-chrdev.o crypto-vq.o crypto-ioctl.o$/;"	m
+virtio_crypto_config	crypto.h	/^struct virtio_crypto_config {$/;"	s
+virtio_crypto_control	crypto.h	/^struct virtio_crypto_control {$/;"	s

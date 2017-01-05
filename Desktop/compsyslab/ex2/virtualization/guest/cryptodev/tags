@@ -1,0 +1,13 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BLOCK_SIZE	crypto-test.c	26;"	d	file:
+DATA_SIZE	crypto-test.c	25;"	d	file:
+KEY_SIZE	crypto-test.c	27;"	d	file:
+fill_urandom_buf	crypto-test.c	/^static int fill_urandom_buf(unsigned char *buf, size_t cnt)$/;"	f	file:
+insist_read	crypto-test.c	/^ssize_t insist_read(int fd, void *buf, size_t cnt)$/;"	f
+main	crypto-test.c	/^int main(void)$/;"	f
+test_crypto	crypto-test.c	/^static int test_crypto(int cfd)$/;"	f	file:
